@@ -1,0 +1,1751 @@
+,Name of Movie,Star1,Star2,Star3,Votes,Genre1,Genre2,Genre3,Gross_Collection,Popularity,Certification
+0,Sadak 2,Alia Bhatt,Priyanka Bose,Sanjay Dutt," 50,471",Action,Drama,-,-,-,TV-MA
+1,Spider-Man: Across the Spider-Verse,Shameik Moore,Hailee Steinfeld,Brian Tyree Henry," 2,719,947 ",Animation,Action,Adventure,"$120,500,000",2,PG
+2,The Dark Knight,Christian Bale,Heath Ledger,Aaron Eckhart," 1,888,117 ",Action,Crime,Drama,"$534,987,076",105,PG-13
+3,The Lord of the Rings: The Return of the King,Elijah Wood,Viggo Mortensen,Ian McKellen," 2,414,457 ",Action,Adventure,Drama,"$379,427,292",338,PG-13
+4,Inception,Leonardo DiCaprio,Joseph Gordon-Levitt,Elliot Page," 1,916,724 ",Action,Adventure,Sci-Fi,"$292,587,330",101,PG-13
+5,The Lord of the Rings: The Fellowship of the Ring,Elijah Wood,Ian McKellen,Orlando Bloom," 1,704,165 ",Action,Adventure,Drama,Color,154,PG-13
+6,The Lord of the Rings: The Two Towers,Elijah Wood,Ian McKellen,Viggo Mortensen," 1,958,969 ",Action,Adventure,Drama,"$342,952,511",636,PG-13
+7,The Matrix,Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss," 1,321,848 ",Action,Sci-Fi,-,"$172,076,928",209,R
+8,Star Wars: Episode V - The Empire Strikes Back,Mark Hamill,Harrison Ford,Carrie Fisher," 119,541",Action,Adventure,Fantasy,Color,665,PG
+9,Soorarai Pottru,Suriya,Paresh Rawal,Urvashi," 1,394,303 ",Action,Drama,-,-,-,TV-MA
+10,Star Wars: Episode IV - A New Hope,Mark Hamill,Harrison Ford,Carrie Fisher," 1,123,665 ",Action,Adventure,Fantasy,United States,247,PG
+11,Terminator 2: Judgment Day,Arnold Schwarzenegger,Linda Hamilton,Edward Furlong," 352,980 ",Action,Sci-Fi,-,United States,363,R
+12,Seven Samurai,Toshirô Mifune,Takashi Shimura,Keiko Tsushima," 61,050",Action,Drama,-,"$318,649","1,483",Not Rated
+13,Harakiri,Tatsuya Nakadai,Akira Ishihama,Shima Iwashita," 60,011",Action,Drama,Mystery,-,"3,146",Not Rated
+14,Sita Ramam,Dulquer Salmaan,Mrunal Thakur,Rashmika Mandanna," 1,190,035 ",Action,Drama,Mystery,Color,-,-
+15,Léon: The Professional,Jean Reno,Gary Oldman,Natalie Portman," 1,536,974 ",Action,Crime,Drama,"$19,501,238",224,R
+16,Gladiator,Russell Crowe,Joaquin Phoenix,Connie Nielsen," 571,554 ",Action,Adventure,Drama,Color,243,R
+17,Spider-Man: Into the Spider-Verse,Shameik Moore,Jake Johnson,Hailee Steinfeld," 1,181,261 ",Animation,Action,Adventure,"$190,241,310",15,PG
+18,Indiana Jones and the Raiders of the Lost Ark,Harrison Ford,Karen Allen,Paul Freeman," 987,273 ",Action,Adventure,-,"$248,159,971",73,PG
+19,Avengers: Endgame,Robert Downey Jr.,Chris Evans,Mark Ruffalo," 1,124,570 ",Action,Adventure,Drama,"$858,373,000",128,PG-13
+20,Avengers: Infinity War,Robert Downey Jr.,Chris Hemsworth,Mark Ruffalo," 596,759 ",Action,Adventure,Sci-Fi,"$678,815,482",263,PG-13
+21,Oldboy,Choi Min-sik,Yoo Ji-tae,Kang Hye-jeong," 1,742,522 ",Action,Drama,Mystery,"$707,481",314,R
+22,The Dark Knight Rises,Christian Bale,Tom Hardy,Anne Hathaway," 732,856 ",Action,Drama,Thriller,"$448,149,584",368,PG-13
+23,Aliens,Sigourney Weaver,Michael Biehn,Carrie Henn," 36,154",Action,Adventure,Sci-Fi,Color,401,R
+24,Kaithi,Karthi,Narain,Arjun Das," 31,212",Action,Adventure,Crime,-,"4,362",Not Rated
+25,Asuran,Dhanush,Manju Warrier,Prakash Raj," 591,364 ",Action,Drama,-,-,-,Not Rated
+26,Top Gun: Maverick,Tom Cruise,Jennifer Connelly,Miles Teller," 676,953 ",Action,Drama,-,"$718,732,821",41,PG-13
+27,Heat,Al Pacino,Robert De Niro,Val Kilmer," 1,078,175 ",Action,Crime,Drama,Color,79,R
+28,North by Northwest,Cary Grant,Eva Marie Saint,James Mason," 407,027 ",Action,Adventure,Mystery,Color,336,Approved
+29,Star Wars: Episode VI - Return of the Jedi,Mark Hamill,Harrison Ford,Carrie Fisher," 334,745 ",Action,Adventure,Fantasy,United States,427,PG
+30,Princess Mononoke,Yôji Matsuda,Yuriko Ishida,Yûko Tanaka," 95,556",Animation,Action,Adventure,Color,"1,386",PG-13
+31,Kantara,Rishab Shetty,Kishore Kumar G.,Achyuth Kumar," 197,438 ",Action,Adventure,Drama,Color,"3,609",Not Rated
+32,Dangal,Aamir Khan,Sakshi Tanwar,Fatima Sana Shaikh," 139,702 ",Action,Biography,Drama,-,"4,661",Not Rated
+33,Raatchasan,Vishnu Vishal,Amala Paul,Radha Ravi," 63,902",Action,Crime,Drama,-,-,Not Rated
+34,K.G.F: Chapter 2,Yash,Sanjay Dutt,Raveena Tandon," 46,976",Action,Crime,Drama,Color,-,Not Rated
+35,Vikram,Kamal Haasan,Vijay Sethupathi,Fahadh Faasil," 124,840",Action,Crime,Thriller,Color,-,-
+36,Shershaah,Sidharth Malhotra,Kiara Advani,Shiv Panditt," 156,973",Action,Biography,Drama,-,-,TV-14
+37,Guardians of the Galaxy Vol. 3,Chris Pratt,Chukwudi Iwuji,Bradley Cooper," 798,368 ",Action,Adventure,Comedy,United StatesNew ZealandFranceCanada,6,PG-13
+38,Spider-Man: No Way Home,Tom Holland,Zendaya,Benedict Cumberbatch," 1,014,461 ",Action,Adventure,Fantasy,United States,84,PG-13
+39,Jurassic Park,Sam Neill,Laura Dern,Jeff Goldblum," 771,692 ",Action,Adventure,Sci-Fi,"$404,214,720",140,PG-13
+40,Indiana Jones and the Last Crusade,Harrison Ford,Sean Connery,Alison Doody," 621,647 ",Action,Adventure,-,Color,195,PG-13
+41,1917,Dean-Charles Chapman,George MacKay,Daniel Mays," 1,141,295 ",Action,Drama,War,Color,420,R
+42,Batman Begins,Christian Bale,Michael Caine,Ken Watanabe," 1,504,007 ",Action,Crime,Drama,Color,493,PG-13
+43,Kill Bill: Vol. 1,Uma Thurman,David Carradine,Daryl Hannah," 901,674 ",Action,Crime,Drama,"$70,099,045",530,R
+44,Die Hard,Bruce Willis,Alan Rickman,Bonnie Bedelia," 1,141,217 ",Action,Thriller,-,Color,617,R
+45,V for Vendetta,Hugo Weaving,Natalie Portman,Rupert Graves," 64,484 ",Action,Drama,Sci-Fi,Color,"1,034",R
+46,Demon Slayer the Movie: Mugen Train,Natsuki Hanae,Akari Kitô,Yoshitsugu Matsuoka," 129,241 ",Animation,Action,Adventure,Color,"2,048",TV-14
+47,Ran,Tatsuya Nakadai,Akira Terao,Jinpachi Nezu," 99,395",Action,Drama,War,Color,"2,565",R
+48,Gangs of Wasseypur,Manoj Bajpayee,Nawazuddin Siddiqui,Tigmanshu Dhulia," 47,713",Action,Comedy,Crime,Color,"4,385",Not Rated
+49,Vikram Vedha,Madhavan,Vijay Sethupathi,Shraddha Srinath," 106,781 ",Action,Crime,Drama,Color,"4,613",Not Rated
+50,Yojimbo,Toshirô Mifune,Eijirô Tôno,Tatsuya Nakadai," 125,919",Action,Drama,Thriller,Black and White,"4,897",Not Rated
+51,Uri: The Surgical Strike,Vicky Kaushal,Paresh Rawal,Mohit Raina," 67,411 ",Action,Drama,History,-,-,Not Rated
+52,Baahubali 2: The Conclusion,Prabhas,Rana Daggubati,Anushka Shetty," 91,652",Action,Drama,-,Color,-,Not Rated
+53,K.G.F: Chapter 1,Yash,Srinidhi Shetty,Ramachandra Raju," 52,494 ",Action,Crime,Drama,Color,-,Not Rated
+54,Rangasthalam 1985,Ram Charan,Samantha Ruth Prabhu,Aadhi," 26,158 ",Action,Drama,-,-,-,Not Rated
+55,Sherlock Jr.,Buster Keaton,Kathryn McGuire,Joe Keaton," 109,190",Action,Comedy,Romance,-,-,Passed
+56,The Mountain II,Caglar Ertugrul,Ufuk Bayraktar,Ahu Türkpençe," 37,052 ",Action,Drama,War,Color,-,-
+57,Paan Singh Tomar,Irrfan Khan,Mahie Gill,Rajesh Abhay," 1,030,766 ",Action,Biography,Crime,Color,-,Not Rated
+58,Mad Max: Fury Road,Tom Hardy,Charlize Theron,Nicholas Hoult," 1,154,245 ",Action,Adventure,Sci-Fi,"$154,109,060",163,R
+59,Pirates of the Caribbean: The Curse of the Black Pearl,Johnny Depp,Geoffrey Rush,Orlando Bloom," 788,349 ",Action,Adventure,Fantasy,"$305,413,918",269,PG-13
+60,Blade Runner,Harrison Ford,Rutger Hauer,Sean Young," 419,415 ",Action,Drama,Sci-Fi,"$32,914,489",290,R
+61,Ford v Ferrari,Matt Damon,Christian Bale,Jon Bernthal," 885,861 ",Action,Biography,Drama,Color,344,PG-13
+62,The Terminator,Arnold Schwarzenegger,Linda Hamilton,Michael Biehn," 788,029 ",Action,Sci-Fi,-,United KingdomUnited States,360,R
+63,Logan,Hugh Jackman,Patrick Stewart,Dafne Keen," 761,789 ",Action,Drama,Sci-Fi,Color,650,R
+64,How to Train Your Dragon,Jay Baruchel,Gerard Butler,Christopher Mintz-Plasse," 595,493 ",Animation,Action,Adventure,Color,748,PG
+65,Rush,Daniel Brühl,Chris Hemsworth,Olivia Wilde," 491,363 ",Action,Biography,Drama,Color,937,R
+66,"Lock, Stock and Two Smoking Barrels",Jason Flemyng,Dexter Fletcher,Nick Moran," 482,007 ",Action,Comedy,Crime,Color,"1,009",R
+67,Warrior,Tom Hardy,Nick Nolte,Joel Edgerton," 209,339 ",Action,Drama,Sport,Color,"1,321",PG-13
+68,The Iron Giant,Eli Marienthal,Harry Connick Jr.,Jennifer Aniston," 58,621",Animation,Action,Adventure,Dolby DigitalSDDSDTSDolby,"1,939",PG
+69,Neon Genesis Evangelion: The End of Evangelion,Megumi Ogata,Megumi Hayashibara,Yûko Miyamura," 57,090",Animation,Action,Drama,Color,"4,960",TV-MA
+70,The General,Buster Keaton,Marion Mack,Glen Cavender," 91,975 ",Action,Adventure,Comedy,Silent,-,Passed
+71,Bajrangi Bhaijaan,Salman Khan,Harshaali Malhotra,Nawazuddin Siddiqui," 93,925 ",Action,Adventure,Comedy,-,-,Not Rated
+72,Sholay,Sanjeev Kumar,Dharmendra,Amitabh Bachchan," 40,473",Action,Adventure,Comedy,-,-,Not Rated
+73,The Hidden Fortress,Toshirô Mifune,Misa Uehara,Minoru Chiaki," 34,298",Action,Adventure,Drama,-,-,Not Rated
+74,White Heat,James Cagney,Virginia Mayo,Edmond O'Brien," 80,235",Action,Crime,Drama,-,-,Not Rated
+75,A Wednesday,Anupam Kher,Naseeruddin Shah,Veerendra Saxena," 30,492",Action,Crime,Drama,Color,-,Not Rated
+76,Sarfarosh,Aamir Khan,Naseeruddin Shah,Sonali Bendre," 26,232",Action,Drama,Thriller,-,-,Not Rated
+77,Major,Adivi Sesh,Prakash Raj,Revathi," 69,446",Action,Biography,Drama,Color,-,-
+78,Hera Pheri,Akshay Kumar,Suniel Shetty,Paresh Rawal," 28,340",Action,Comedy,Crime,-,-,Not Rated
+79,Thuppakki,Joseph Vijay,Kajal Aggarwal,Vidyut Jammwal," 35,923",Action,Thriller,-,-,-,Not Rated
+80,Kaththi,Joseph Vijay,Samantha Ruth Prabhu,Neil Nitin Mukesh," 190,955",Action,Drama,-,-,-,Not Rated
+81,John Wick: Chapter 4,Keanu Reeves,Laurence Fishburne,George Georgiou," 1,219,591 ",Action,Crime,Thriller,United StatesGermany,3,R
+82,Guardians of the Galaxy,Chris Pratt,Vin Diesel,Bradley Cooper," 679,591 ",Action,Adventure,Comedy,"$333,718,600",59,PG-13
+83,Dune,Timothée Chalamet,Rebecca Ferguson,Zendaya," 604,432 ",Action,Adventure,Drama,"$108,327,830",80,PG-13
+84,Blade Runner 2049,Harrison Ford,Ryan Gosling,Ana de Armas," 1,068,560 ",Action,Drama,Mystery,Color,149,R
+85,Deadpool,Ryan Reynolds,Morena Baccarin,T.J. Miller," 1,416,636 ",Action,Comedy,-,United States,286,R
+86,The Avengers,Robert Downey Jr.,Chris Evans,Scarlett Johansson," 762,103 ",Action,Sci-Fi,-,"$623,357,910",392,PG-13
+87,The Incredibles,Craig T. Nelson,Samuel L. Jackson,Holly Hunter," 671,205 ",Animation,Action,Adventure,Black and WhiteColor,685,PG
+88,Casino Royale,Daniel Craig,Eva Green,Judi Dench," 828,274 ",Action,Adventure,Thriller,Color,695,PG-13
+89,The Revenant,Leonardo DiCaprio,Tom Hardy,Will Poulter," 193,788 ",Action,Adventure,Drama,Hong KongTaiwanUnited States,863,R
+90,Akira,Mitsuo Iwata,Nozomu Sasaki,Mami Koyama," 774,302 ",Animation,Action,Drama,Color,"1,124",R
+91,Kill Bill: Vol. 2,Uma Thurman,David Carradine,Michael Madsen," 228,502",Action,Crime,Thriller,ColorBlack and White,"1,728",R
+92,The Bourne Ultimatum,Matt Damon,Edgar Ramírez,Joan Allen," 644,303 ",Action,Mystery,Thriller,"$227,471,070","1,747",PG-13
+93,Ip Man,Donnie Yen,Simon Yam,Siu-Wong Fan," 130,022 ",Action,Biography,Drama,-,"1,807",R
+94,Infernal Affairs,Andy Lau,Tony Leung Chiu-wai,Anthony Chau-Sang Wong," 127,694 ",Action,Crime,Drama,ColorBlack and White,"4,070",R
+95,Wolfwalkers,Honor Kneafsey,Eva Whittaker,Sean Bean," 35,201",Animation,Action,Adventure,Color,"4,755",PG
+96,Baahubali: The Beginning,Prabhas,Rana Daggubati,Anushka Shetty," 106,768 ",Action,Drama,-,Dolby Surround 7.1Dolby AtmosDolby DigitalDTS-StereoIMAX 6-Track,-,Not Rated
+97,Elite Squad,Wagner Moura,André Ramiro,Caio Junqueira," 56,102 ",Action,Crime,Drama,-,-,R
+98,Sanjuro,Toshirô Mifune,Tatsuya Nakadai,Keiju Kobayashi," 39,455",Action,Drama,Thriller,-,-,Not Rated
+99,Haider,Shahid Kapoor,Tabu,Shraddha Kapoor," 84,755 ",Action,Crime,Drama,-,-,Not Rated
+100,Elite Squad 2: The Enemy Within,Wagner Moura,Irandhir Santos,André Ramiro," 40,371 ",Action,Crime,Drama,-,-,Not Rated
+101,Tae Guk Gi: The Brotherhood of War,Jang Dong-Gun,Won Bin,Eun-ju Lee," 54,216",Action,Drama,War,Color,-,R
+102,Karthikeya 2,Nikhil Siddharth,Anupama Parameswaran,Srinivasa Reddy," 63,239",Action,Adventure,Fantasy,-,-,-
+103,Andaz Apna Apna,Aamir Khan,Salman Khan,Raveena Tandon," 26,296",Action,Comedy,Romance,-,-,Not Rated
+104,Arjun Reddy,Vijay Deverakonda,Shalini Pandey,Jia Sharma," 45,898",Action,Drama,Romance,-,-,Not Rated
+105,Nefes: Vatan Sagolsun,Mete Horozoglu,Ilker Kizmaz,Baris Bagci," 34,399",Action,Drama,Thriller,-,-,-
+106,1: Nenokkadine,Mahesh Babu,Kriti Sanon,Nassar," 1,342,590 ",Action,Thriller,-,-,-,Not Rated
+107,Avatar,Sam Worthington,Zoe Saldana,Sigourney Weaver," 1,083,023 ",Action,Adventure,Fantasy,"$785,221,649",276,PG-13
+108,Iron Man,Robert Downey Jr.,Gwyneth Paltrow,Terrence Howard," 413,048",Action,Adventure,Sci-Fi,United StatesCanada,330,PG-13
+109,Zack Snyder's Justice League,Henry Cavill,Ben Affleck,Gal Gadot," 776,736 ",Action,Adventure,Fantasy,United States,406,R
+110,Thor: Ragnarok,Chris Hemsworth,Tom Hiddleston,Cate Blanchett," 610,479 ",Action,Adventure,Comedy,"$315,058,289",671,PG-13
+111,Star Trek,Chris Pine,Zachary Quinto,Simon Pegg," 699,595 ",Action,Adventure,Sci-Fi,"$257,730,019",696,PG-13
+112,Edge of Tomorrow,Tom Cruise,Emily Blunt,Bill Paxton," 559,007 ",Action,Adventure,Sci-Fi,Color,735,PG-13
+113,The Bourne Identity,Franka Potente,Matt Damon,Chris Cooper," 725,291 ",Action,Mystery,Thriller,Color,910,PG-13
+114,X-Men: Days of Future Past,Patrick Stewart,Ian McKellen,Hugh Jackman," 511,841 ",Action,Adventure,Sci-Fi,"$233,921,534","1,047",PG-13
+115,Children of Men,Julianne Moore,Clive Owen,Chiwetel Ejiofor," 205,965 ",Action,Drama,Sci-Fi,Color,"1,145",R
+116,The Blues Brothers,John Belushi,Dan Aykroyd,Cab Calloway," 695,248 ",Action,Adventure,Comedy,Color,"1,432",R
+117,District 9,Sharlto Copley,David James,Jason Cope," 275,728 ",Action,Sci-Fi,Thriller,Color,"1,477",R
+118,"Crouching Tiger, Hidden Dragon",Chow Yun-Fat,Michelle Yeoh,Ziyi Zhang," 223,525 ",Action,Adventure,Drama,Color,"1,763",PG-13
+119,A Fistful of Dollars,Clint Eastwood,Gian Maria Volontè,Marianne Koch," 148,585 ",Action,Drama,Western,Color,"2,117",R
+120,Ghost in the Shell,Atsuko Tanaka,Iemasa Kayumi,Akio Ôtsuka," 127,182 ",Animation,Action,Crime,"$889,074","2,276",TV-MA
+121,The Raid 2,Iko Uwais,Yayan Ruhian,Arifin Putra," 184,479 ",Action,Crime,Thriller,Color,"3,256",R
+122,Hero,Jet Li,Tony Leung Chiu-wai,Maggie Cheung," 87,448 ",Action,Adventure,Drama,ColorBlack and White,"3,577",PG-13
+123,The Wild Bunch,William Holden,Ernest Borgnine,Robert Ryan," 166,317 ",Action,Adventure,Drama,Color,"3,640",R
+124,Letters from Iwo Jima,Ken Watanabe,Kazunari Ninomiya,Tsuyoshi Ihara," 27,451 ",Action,Adventure,Drama,Color,"3,753",R
+125,A Taxi Driver,Song Kang-ho,Thomas Kretschmann,Hae-Jin Yoo," 52,843 ",Action,Drama,History,Color,-,Not Rated
+126,The Adventures of Robin Hood,Errol Flynn,Olivia de Havilland,Basil Rathbone," 58,829",Action,Adventure,Romance,Color,-,PG
+127,Baby,Akshay Kumar,Danny Denzongpa,Rana Daggubati," 57,859",Action,Crime,Thriller,-,-,Not Rated
+128,Airlift,Akshay Kumar,Nimrat Kaur,Kumud Mishra," 40,558",Action,Drama,History,-,-,Not Rated
+129,Vishwaroopam,Pooja Kumar,Miles Anderson,Kamal Haasan," 450,375 ",Action,Thriller,-,Color,-,Not Rated
+130,Everything Everywhere All at Once,Michelle Yeoh,Stephanie Hsu,Jamie Lee Curtis," 700,937 ",Action,Adventure,Comedy,"$77,191,785",56,R
+131,The Batman,Robert Pattinson,Zoë Kravitz,Jeffrey Wright," 360,955 ",Action,Crime,Drama,"$369,345,583",95,PG-13
+132,The Gentlemen,Matthew McConaughey,Charlie Hunnam,Michelle Dockery," 206,348",Action,Comedy,Crime,Color,191,R
+133,All Quiet on the Western Front,Felix Kammerer,Albrecht Schuch,Aaron Hilmer," 150,614 ",Action,Drama,War,-,210,R
+134,RRR,N.T. Rama Rao Jr.,Ram Charan,Ajay Devgn," 658,199 ",Action,Drama,-,Color,348,Not Rated
+135,Rogue One: A Star Wars Story,Felicity Jones,Diego Luna,Alan Tudyk," 664,991 ",Action,Adventure,Sci-Fi,"$533,539,991",378,PG-13
+136,Drive,Ryan Gosling,Carey Mulligan,Bryan Cranston," 682,828 ",Action,Drama,-,"$35,061,555",386,R
+137,Dunkirk,Fionn Whitehead,Barry Keoghan,Mark Rylance," 320,272 ",Action,Drama,History,"$189,740,665",455,PG-13
+138,Apocalypto,Gerardo Taracena,Raoul Max Trujillo,Dalia Hernández," 947,704 ",Action,Adventure,Drama,Color,551,R
+139,Star Wars: Episode VII - The Force Awakens,Daisy Ridley,John Boyega,Oscar Isaac," 425,951 ",Action,Adventure,Sci-Fi,United States,623,PG-13
+140,Ghostbusters,Bill Murray,Dan Aykroyd,Sigourney Weaver," 812,271 ",Action,Comedy,Fantasy,"$243,578,797",745,PG
+141,Captain America: Civil War,Chris Evans,Robert Downey Jr.,Scarlett Johansson," 434,696 ",Action,Sci-Fi,-,"$408,084,349",755,PG-13
+142,Predator,Arnold Schwarzenegger,Carl Weathers,Kevin Peter Hall," 710,039 ",Action,Adventure,Horror,United StatesMexico,795,R
+143,Skyfall,Daniel Craig,Javier Bardem,Naomie Harris," 517,360 ",Action,Adventure,Thriller,"$304,360,277",896,PG-13
+144,Hot Fuzz,Simon Pegg,Nick Frost,Martin Freeman," 614,971 ",Action,Comedy,Mystery,"$23,637,265",996,R
+145,Taken,Liam Neeson,Maggie Grace,Famke Janssen," 867,154 ",Action,Crime,Thriller,Color,"1,126",PG-13
+146,Captain America: The Winter Soldier,Chris Evans,Samuel L. Jackson,Scarlett Johansson," 304,767 ",Action,Adventure,Sci-Fi,"$259,766,572","1,156",PG-13
+147,The Fugitive,Harrison Ford,Tommy Lee Jones,Sela Ward," 473,599 ",Action,Crime,Drama,"$183,875,760","1,273",PG-13
+148,Captain Phillips,Tom Hanks,Barkhad Abdi,Barkhad Abdirahman," 452,347 ",Action,Biography,Crime,Color,"1,295",PG-13
+149,The Last Samurai,Tom Cruise,Ken Watanabe,Billy Connolly," 476,966 ",Action,Drama,-,Color,"1,458",R
+150,Big Hero 6,Ryan Potter,Scott Adsit,Jamie Chung," 137,238 ",Animation,Action,Adventure,Color,"1,540",PG
+151,I Saw the Devil,Lee Byung-hun,Choi Min-sik,Jeon Gook-hwan," 300,352 ",Action,Crime,Drama,-,"1,603",Not Rated
+152,Serenity,Nathan Fillion,Gina Torres,Chiwetel Ejiofor," 377,159 ",Action,Adventure,Sci-Fi,Color,"1,702",PG-13
+153,The Fighter,Mark Wahlberg,Christian Bale,Amy Adams," 60,777",Action,Biography,Drama,Color,"1,784",R
+154,Thirteen Lives,Viggo Mortensen,Colin Farrell,Joel Edgerton," 347,825 ",Action,Adventure,Biography,-,"1,859",PG-13
+155,How to Train Your Dragon 2,Jay Baruchel,Cate Blanchett,Gerard Butler," 69,226",Animation,Action,Adventure,"$177,002,924","2,590",PG
+156,The Chaser,Kim Yoon-seok,Ha Jung-woo,Yeong-hie Seo," 38,899",Action,Crime,Drama,Color,-,Not Rated
+157,Ninja Scroll,Kôichi Yamadera,Emi Shinohara,Takeshi Aono," 53,553 ",Animation,Action,Adventure,Color,-,Not Rated
+158,Batman: Mask of the Phantasm,Kevin Conroy,Dana Delany,Hart Bochner," 59,148",Animation,Action,Adventure,Color,-,PG
+159,"Aguirre, the Wrath of God",Klaus Kinski,Ruy Guerra,Helena Rojo," 50,686 ",Action,Adventure,Biography,-,-,Not Rated
+160,Cowboy Bebop: The Movie,Beau Billingslea,Melissa Fahn,Nicholas Guest," 49,599",Animation,Action,Crime,-,-,TV-14
+161,The Killer,Chow Yun-Fat,Danny Lee,Sally Yeh," 32,105 ",Action,Crime,Drama,-,-,R
+162,Knockin' on Heaven's Door,Til Schweiger,Jan Josef Liefers,Thierry van Werveke," 31,102",Action,Crime,Comedy,-,-,Not Rated
+163,Minnal Murali,Tovino Thomas,Guru Somasundaram,Aju Varghese," 387,792 ",Action,Comedy,Drama,-,-,TV-14
+164,Avatar: The Way of Water,Sam Worthington,Zoe Saldana,Sigourney Weaver," 686,980 ",Action,Adventure,Fantasy,"$684,075,767",50,PG-13
+165,Kingsman: The Secret Service,Colin Firth,Taron Egerton,Samuel L. Jackson," 407,496 ",Action,Adventure,Comedy,Color,194,R
+166,Black Hawk Down,Josh Hartnett,Ewan McGregor,Tom Sizemore," 345,219 ",Action,Drama,History,Color,316,R
+167,Mission: Impossible - Fallout,Tom Cruise,Henry Cavill,Ving Rhames," 76,137 ",Action,Adventure,Thriller,Color,354,PG-13
+168,The Dirty Dozen,Lee Marvin,Ernest Borgnine,Charles Bronson," 142,753 ",Action,Adventure,War,Color,417,Approved
+169,The Count of Monte Cristo,Jim Caviezel,Guy Pearce,Christopher Adamson," 320,480 ",Action,Adventure,Drama,-,693,PG-13
+170,3:10 to Yuma,Russell Crowe,Christian Bale,Ben Foster," 369,608 ",Action,Crime,Drama,"$53,606,916",763,R
+171,The Lego Movie,Chris Pratt,Will Ferrell,Elizabeth Banks," 489,458 ",Animation,Action,Adventure,-,981,PG
+172,Star Trek Into Darkness,Chris Pine,Zachary Quinto,Zoe Saldana," 177,694 ",Action,Adventure,Sci-Fi,"$228,778,661","1,003",PG-13
+173,The Last of the Mohicans,Daniel Day-Lewis,Madeleine Stowe,Russell Means," 450,493 ",Action,Adventure,Drama,Color,"1,050",R
+174,Training Day,Denzel Washington,Ethan Hawke,Scott Glenn," 372,191 ",Action,Crime,Drama,Color,"1,068",R
+175,Man on Fire,Denzel Washington,Christopher Walken,Dakota Fanning," 705,080 ",Action,Crime,Drama,Color,"1,116",R
+176,X-Men: First Class,James McAvoy,Michael Fassbender,Jennifer Lawrence," 57,454 ",Action,Sci-Fi,-,Color,"1,168",PG-13
+177,The Longest Day,John Wayne,Robert Ryan,Richard Burton," 473,724 ",Action,Drama,History,Black and White,"1,384",G
+178,The Bourne Supremacy,Matt Damon,Franka Potente,Joan Allen," 98,330 ",Action,Mystery,Thriller,Color,"1,408",PG-13
+179,The Magnificent Seven,Yul Brynner,Steve McQueen,Charles Bronson," 262,452 ",Action,Adventure,Drama,Color,"1,573",Approved
+180,First Blood,Sylvester Stallone,Brian Dennehy,Richard Crenna," 144,598 ",Action,Adventure,Thriller,"$47,212,904","1,596",R
+181,Kung Fu Hustle,Stephen Chow,Wah Yuen,Qiu Yuen," 243,503 ",Action,Comedy,Fantasy,Color,"1,993",R
+182,The Boondock Saints,Willem Dafoe,Sean Patrick Flanery,Norman Reedus," 161,839 ",Action,Thriller,-,ColorBlack and White,"2,007",R
+183,Dirty Harry,Clint Eastwood,Andrew Robinson,Harry Guardino," 195,767 ",Action,Crime,Thriller,Color,"2,147",R
+184,Goldfinger,Sean Connery,Gert Fröbe,Honor Blackman," 125,266 ",Action,Adventure,Thriller,-,"2,381",PG
+185,Star Trek II: The Wrath of Khan,William Shatner,Leonard Nimoy,DeForest Kelley," 116,541",Action,Adventure,Sci-Fi,"$79,707,906","2,849",PG
+186,Bonnie and Clyde,Warren Beatty,Faye Dunaway,Michael J. Pollard," 127,688 ",Action,Biography,Crime,-,"2,988",R
+187,The French Connection,Gene Hackman,Roy Scheider,Fernando Rey," 202,397 ",Action,Crime,Drama,Color,"3,133",R
+188,Run Lola Run,Franka Potente,Moritz Bleibtreu,Herbert Knaup," 71,998 ",Action,Crime,Thriller,ColorBlack and White,"4,059",R
+189,The Man from Nowhere,Won Bin,Kim Sae-ron,Kim Tae-hoon," 133,712 ",Action,Crime,Drama,-,"4,301",R
+190,Kubo and the Two Strings,Charlize Theron,Art Parkinson,Matthew McConaughey," 75,349",Animation,Action,Adventure,-,"4,405",PG
+191,Badlands,Martin Sheen,Sissy Spacek,Warren Oates," 33,760",Action,Crime,Drama,Color,"4,466",PG
+192,Ponniyin Selvan: Part I,Vikram,Aishwarya Rai Bachchan,Jayam Ravi," 42,571",Action,Adventure,Drama,Color,"4,564",Not Rated
+193,Key Largo,Humphrey Bogart,Edward G. Robinson,Lauren Bacall," 29,110",Action,Crime,Drama,Black and White,-,Not Rated
+194,Scarface,Paul Muni,Ann Dvorak,Karen Morley," 52,151",Action,Crime,Drama,Black and White,-,PG
+195,Hard Boiled,Chow Yun-Fat,Tony Leung Chiu-wai,Teresa Mo," 32,205",Action,Crime,Thriller,Color,-,R
+196,Joint Security Area,Lee Yeong-ae,Lee Byung-hun,Song Kang-ho," 29,490 ",Action,Drama,Thriller,-,-,Not Rated
+197,Dragon Ball Super: Broly,Masako Nozawa,Aya Hisakawa,Ryô Horikawa," 25,957",Animation,Action,Adventure,-,-,PG
+198,Eega,Sudeep,Nani,Samantha Ruth Prabhu," 31,410",Action,Comedy,Drama,-,-,Not Rated
+199,Udta Punjab,Shahid Kapoor,Alia Bhatt,Kareena Kapoor," 32,300",Action,Crime,Drama,-,-,Not Rated
+200,Raazi,Alia Bhatt,Vicky Kaushal,Rajit Kapoor," 716,313 ",Action,Drama,Thriller,-,-,Not Rated
+201,Guardians of the Galaxy Vol. 2,Chris Pratt,Zoe Saldana,Dave Bautista," 605,757 ",Action,Adventure,Comedy,Dolby DigitalDolby Surround 7.1IMAX 6-TrackDolby Atmos,97,PG-13
+202,Deadpool 2,Ryan Reynolds,Josh Brolin,Morena Baccarin," 486,357 ",Action,Adventure,Comedy,"$324,591,735",271,R
+203,The Fifth Element,Bruce Willis,Milla Jovovich,Gary Oldman," 446,565 ",Action,Adventure,Sci-Fi,Color,291,PG-13
+204,Sicario,Emily Blunt,Josh Brolin,Benicio Del Toro," 836,811 ",Action,Crime,Drama,United StatesMexicoHong Kong,407,R
+205,300,Gerard Butler,Lena Headey,David Wenham," 564,566 ",Action,Drama,-,Color,415,R
+206,Harry Potter and the Half-Blood Prince,Daniel Radcliffe,Emma Watson,Rupert Grint," 812,330 ",Action,Adventure,Family,Color,474,PG
+207,Star Wars: Episode III - Revenge of the Sith,Hayden Christensen,Natalie Portman,Ewan McGregor," 567,174 ",Action,Adventure,Fantasy,"$380,270,577",585,PG-13
+208,Baby Driver,Ansel Elgort,Jon Bernthal,Jon Hamm," 563,017 ",Action,Crime,Drama,Color,621,R
+209,Watchmen,Jackie Earle Haley,Patrick Wilson,Carla Gugino," 106,133 ",Action,Drama,Mystery,SDDSDTSDolby DigitalDolby,725,R
+210,The Warriors,Michael Beck,James Remar,Dorsey Wright," 309,878 ",Action,Crime,Thriller,-,846,R
+211,Incredibles 2,Craig T. Nelson,Holly Hunter,Sarah Vowell," 60,547",Animation,Action,Adventure,Color,938,PG
+212,Where Eagles Dare,Richard Burton,Clint Eastwood,Mary Ure," 267,665 ",Action,Adventure,War,2.35 : 1,961,M
+213,RoboCop,Peter Weller,Nancy Allen,Dan O'Herlihy," 234,899 ",Action,Crime,Sci-Fi,"$53,424,681","1,026",R
+214,Train to Busan,Gong Yoo,Jung Yu-mi,Ma Dong-seok," 595,644 ",Action,Horror,Thriller,-,"1,035",Not Rated
+215,Zombieland,Jesse Eisenberg,Emma Stone,Woody Harrelson," 489,058 ",Action,Comedy,Horror,Color,"1,045",R
+216,Kung Fu Panda,Jack Black,Ian McShane,Angelina Jolie," 296,898 ",Animation,Action,Adventure,Color,"1,140",PG
+217,Creed,Michael B. Jordan,Sylvester Stallone,Tessa Thompson," 186,237 ",Action,Drama,Sport,"$109,778,883","1,147",PG-13
+218,The Road Warrior,Mel Gibson,Bruce Spence,Michael Preston," 575,378 ",Action,Adventure,Sci-Fi,"$23,667,907","1,183",R
+219,Kick-Ass,Aaron Taylor-Johnson,Nicolas Cage,Chloë Grace Moretz," 197,006 ",Action,Comedy,Crime,"$48,071,303","1,187",R
+220,Falling Down,Michael Douglas,Robert Duvall,Barbara Hershey," 565,479 ",Action,Crime,Drama,Color,"1,264",R
+221,Minority Report,Tom Cruise,Colin Farrell,Samantha Morton," 648,461 ",Action,Crime,Mystery,Color,"1,416",PG-13
+222,Sherlock Holmes,Robert Downey Jr.,Jude Law,Rachel McAdams," 266,471 ",Action,Adventure,Mystery,"$209,028,679","1,624",PG-13
+223,Lethal Weapon,Mel Gibson,Danny Glover,Gary Busey," 540,489 ",Action,Crime,Thriller,"$65,207,127","1,676",R
+224,Rise of the Planet of the Apes,James Franco,Andy Serkis,Freida Pinto," 188,415",Action,Drama,Sci-Fi,"$176,760,185","1,711",PG-13
+225,Battle Royale,Tatsuya Fujiwara,Aki Maeda,Tarô Yamamoto," 451,881 ",Action,Adventure,Drama,Color,"1,752",Not Rated
+226,Dawn of the Planet of the Apes,Gary Oldman,Keri Russell,Andy Serkis," 210,280 ",Action,Adventure,Drama,Color,"1,845",PG-13
+227,The Raid: Redemption,Iko Uwais,Ananda George,Ray Sahetapy," 256,852 ",Action,Crime,Thriller,Color,"1,901",R
+228,End of Watch,Jake Gyllenhaal,Michael Peña,Anna Kendrick," 107,796 ",Action,Adventure,Crime,ColorBlack and White,"2,296",R
+229,Enter the Dragon,Bruce Lee,John Saxon,Jim Kelly," 396,067 ",Action,Crime,Drama,"$25,259","2,332",R
+230,Die Hard with a Vengeance,Bruce Willis,Jeremy Irons,Samuel L. Jackson," 67,060 ",Action,Adventure,Thriller,"$100,012,499","2,819",R
+231,Hotel Mumbai,Dev Patel,Armie Hammer,Nazanin Boniadi," 73,132 ",Action,Drama,History,Color,"3,155",R
+232,Only the Brave,Josh Brolin,Miles Teller,Jeff Bridges," 141,821 ",Action,Biography,Drama,-,"3,481",PG-13
+233,Escape from Alcatraz,Clint Eastwood,Patrick McGoohan,Roberts Blossom," 128,850 ",Action,Biography,Crime,-,"3,522",PG
+234,Star Trek: First Contact,Patrick Stewart,Jonathan Frakes,Brent Spiner," 108,427 ",Action,Adventure,Drama,"$92,027,888","3,813",PG-13
+235,United 93,David Alan Basche,Olivia Thirlby,Liza Colón-Zayas," 32,962 ",Action,Drama,History,-,-,R
+236,The Taking of Pelham One Two Three,Walter Matthau,Robert Shaw,Martin Balsam," 33,505 ",Action,Crime,Thriller,-,-,R
+237,Vampire Hunter D: Bloodlust,Andrew Philpot,John Rafter Lee,Pamela Adlon," 77,433 ",Animation,Action,Drama,-,-,R
+238,Fearless,Jet Li,Li Sun,Yong Dong," 80,514",Action,Biography,Drama,Color,-,PG-13
+239,Pushpa: The Rise - Part 1,Allu Arjun,Fahadh Faasil,Rashmika Mandanna," 41,265",Action,Crime,Drama,-,-,-
+240,Ludo,Pankaj Tripathi,Abhishek Bachchan,Rajkummar Rao," 69,197",Action,Comedy,Crime,-,-,TV-MA
+241,Cell 211,Luis Tosar,Alberto Ammann,Antonio Resines," 25,748 ",Action,Adventure,Crime,-,-,-
+242,Evangelion: 1.0 You Are (Not) Alone,Megumi Ogata,Megumi Hayashibara,Kotono Mitsuishi," 31,798",Animation,Action,Drama,Color,-,PG-13
+243,Lupin III: The Castle of Cagliostro,Yasuo Yamada,Eiko Masuyama,Kiyoshi Kobayashi," 25,394 ",Animation,Action,Adventure,Color,-,-
+244,The Boy and the Beast,Kôji Yakusho,Aoi Miyazaki,Shôta Sometani," 28,177",Animation,Action,Adventure,-,-,PG-13
+245,Mortal World,Ahmet Mümtaz Taylan,Alper Kul,Sarp Apak," 44,895",Action,Comedy,Crime,-,-,-
+246,The Covenant,Jake Gyllenhaal,Dar Salim,Sean Sagar," 504,119 ",Action,Thriller,War,-,19,R
+247,Indiana Jones and the Temple of Doom,Harrison Ford,Kate Capshaw,Ke Huy Quan," 387,579 ",Action,Adventure,-,Color,203,PG
+248,Batman,Michael Keaton,Jack Nicholson,Kim Basinger," 601,546 ",Action,Adventure,-,Color,419,PG-13
+249,Harry Potter and the Order of the Phoenix,Daniel Radcliffe,Emma Watson,Rupert Grint," 441,919 ",Action,Adventure,Family,Color,451,PG-13
+250,Scott Pilgrim vs. the World,Michael Cera,Mary Elizabeth Winstead,Kieran Culkin," 512,734 ",Action,Comedy,Fantasy,Color,568,PG-13
+251,Fury,Brad Pitt,Shia LaBeouf,Logan Lerman," 295,611 ",Action,Drama,War,Color,602,R
+252,Lone Survivor,Mark Wahlberg,Taylor Kitsch,Emile Hirsch," 684,092 ",Action,Biography,Drama,Color,641,R
+253,The Hunger Games: Catching Fire,Jennifer Lawrence,Josh Hutcherson,Liam Hemsworth," 340,971 ",Action,Adventure,Sci-Fi,"$424,668,047",681,PG-13
+254,Total Recall,Arnold Schwarzenegger,Sharon Stone,Michael Ironside," 228,794 ",Action,Adventure,Sci-Fi,"$119,412,921",690,R
+255,Master and Commander: The Far Side of the World,Russell Crowe,Paul Bettany,Billy Boyd," 766,305 ",Action,Adventure,Drama,Color,"1,057",PG-13
+256,Doctor Strange,Benedict Cumberbatch,Chiwetel Ejiofor,Rachel McAdams," 190,456 ",Action,Adventure,Fantasy,"$232,641,920","1,073",PG-13
+257,The Crow,Brandon Lee,Michael Wincott,Rochelle Davis," 193,192 ",Action,Crime,Drama,Color,"1,174",R
+258,Upgrade,Logan Marshall-Green,Melanie Vallejo,Steve Danielsen," 43,873 ",Action,Sci-Fi,Thriller,Color,"1,405",R
+259,It's a Mad Mad Mad Mad World,Spencer Tracy,Milton Berle,Ethel Merman," 416,220 ",Action,Adventure,Comedy,2.76 : 1,"1,471",G
+260,Collateral,Tom Cruise,Jamie Foxx,Jada Pinkett Smith," 206,812 ",Action,Crime,Drama,"$101,005,703","1,500",R
+261,The Hunt for Red October,Sean Connery,Alec Baldwin,Scott Glenn," 531,181 ",Action,Adventure,Thriller,"$122,012,643","1,547",PG
+262,Source Code,Jake Gyllenhaal,Michelle Monaghan,Vera Farmiga," 232,172 ",Action,Drama,Mystery,-,"1,589",PG-13
+263,Munich,Eric Bana,Daniel Craig,Marie-Josée Croze," 269,068 ",Action,Drama,History,-,"2,367",R
+264,Enemy at the Gates,Jude Law,Ed Harris,Joseph Fiennes," 55,148",Action,Drama,War,Color,"2,403",R
+265,Riders of Justice,Mads Mikkelsen,Nikolaj Lie Kaas,Andrea Heick Gadeberg," 187,524 ",Action,Comedy,Drama,Color,"2,481",Not Rated
+266,Grindhouse,Kurt Russell,Rose McGowan,Danny Trejo," 35,731 ",Action,Horror,Thriller,Color,"2,718",R
+267,Tora! Tora! Tora!,Martin Balsam,Sô Yamamura,Jason Robards," 89,517 ",Action,Drama,History,Color,"2,771",G
+268,Midnight Run,Robert De Niro,Charles Grodin,Yaphet Kotto," 53,206 ",Action,Comedy,Crime,Color,"2,822",R
+269,The Guns of Navarone,David Niven,Gregory Peck,Anthony Quinn," 104,380 ",Action,Adventure,Drama,Dolby Atmos,"4,759",Not Rated
+270,Headhunters,Aksel Hennie,Synnøve Macody Lund,Nikolaj Coster-Waldau," 39,093 ",Action,Crime,Thriller,-,"4,797",R
+271,Police Story,Jackie Chan,Maggie Cheung,Brigitte Lin," 66,957 ",Action,Comedy,Crime,Color,-,PG-13
+272,13 Assassins,Kôji Yakusho,Takayuki Yamada,Yûsuke Iseya," 108,161 ",Action,Adventure,Drama,Color,-,R
+273,Ip Man 2,Donnie Yen,Xiaoming Huang,Sammo Kam-Bo Hung," 114,333 ",Action,Biography,Drama,-,-,R
+274,House of Flying Daggers,Ziyi Zhang,Takeshi Kaneshiro,Andy Lau," 25,032 ",Action,Adventure,Drama,Color,-,PG-13
+275,New World,Lee Jung-jae,Choi Min-sik,Hwang Jung-min," 41,504",Action,Crime,Drama,-,-,Not Rated
+276,A Bittersweet Life,Lee Byung-hun,Shin Min-a,Yeong-cheol Kim," 47,491 ",Action,Crime,Drama,-,-,Not Rated
+277,The Legend of Drunken Master,Jackie Chan,Ho-Sung Pak,Lung Ti," 50,542 ",Action,Comedy,-,Color,-,R
+278,The Blind Swordsman: Zatoichi,Takeshi Kitano,Tadanobu Asano,Yui Natsukawa," 30,975 ",Action,Comedy,Crime,-,-,R
+279,Delhi Belly,Imran Khan,Vir Das,Kunaal Roy Kapur," 34,252",Action,Comedy,Crime,-,-,Not Rated
+280,Tanhaji: The Unsung Warrior,Ajay Devgn,Saif Ali Khan,Sharad Kelkar," 34,563 ",Action,Biography,Drama,-,-,Not Rated
+281,Mesrine: Killer Instinct,Vincent Cassel,Cécile de France,Gérard Depardieu," 33,628 ",Action,Biography,Crime,-,-,R
+282,Jodhaa Akbar,Hrithik Roshan,Aishwarya Rai Bachchan,Sonu Sood," 36,223",Action,Drama,History,-,-,Not Rated
+283,Mersal,Joseph Vijay,Nithya Menen,S.J. Suryah," 29,928",Action,Thriller,-,-,-,Not Rated
+284,To Strike,Shaan Shahid,Hamza Ali Abbasi,Shamoon Abbasi," 695,517 ",Action,Crime,Drama,Color,-,-
+285,John Wick,Keanu Reeves,Michael Nyqvist,Alfie Allen," 391,522 ",Action,Crime,Thriller,"$43,037,835",68,R
+286,John Wick: Chapter 3 - Parabellum,Keanu Reeves,Halle Berry,Ian McShane," 477,917 ",Action,Crime,Thriller,United States,117,R
+287,John Wick: Chapter 2,Keanu Reeves,Riccardo Scamarcio,Ian McShane," 403,164 ",Action,Crime,Thriller,"$92,029,184",142,R
+288,Shang-Chi and the Legend of the Ten Rings,Simu Liu,Awkwafina,Tony Leung Chiu-wai," 286,946 ",Action,Adventure,Fantasy,"$224,543,292",204,PG-13
+289,Nobody,Bob Odenkirk,Aleksey Serebryakov,Connie Nielsen," 680,776 ",Action,Crime,Drama,Color,249,R
+290,Spider-Man: Homecoming,Tom Holland,Michael Keaton,Robert Downey Jr.," 839,002 ",Action,Adventure,Sci-Fi,United States,251,PG-13
+291,Spider-Man,Tobey Maguire,Kirsten Dunst,Willem Dafoe," 454,380 ",Action,Adventure,Sci-Fi,United States,261,PG-13
+292,Ready Player One,Tye Sheridan,Olivia Cooke,Ben Mendelsohn," 291,354 ",Action,Adventure,Sci-Fi,United StatesIndia,586,PG-13
+293,Predestination,Ethan Hawke,Sarah Snook,Noah Taylor," 384,198 ",Action,Drama,Sci-Fi,-,630,R
+294,Mission: Impossible - Rogue Nation,Tom Cruise,Rebecca Ferguson,Jeremy Renner," 516,609 ",Action,Adventure,Thriller,Color,663,PG-13
+295,Spider-Man: Far from Home,Tom Holland,Samuel L. Jackson,Jake Gyllenhaal," 501,770 ",Action,Adventure,Comedy,United States,782,PG-13
+296,Mission: Impossible - Ghost Protocol,Tom Cruise,Jeremy Renner,Simon Pegg," 165,799 ",Action,Adventure,Thriller,Color,790,PG-13
+297,The Last Duel,Matt Damon,Adam Driver,Jodie Comer," 673,052 ",Action,Drama,History,Color,816,R
+298,Spider-Man 2,Tobey Maguire,Kirsten Dunst,Alfred Molina," 674,787 ",Action,Adventure,Sci-Fi,United States,831,PG-13
+299,Wonder Woman,Gal Gadot,Chris Pine,Robin Wright," 180,724 ",Action,Adventure,Fantasy,"$412,845,172",839,PG-13
+300,Superman,Christopher Reeve,Margot Kidder,Gene Hackman," 347,112 ",Action,Adventure,Sci-Fi,Color,873,PG
+301,The Rock,Sean Connery,Nicolas Cage,Ed Harris," 587,174 ",Action,Adventure,Thriller,"$134,069,511",916,R
+302,Looper,Joseph Gordon-Levitt,Bruce Willis,Emily Blunt," 561,091 ",Action,Drama,Sci-Fi,"$66,486,205","1,180",R
+303,X2: X-Men United,Patrick Stewart,Hugh Jackman,Halle Berry," 306,742 ",Action,Sci-Fi,Thriller,Color,"1,495",PG-13
+304,Law Abiding Citizen,Gerard Butler,Jamie Foxx,Leslie Bibb," 266,854 ",Action,Crime,Drama,Dolby DigitalDTSSDDSDolby Atmos,"1,572",R
+305,War for the Planet of the Apes,Andy Serkis,Woody Harrelson,Steve Zahn," 138,340 ",Action,Adventure,Drama,-,"1,964",PG-13
+306,How to Train Your Dragon: The Hidden World,Jay Baruchel,America Ferrera,F. Murray Abraham," 244,782 ",Animation,Action,Adventure,-,"1,968",PG
+307,A History of Violence,Viggo Mortensen,Maria Bello,Ed Harris," 75,504 ",Action,Crime,Drama,Color,"2,034",R
+308,Open Range,Kevin Costner,Robert Duvall,Diego Luna," 466,105 ",Action,Drama,Romance,-,"3,445",R
+309,Sherlock Holmes: A Game of Shadows,Robert Downey Jr.,Jude Law,Jared Harris," 72,202 ",Action,Adventure,Mystery,"$186,848,418","3,491",PG-13
+310,Bullitt,Steve McQueen,Jacqueline Bisset,Robert Vaughn," 139,519 ",Action,Crime,Thriller,Mono,"3,724",M/PG
+311,From Russia with Love,Sean Connery,Robert Shaw,Lotte Lenya," 34,953 ",Action,Adventure,Thriller,1.66 : 1,"3,915",PG
+312,Thief,James Caan,Tuesday Weld,Willie Nelson," 50,279 ",Action,Crime,Drama,Color,"4,159",R
+313,Black Dynamite,Michael Jai White,Arsenio Hall,Tommy Davidson," 27,636",Action,Comedy,-,Color,"5,000",R
+314,Rurouni Kenshin Part I: Origins,Takeru Satoh,Emi Takei,Yû Aoi," 41,655",Action,Adventure,Drama,-,-,TV-MA
+315,Mission Majnu,Sidharth Malhotra,Rashmika Mandanna,Parmeet Sethi," 41,965",Action,Drama,History,-,-,TV-MA
+316,Drunken Master,Jackie Chan,Siu-Tin Yuen,Jeong-lee Hwang," 30,685 ",Action,Comedy,-,-,-,PG-13
+317,Summer Wars,Ryunosuke Kamiki,Nanami Sakuraba,Mitsuki Tanimura," 30,559 ",Animation,Action,Adventure,-,-,PG
+318,Mesrine: Public Enemy No. 1,Vincent Cassel,Ludivine Sagnier,Mathieu Amalric," 120,989",Action,Biography,Crime,-,-,R
+319,Dungeons & Dragons: Honor Among Thieves,Chris Pine,Michelle Rodriguez,Regé-Jean Page," 360,799 ",Action,Adventure,Comedy,United StatesCanadaUnited KingdomIcelandIrelandAustralia,7,PG-13
+320,Bullet Train,Brad Pitt,Joey King,Aaron Taylor-Johnson," 419,520 ",Action,Comedy,Thriller,"$103,368,602",71,R
+321,No Time to Die,Daniel Craig,Ana de Armas,Rami Malek," 392,709 ",Action,Adventure,Thriller,-,144,PG-13
+322,Fast Five,Vin Diesel,Paul Walker,Dwayne Johnson," 531,254 ",Action,Crime,Thriller,United States,150,PG-13
+323,Tenet,John David Washington,Robert Pattinson,Elizabeth Debicki," 233,204 ",Action,Sci-Fi,Thriller,Color,225,PG-13
+324,The Karate Kid,Ralph Macchio,Pat Morita,Elisabeth Shue," 269,273 ",Action,Drama,Family,"$91,077,276",236,PG
+325,True Lies,Arnold Schwarzenegger,Jamie Lee Curtis,Tom Arnold," 305,383 ",Action,Comedy,Thriller,"$146,282,411",292,R
+326,Starship Troopers,Casper Van Dien,Denise Richards,Dina Meyer," 584,980 ",Action,Adventure,Sci-Fi,DTSDolby DigitalDolby Atmos,303,R
+327,Men in Black,Tommy Lee Jones,Will Smith,Linda Fiorentino," 693,543 ",Action,Adventure,Comedy,"$250,690,539",361,PG-13
+328,Ant-Man,Paul Rudd,Michael Douglas,Corey Stoll," 305,605 ",Action,Comedy,Sci-Fi,"$180,202,163",430,PG-13
+329,The Accountant,Ben Affleck,Anna Kendrick,J.K. Simmons," 342,889 ",Action,Thriller,-,Color,503,R
+330,The Nice Guys,Russell Crowe,Ryan Gosling,Angourie Rice," 802,458 ",Action,Comedy,Crime,-,565,R
+331,Black Panther,Chadwick Boseman,Michael B. Jordan,Lupita Nyong'o," 886,082 ",Action,Adventure,Sci-Fi,"$700,426,566",619,PG-13
+332,Avengers: Age of Ultron,Robert Downey Jr.,Chris Evans,Mark Ruffalo," 627,677 ",Action,Adventure,Sci-Fi,United States,647,PG-13
+333,X-Men,Patrick Stewart,Hugh Jackman,Ian McKellen," 262,759 ",Action,Adventure,Sci-Fi,Color,731,PG-13
+334,Dawn of the Dead,Sarah Polley,Ving Rhames,Mekhi Phifer," 376,799 ",Action,Horror,-,"$59,020,957",756,R
+335,Speed,Keanu Reeves,Dennis Hopper,Sandra Bullock," 503,582 ",Action,Adventure,Thriller,"$121,248,145",765,R
+336,American Sniper,Bradley Cooper,Sienna Miller,Kyle Gallner," 387,742 ",Action,Biography,Drama,"$350,159,020",770,R
+337,Face/Off,John Travolta,Nicolas Cage,Joan Allen," 279,133 ",Action,Crime,Sci-Fi,United States,841,R
+338,Alita: Battle Angel,Rosa Salazar,Christoph Waltz,Jennifer Connelly," 150,601 ",Action,Adventure,Sci-Fi,"$85,838,210",933,PG-13
+339,13 Hours,John Krasinski,Pablo Schreiber,James Badge Dale," 737,105 ",Action,Drama,History,-,"1,017",R
+340,Pirates of the Caribbean: Dead Man's Chest,Johnny Depp,Orlando Bloom,Keira Knightley," 191,910 ",Action,Adventure,Fantasy,"$423,315,812","1,044",PG-13
+341,Beverly Hills Cop,Eddie Murphy,Judge Reinhold,John Ashton," 267,590",Action,Comedy,Crime,-,"1,074",R
+342,El Camino: A Breaking Bad Movie,Aaron Paul,Jonathan Banks,Matt Jones," 159,743 ",Action,Crime,Drama,-,"1,132",TV-MA
+343,Raya and the Last Dragon,Kelly Marie Tran,Awkwafina,Gemma Chan," 107,740 ",Animation,Action,Adventure,-,"1,134",PG
+344,Patriots Day,Mark Wahlberg,Michelle Monaghan,J.K. Simmons," 88,616 ",Action,Crime,Drama,-,"1,296",R
+345,Eye in the Sky,Helen Mirren,Aaron Paul,Alan Rickman," 160,246 ",Action,Drama,Thriller,-,"1,468",R
+346,The Lego Batman Movie,Will Arnett,Michael Cera,Rosario Dawson," 250,912 ",Animation,Action,Adventure,-,"1,684",PG
+347,Enemy of the State,Will Smith,Gene Hackman,Jon Voight," 126,675",Action,Thriller,-,Color,"1,703",R
+348,Okja,Tilda Swinton,Paul Dano,Seo-hyun Ahn," 338,531 ",Action,Adventure,Drama,-,"2,085",TV-MA
+349,Equilibrium,Christian Bale,Sean Bean,Emily Watson," 247,154 ",Action,Drama,Sci-Fi,Color,"2,169",R
+350,Southpaw,Jake Gyllenhaal,Rachel McAdams,Oona Laurence," 276,318 ",Action,Crime,Drama,-,"2,217",R
+351,Megamind,Will Ferrell,Jonah Hill,Brad Pitt," 188,078 ",Animation,Action,Comedy,Color,"2,361",PG
+352,Layer Cake,Daniel Craig,Sienna Miller,Michael Gambon," 236,696 ",Action,Crime,Drama,Color,"2,491",R
+353,The Adventures of Tintin,Jamie Bell,Andy Serkis,Daniel Craig," 200,854 ",Animation,Action,Adventure,Color,"2,534",PG
+354,The Next Three Days,Russell Crowe,Elizabeth Banks,Liam Neeson," 96,889 ",Action,Crime,Drama,Color,"2,746",PG-13
+355,Grosse Pointe Blank,John Cusack,Minnie Driver,Dan Aykroyd," 88,418 ",Action,Comedy,Crime,"$28,084,357","3,330",R
+356,Star Trek IV: The Voyage Home,William Shatner,Leonard Nimoy,DeForest Kelley," 148,337 ",Action,Adventure,Comedy,Color,"3,340",PG
+357,The Negotiator,Samuel L. Jackson,Kevin Spacey,David Morse," 35,729 ",Action,Crime,Drama,Color,"3,533",R
+358,To Live and Die in L.A.,William Petersen,Willem Dafoe,Jane Leeves," 117,696 ",Action,Crime,Drama,Color,"3,772",R
+359,Crimson Tide,Gene Hackman,Denzel Washington,Matt Craven," 163,545 ",Action,Drama,Thriller,Color,"3,816",R
+360,Invictus,Morgan Freeman,Matt Damon,Tony Kgoroge," 74,082 ",Action,Adventure,Biography,Color,"3,926",PG-13
+361,Nikita,Anne Parillaud,Marc Duret,Patrick Fontana," 84,160 ",Action,Crime,Drama,-,"3,946",R
+362,Shaolin Soccer,Stephen Chow,Wei Zhao,Yat-Fei Wong," 101,556 ",Action,Comedy,Fantasy,ColorBlack and White,"4,311",PG
+363,Running Scared,Paul Walker,Cameron Bright,Chazz Palminteri," 33,948 ",Action,Crime,Drama,Color,"4,771",R
+364,The Getaway,Steve McQueen,Ali MacGraw,Ben Johnson," 29,496 ",Action,Crime,Thriller,Color,"4,895",PG
+365,Jason and the Argonauts,Todd Armstrong,Nancy Kovack,Gary Raymond," 52,870",Action,Adventure,Family,-,-,G
+366,Assault on Precinct 13,Austin Stoker,Darwin Joston,Laurie Zimmer," 47,367 ",Action,Crime,Thriller,Color,-,R
+367,Red Cliff,Tony Leung Chiu-wai,Takeshi Kaneshiro,Fengyi Zhang," 35,266 ",Action,Adventure,Drama,Color,-,R
+368,Get Carter,Michael Caine,Ian Hendry,Britt Ekland," 29,014",Action,Crime,Thriller,-,-,R
+369,Bacurau,Bárbara Colen,Thomas Aquino,Silvero Pereira," 64,277 ",Action,Adventure,Drama,Color,-,Not Rated
+370,Ghajini,Aamir Khan,Asin Thottumkal,Jiah Khan," 39,006 ",Action,Drama,Mystery,-,-,Not Rated
+371,The Baader Meinhof Complex,Martina Gedeck,Moritz Bleibtreu,Johanna Wokalek," 28,952",Action,Biography,Crime,Color,-,R
+372,Max Manus: Man of War,Aksel Hennie,Agnes Kittelsen,Nicolai Cleve Broch," 79,016",Action,Biography,Crime,-,-,Not Rated
+373,Master,Joseph Vijay,Vijay Sethupathi,Malavika Mohanan," 373,669 ",Action,Crime,Thriller,Color,-,Not Rated
+374,The Suicide Squad,Margot Robbie,Idris Elba,John Cena," 948,799 ",Action,Adventure,Comedy,"$55,817,425",145,R
+375,The Hunger Games,Jennifer Lawrence,Josh Hutcherson,Liam Hemsworth," 384,879 ",Action,Adventure,Sci-Fi,Color,158,PG-13
+376,The Equalizer,Denzel Washington,Marton Csokas,Chloë Grace Moretz," 325,535 ",Action,Crime,Thriller,Color,547,R
+377,From Dusk Till Dawn,Harvey Keitel,George Clooney,Juliette Lewis," 46,358 ",Action,Crime,Horror,Color,563,R
+378,Silverado,Kevin Kline,Scott Glenn,Kevin Costner," 282,919 ",Action,Crime,Drama,Color,700,PG-13
+379,The Patriot,Mel Gibson,Heath Ledger,Joely Richardson," 191,663 ",Action,Drama,History,Color,710,R
+380,Point Break,Patrick Swayze,Keanu Reeves,Gary Busey," 575,176 ",Action,Crime,Thriller,"$43,218,387",759,R
+381,21 Jump Street,Jonah Hill,Channing Tatum,Ice Cube," 296,975 ",Action,Comedy,Crime,"$138,447,667",999,R
+382,Kingdom of Heaven,Orlando Bloom,Eva Green,Liam Neeson," 146,642 ",Action,Adventure,Drama,"$47,398,413","1,024",R
+383,Big Trouble in Little China,Kurt Russell,Kim Cattrall,Dennis Dun," 433,486 ",Action,Adventure,Comedy,Color,"1,028",PG-13
+384,King Kong,Naomi Watts,Jack Black,Adrien Brody," 319,966 ",Action,Adventure,Drama,Color,"1,059",PG-13
+385,The Man from U.N.C.L.E.,Henry Cavill,Armie Hammer,Alicia Vikander," 188,434 ",Action,Adventure,Comedy,"$45,445,109","1,076",PG-13
+386,Ronin,Robert De Niro,Jean Reno,Natascha McElhone," 278,472 ",Action,Crime,Thriller,Color,"1,128",R
+387,Rango,Johnny Depp,Isla Fisher,Timothy Olyphant," 242,292 ",Animation,Action,Adventure,Color,"1,247",PG
+388,Natural Born Killers,Woody Harrelson,Juliette Lewis,Tom Sizemore," 136,200 ",Action,Crime,Drama,ColorBlack and White,"1,351",R
+389,They Live,Roddy Piper,Keith David,Meg Foster," 608,918 ",Action,Horror,Sci-Fi,ColorBlack and White,"1,481",R
+390,The Matrix Reloaded,Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss," 780,321 ",Action,Sci-Fi,-,"$281,576,461","1,535",R
+391,I Am Legend,Will Smith,Alice Braga,Charlie Tahan," 203,286 ",Action,Drama,Horror,"$256,393,010","1,549",PG-13
+392,The Life Aquatic with Steve Zissou,Bill Murray,Owen Wilson,Anjelica Huston," 262,907 ",Action,Adventure,Comedy,Color,"1,605",R
+393,GoldenEye,Pierce Brosnan,Sean Bean,Izabella Scorupco," 174,139 ",Action,Adventure,Thriller,Color,"1,663",PG-13
+394,Unbroken,Jack O'Connell,Miyavi,Domhnall Gleeson," 126,906 ",Action,Biography,Drama,-,"1,746",PG-13
+395,Willow,Val Kilmer,Joanne Whalley,Warwick Davis," 222,843 ",Action,Adventure,Drama,Color,"1,826",PG
+396,The Croods,Nicolas Cage,Ryan Reynolds,Emma Stone," 258,709 ",Animation,Action,Adventure,-,"2,044",PG
+397,RocknRolla,Gerard Butler,Tom Wilkinson,Idris Elba," 172,799 ",Action,Crime,Thriller,Color,"2,407",R
+398,Dr. No,Sean Connery,Ursula Andress,Bernard Lee," 30,270",Action,Adventure,Thriller,Color,"2,499",PG
+399,Old Henry,Tim Blake Nelson,Scott Haze,Gavin Lewis," 65,132 ",Action,Drama,Western,-,"2,587",Not Rated
+400,Friday Night Lights,Billy Bob Thornton,Jay Hernandez,Derek Luke," 173,729 ",Action,Drama,Sport,Color,"2,674",PG-13
+401,Team America: World Police,Trey Parker,Matt Stone,Elle Russ," 298,766 ",Action,Comedy,-,Color,"2,703",R
+402,Kung Fu Panda 2,Jack Black,Angelina Jolie,Jackie Chan," 50,953 ",Animation,Action,Adventure,Color,"3,041",PG
+403,Anthropoid,Jamie Dornan,Cillian Murphy,Brian Caspe," 78,331 ",Action,Biography,Drama,-,"3,071",R
+404,Star Trek VI: The Undiscovered Country,William Shatner,Leonard Nimoy,DeForest Kelley," 66,823",Action,Adventure,Sci-Fi,"$74,888,996","3,127",PG
+405,Batman v Superman: Dawn of Justice (Ultimate Edition),Amy Adams,Ben Affleck,Henry Cavill," 108,620 ",Action,Adventure,Sci-Fi,-,"3,217",R
+406,In the Line of Fire,Clint Eastwood,John Malkovich,Rene Russo," 183,520 ",Action,Crime,Drama,Color,"3,449",R
+407,Rise of the Guardians,Hugh Jackman,Alec Baldwin,Isla Fisher," 182,050 ",Animation,Action,Adventure,Color,"3,787",PG
+408,Lethal Weapon 2,Mel Gibson,Danny Glover,Joe Pesci," 48,379",Action,Crime,Thriller,Color,"3,870",R
+409,The Italian Job,Michael Caine,Noël Coward,Benny Hill," 29,564",Action,Comedy,Crime,"$113,867","3,902",G
+410,Vanishing Point,Barry Newman,Cleavon Little,Charlotte Rampling," 161,349 ",Action,Crime,Thriller,-,"4,440",R
+411,War Horse,Jeremy Irvine,Emily Watson,David Thewlis," 30,990 ",Action,Adventure,Drama,Color,"4,494",PG-13
+412,Runaway Train,Jon Voight,Eric Roberts,Rebecca De Mornay," 64,186 ",Action,Adventure,Drama,Color,"4,896",R
+413,Magnum Force,Clint Eastwood,Hal Holbrook,Mitchell Ryan," 40,737 ",Action,Crime,Mystery,Color,"4,907",R
+414,The Transformers: The Movie,Orson Welles,Robert Stack,Leonard Nimoy," 89,208 ",Animation,Action,Adventure,Color,-,PG
+415,Arlington Road,Jeff Bridges,Tim Robbins,Joan Cusack," 39,000 ",Action,Crime,Drama,-,-,R
+416,The Way of the Dragon,Bruce Lee,Chuck Norris,Nora Miao," 50,177 ",Action,Adventure,Comedy,-,-,R
+417,The Hitcher,Rutger Hauer,C. Thomas Howell,Jennifer Jason Leigh," 50,502 ",Action,Mystery,Thriller,"$5,844,868",-,R
+418,Kon-Tiki,Pål Sverre Hagen,Anders Baasmo,Gustaf Skarsgård," 41,935",Action,Adventure,Biography,ColorBlack and White,-,PG-13
+419,The Siege of Jadotville,Richard Lukunku,Danny Sapani,Andrew Stock," 29,416 ",Action,Drama,History,-,-,TV-MA
+420,Django,Franco Nero,José Canalejas,José Bódalo," 47,201",Action,Drama,Western,-,-,Not Rated
+421,The Witcher: Nightmare of the Wolf,Theo James,Mary McDonnell,Lara Pulver," 36,934 ",Animation,Action,Adventure,-,-,TV-MA
+422,Bajirao Mastani,Ranveer Singh,Deepika Padukone,Priyanka Chopra Jonas," 58,156 ",Action,Drama,History,-,-,Not Rated
+423,'71,Jack O'Connell,Sam Reid,Sean Harris," 89,519 ",Action,Crime,Drama,-,-,R
+424,Harry Brown,Michael Caine,Emily Mortimer,David Bradley," 32,047 ",Action,Crime,Drama,Color,-,R
+425,Fist of Fury,Bruce Lee,Nora Miao,James Tien," 35,057",Action,Drama,Romance,Mono,-,R
+426,Marshland,Javier Gutiérrez,Raúl Arévalo,María Varod," 36,776 ",Action,Crime,Mystery,-,-,TV-MA
+427,The Good the Bad the Weird,Song Kang-ho,Lee Byung-hun,Jung Woo-sung," 47,963 ",Action,Adventure,Comedy,ColorBlack and White,-,R
+428,Mongol: The Rise of Genghis Khan,Tadanobu Asano,Amadu Mamadakov,Khulan Chuluun," 57,228",Action,Biography,Drama,Color,-,R
+429,Final Fantasy VII: Advent Children,Takahiro Sakurai,Ayumi Ito,Shôtarô Morikubo," 29,150 ",Animation,Action,Adventure,-,-,PG-13
+430,Holiday: A Soldier is Never Off Duty,Akshay Kumar,Sonakshi Sinha,Freddy Daruwala," 401,010 ",Action,Crime,Thriller,-,-,Not Rated
+431,Furious 7,Vin Diesel,Paul Walker,Dwayne Johnson," 443,959 ",Action,Crime,Thriller,United StatesChinaJapanCanadaUnited Arab Emirates,134,PG-13
+432,The Mummy,Brendan Fraser,Rachel Weisz,John Hannah," 190,538 ",Action,Adventure,Fantasy,"$155,385,488",266,PG-13
+433,Wrath of Man,Jason Statham,Holt McCallany,Josh Hartnett," 439,131 ",Action,Crime,Thriller,Dolby Surround 7.1,416,R
+434,Mission: Impossible,Tom Cruise,Jon Voight,Emmanuelle Béart," 391,335 ",Action,Adventure,Thriller,Color,470,PG-13
+435,Free Guy,Ryan Reynolds,Jodie Comer,Taika Waititi," 282,870 ",Action,Adventure,Comedy,Color,471,PG-13
+436,Dredd,Karl Urban,Olivia Thirlby,Lena Headey," 224,178 ",Action,Crime,Sci-Fi,"$13,414,714",473,R
+437,Everest,Jason Clarke,Ang Phula Sherpa,Thomas M. Wright," 429,456 ",Action,Adventure,Biography,Color,496,PG-13
+438,Tropic Thunder,Ben Stiller,Jack Black,Robert Downey Jr.," 207,272",Action,Comedy,War,Color,505,R
+439,Prey,Amber Midthunder,Dakota Beavers,Dane DiLiegro," 786,467 ",Action,Adventure,Drama,-,608,R
+440,Man of Steel,Henry Cavill,Amy Adams,Michael Shannon," 869,765 ",Action,Adventure,Sci-Fi,"$291,045,518",793,PG-13
+441,Iron Man 3,Robert Downey Jr.,Guy Pearce,Gwyneth Paltrow," 342,371 ",Action,Adventure,Sci-Fi,United States,805,PG-13
+442,Shooter,Mark Wahlberg,Michael Peña,Rhona Mitra," 667,311 ",Action,Drama,Thriller,-,818,R
+443,Pirates of the Caribbean: At World's End,Johnny Depp,Orlando Bloom,Keira Knightley," 284,656 ",Action,Adventure,Fantasy,"$309,420,425",997,PG-13
+444,Blade,Wesley Snipes,Stephen Dorff,Kris Kristofferson," 313,899 ",Action,Horror,Sci-Fi,Color,"1,063",R
+445,Batman Returns,Michael Keaton,Danny DeVito,Michelle Pfeiffer," 372,162 ",Action,Crime,Fantasy,Color,"1,157",PG-13
+446,Snowpiercer,Chris Evans,Jamie Bell,Tilda Swinton," 69,461 ",Action,Drama,Sci-Fi,ColorBlack and White,"1,195",R
+447,DC League of Super-Pets,Dwayne Johnson,Kevin Hart,Kate McKinnon," 193,556 ",Animation,Action,Adventure,-,"1,210",PG
+448,American Made,Tom Cruise,Domhnall Gleeson,Sarah Wright," 554,993 ",Action,Comedy,Crime,Color,"1,222",R
+449,"I, Robot",Will Smith,Bridget Moynahan,Bruce Greenwood," 104,477 ",Action,Mystery,Sci-Fi,"$144,801,023","1,294",PG-13
+450,WarGames,Matthew Broderick,Ally Sheedy,John Wood," 146,578 ",Action,Drama,Sci-Fi,Color,"1,340",PG
+451,We Were Soldiers,Mel Gibson,Madeleine Stowe,Greg Kinnear," 140,864 ",Action,Drama,History,Color,"1,465",R
+452,Highlander,Christopher Lambert,Sean Connery,Clancy Brown," 144,532 ",Action,Adventure,Fantasy,-,"1,484",R
+453,Creed II,Michael B. Jordan,Sylvester Stallone,Tessa Thompson," 191,235 ",Action,Drama,Sport,United States,"1,629",PG-13
+454,Desperado,Antonio Banderas,Salma Hayek,Joaquim de Almeida," 174,314 ",Action,Crime,Thriller,Color,"1,686",R
+455,Deepwater Horizon,Mark Wahlberg,Kurt Russell,Douglas M. Griffin," 412,557 ",Action,Drama,History,-,"1,875",PG-13
+456,Live Free or Die Hard,Bruce Willis,Justin Long,Timothy Olyphant," 126,208 ",Action,Thriller,-,Color,"1,967",PG-13
+457,Flags of Our Fathers,Ryan Phillippe,Barry Pepper,Joseph Cross," 47,259 ",Action,Adventure,Drama,Color,"2,032",R
+458,The Poseidon Adventure,Gene Hackman,Ernest Borgnine,Shelley Winters," 148,974 ",Action,Adventure,Drama,Color,"2,172",PG
+459,Escape from New York,Kurt Russell,Lee Van Cleef,Ernest Borgnine," 216,848",Action,Adventure,Sci-Fi,Color,"2,182",R
+460,Planet Terror,Rose McGowan,Freddy Rodríguez,Josh Brolin," 170,194 ",Action,Comedy,Horror,Color,"2,406",R
+461,Kung Fu Panda 3,Jack Black,Bryan Cranston,Dustin Hoffman," 162,698 ",Animation,Action,Adventure,Color,"2,543",PG
+462,Allied,Brad Pitt,Marion Cotillard,Jared Harris," 42,878 ",Action,Drama,Romance,-,"2,552",R
+463,No Way Out,Kevin Costner,Gene Hackman,Sean Young," 224,650 ",Action,Crime,Drama,-,"2,618",R
+464,Rocky Balboa,Sylvester Stallone,Antonio Tarver,Milo Ventimiglia," 317,898 ",Action,Drama,Sport,"$70,270,943","2,865",PG
+465,Deja Vu,Denzel Washington,Paula Patton,Jim Caviezel," 46,325 ",Action,Crime,Sci-Fi,Color,"2,897",PG-13
+466,Casualties of War,Michael J. Fox,Sean Penn,Don Harvey," 175,978 ",Action,Crime,Drama,Color,"3,252",R
+467,Three Kings,George Clooney,Mark Wahlberg,Ice Cube," 370,711 ",Action,Adventure,Comedy,Color,"3,374",R
+468,Die Hard 2,Bruce Willis,William Atherton,Bonnie Bedelia," 152,055 ",Action,Thriller,-,Color,"3,531",R
+469,Defiance,Daniel Craig,Liev Schreiber,Jamie Bell," 70,842",Action,Drama,History,Color,"3,893",R
+470,Brawl in Cell Block 99,Vince Vaughn,Jennifer Carpenter,Don Johnson," 141,527 ",Action,Crime,Drama,-,"4,001",Not Rated
+471,Payback,Mel Gibson,Gregg Henry,Maria Bello," 28,678 ",Action,Crime,Drama,Color,"4,073",R
+472,Enthiran,Rajinikanth,Aishwarya Rai Bachchan,Danny Denzongpa," 76,418 ",Action,Sci-Fi,Thriller,-,"4,373",Not Rated
+473,Ong-Bak: The Thai Warrior,Tony Jaa,Phetthai Vongkumlao,Pumwaree Yodkamol," 25,041 ",Action,Crime,Thriller,Color,-,R
+474,Megan Leavey,Kate Mara,Ramón Rodríguez,Tom Felton," 96,843 ",Action,Biography,Drama,Color,-,PG-13
+475,The Girl Who Played with Fire,Noomi Rapace,Michael Nyqvist,Lena Endre," 28,504",Action,Crime,Drama,"$7,638,241",-,R
+476,Mosul,Waleed Elgadi,Suhail Dabbach,Adam Bessa," 72,089 ",Action,Drama,War,-,-,TV-MA
+477,District B13,Cyril Raffaelli,David Belle,Tony D'Amario," 71,047 ",Action,Crime,Sci-Fi,Color,-,R
+478,God Bless America,Joel Murray,Tara Lynne Barr,Mackenzie Brooke Smith," 28,128 ",Action,Comedy,Crime,Color,-,R
+479,In Order of Disappearance,Stellan Skarsgård,Bruno Ganz,Pål Sverre Hagen," 39,637 ",Action,Comedy,Crime,-,-,R
+480,JCVD,Jean-Claude Van Damme,Valérie Bodson,Hervé Sogne," 28,017",Action,Comedy,Crime,-,-,R
+481,Kaabil,Hrithik Roshan,Yami Gautam,Ronit Roy," 28,941 ",Action,Crime,Drama,Color,-,Not Rated
+482,Dragon Ball Z: Battle of Gods,Masako Nozawa,Hiromi Tsuru,Ryô Horikawa," 38,931 ",Animation,Action,Adventure,Color,-,TV-PG
+483,Don,Shah Rukh Khan,Priyanka Chopra Jonas,Arjun Rampal," 25,673 ",Action,Crime,Thriller,-,-,Not Rated
+484,Koi... Mil Gaya,Hrithik Roshan,Rekha,Preity G Zinta," 30,801 ",Action,Drama,Romance,-,-,Not Rated
+485,Micmacs,Dany Boon,André Dussollier,Nicolas Marié," 33,917 ",Action,Comedy,Crime,Color,-,R
+486,Fanaa,Aamir Khan,Kajol,Rishi Kapoor," 55,587",Action,Drama,Romance,-,-,Not Rated
+487,Marighella,Seu Jorge,Bruno Gagliasso,Luiz Carlos Vasconcelos," 25,781",Action,Drama,History,-,-,-
+488,Gabbar Is Back,Akshay Kumar,Shruti Haasan,Kareena Kapoor," 30,331",Action,Crime,Drama,-,-,Not Rated
+489,Sisu,Jorma Tommila,Aksel Hennie,Jack Doolan," 363,881 ",Action,War,-,Color,21,R
+490,Shazam!,Zachary Levi,Mark Strong,Asher Angel," 652,086 ",Action,Adventure,Comedy,"$140,480,049",85,PG-13
+491,Transformers,Shia LaBeouf,Megan Fox,Josh Duhamel," 124,161",Action,Adventure,Sci-Fi,Color,168,PG-13
+492,The Unbearable Weight of Massive Talent,Nicolas Cage,Pedro Pascal,Tiffany Haddish," 404,368 ",Action,Comedy,Crime,Color,227,R
+493,Fast & Furious 6,Vin Diesel,Paul Walker,Dwayne Johnson," 228,505 ",Action,Adventure,Crime,United StatesJapanSpainUnited Kingdom,233,PG-13
+494,The Northman,Alexander Skarsgård,Nicole Kidman,Claes Bang," 350,147 ",Action,Adventure,Drama,Color,259,R
+495,Jack Reacher,Tom Cruise,Rosamund Pike,Richard Jenkins," 869,301 ",Action,Mystery,Thriller,-,454,PG-13
+496,Thor,Chris Hemsworth,Anthony Hopkins,Natalie Portman," 277,092 ",Action,Fantasy,-,"$181,030,624",464,PG-13
+497,Underworld,Kate Beckinsale,Scott Speedman,Shane Brolly," 586,836 ",Action,Fantasy,Thriller,Color,540,R
+498,Independence Day,Will Smith,Bill Pullman,Jeff Goldblum," 425,509 ",Action,Adventure,Sci-Fi,Color,554,PG-13
+499,Ant-Man and the Wasp,Paul Rudd,Evangeline Lilly,Michael Peña," 358,562 ",Action,Adventure,Comedy,12-Track Digital SoundDolby Surround 7.1IMAX 6-TrackDolby AtmosAuro 11.1,660,PG-13
+500,Constantine,Keanu Reeves,Rachel Weisz,Djimon Hounsou," 360,995 ",Action,Fantasy,Horror,"$75,976,178",733,R
+501,Super 8,Elle Fanning,AJ Michalka,Kyle Chandler," 408,892 ",Action,Mystery,Sci-Fi,Color,734,PG-13
+502,Cloverfield,Mike Vogel,Jessica Lucas,Lizzy Caplan," 687,846 ",Action,Adventure,Horror,Color,830,PG-13
+503,World War Z,Brad Pitt,Mireille Enos,Daniella Kertesz," 301,007",Action,Adventure,Horror,Color,850,PG-13
+504,Death Proof,Kurt Russell,Zoë Bell,Rosario Dawson," 251,864 ",Action,Thriller,-,ColorBlack and White,951,R
+505,Star Trek Beyond,Chris Pine,Zachary Quinto,Karl Urban," 103,455",Action,Adventure,Sci-Fi,"$158,848,340","1,191",PG-13
+506,Greyhound,Tom Hanks,Elisabeth Shue,Stephen Graham," 279,430 ",Action,Drama,History,Color,"1,213",PG-13
+507,Rush Hour,Jackie Chan,Chris Tucker,Ken Leung," 537,651 ",Action,Comedy,Crime,Color,"1,250",PG-13
+508,Oblivion,Tom Cruise,Morgan Freeman,Andrea Riseborough," 197,209 ",Action,Adventure,Sci-Fi,Color,"1,263",PG-13
+509,Stargate,Kurt Russell,James Spader,Jaye Davidson," 377,335 ",Action,Adventure,Sci-Fi,"$71,567,262","1,274",PG-13
+510,The Italian Job,Donald Sutherland,Mark Wahlberg,Edward Norton," 54,041 ",Action,Crime,Thriller,"$106,128,601","1,287",PG-13
+511,Smokey and the Bandit,Burt Reynolds,Sally Field,Jerry Reed," 250,398 ",Action,Adventure,Comedy,Dolby AtmosDolby Digital,"1,337",PG
+512,Spy,Melissa McCarthy,Rose Byrne,Jude Law," 156,429 ",Action,Comedy,-,-,"1,454",R
+513,Sicario: Day of the Soldado,Benicio Del Toro,Josh Brolin,Isabela Merced," 247,049 ",Action,Crime,Drama,-,"1,509",R
+514,Pitch Black,Radha Mitchell,Cole Hauser,Vin Diesel," 315,706 ",Action,Horror,Sci-Fi,Color,"1,601",R
+515,RED,Bruce Willis,Helen Mirren,Morgan Freeman," 155,411 ",Action,Comedy,Crime,Color,"1,856",PG-13
+516,Logan Lucky,Channing Tatum,Adam Driver,Daniel Craig," 117,802 ",Action,Comedy,Crime,-,"1,877",PG-13
+517,Den of Thieves,Gerard Butler,Pablo Schreiber,O'Shea Jackson Jr.," 105,511 ",Action,Crime,Drama,-,"2,013",R
+518,Unleashed,Jet Li,Bob Hoskins,Morgan Freeman," 389,348 ",Action,Crime,Drama,-,"2,128",R
+519,22 Jump Street,Channing Tatum,Jonah Hill,Ice Cube," 68,713 ",Action,Comedy,Crime,Color,"2,161",R
+520,Brotherhood of the Wolf,Samuel Le Bihan,Mark Dacascos,Jérémie Renier," 309,876 ",Action,Adventure,Drama,Color,"2,191",R
+521,Public Enemies,Christian Bale,Johnny Depp,Christian Stolte," 135,810 ",Action,Biography,Crime,ColorBlack and White,"2,300",R
+522,Bronson,Tom Hardy,Kelly Adams,Luing Andrews," 340,651 ",Action,Crime,Drama,Color,"2,329",R
+523,Real Steel,Hugh Jackman,Evangeline Lilly,Dakota Goyo," 118,471 ",Action,Drama,Sci-Fi,Color,"2,337",PG-13
+524,The Foreigner,Katie Leung,Jackie Chan,Rufus Jones," 43,685",Action,Thriller,-,Color,"2,471",R
+525,Chip 'n Dale: Rescue Rangers,Andy Samberg,John Mulaney,KiKi Layne," 237,737 ",Animation,Action,Adventure,-,"2,584",PG
+526,Rambo,Sylvester Stallone,Julie Benz,Matthew Marsden," 128,646 ",Action,Adventure,Thriller,"$42,754,105","2,687",R
+527,The Kingdom,Jamie Foxx,Chris Cooper,Jennifer Garner," 256,803 ",Action,Drama,Thriller,Color,"2,699",R
+528,Chronicle,Dane DeHaan,Alex Russell,Michael B. Jordan," 87,152 ",Action,Drama,Sci-Fi,Color,"2,888",PG-13
+529,Fallen,Denzel Washington,John Goodman,Donald Sutherland," 233,041 ",Action,Crime,Drama,DTSDolby DigitalSDDS,"2,904",R
+530,Body of Lies,Leonardo DiCaprio,Russell Crowe,Mark Strong," 107,455 ",Action,Drama,Thriller,Color,"2,934",R
+531,The Last Boy Scout,Bruce Willis,Damon Wayans,Chelsea Field," 278,536 ",Action,Comedy,Crime,Color,"2,948",R
+532,Hellboy II: The Golden Army,Ron Perlman,Selma Blair,Doug Jones," 26,918 ",Action,Adventure,Fantasy,"$75,986,503","3,106",PG-13
+533,Thunderbolt and Lightfoot,Clint Eastwood,Jeff Bridges,George Kennedy," 143,244 ",Action,Comedy,Crime,-,"3,186",R
+534,9,Elijah Wood,Jennifer Connelly,Crispin Glover," 74,879 ",Animation,Action,Adventure,Black and WhiteColor,"3,195",PG-13
+535,A Most Violent Year,Oscar Isaac,Jessica Chastain,David Oyelowo," 34,526 ",Action,Crime,Drama,Color,"3,243",R
+536,Ip Man 4: The Finale,Donnie Yen,Scott Adkins,Danny Kwok-Kwan Chan," 46,083 ",Action,Biography,Drama,Color,"3,817",Not Rated
+537,The Towering Inferno,Paul Newman,Steve McQueen,William Holden," 112,247 ",Action,Drama,Thriller,Color,"3,818",PG
+538,The Spy Who Loved Me,Roger Moore,Barbara Bach,Curd Jürgens," 112,362 ",Action,Adventure,Thriller,Color,"3,995",PG
+539,Filth,James McAvoy,Jamie Bell,Eddie Marsan," 115,222 ",Action,Comedy,Crime,Color,"4,190",R
+540,Maverick,Mel Gibson,Jodie Foster,James Garner," 161,085 ",Action,Adventure,Comedy,Color,"4,529",PG
+541,Spy Game,Robert Redford,Brad Pitt,Catherine McCormack," 86,234 ",Action,Crime,Thriller,ColorBlack and White,"4,788",R
+542,Taxi,Samy Naceri,Frédéric Diefenthal,Marion Cotillard," 58,076 ",Action,Comedy,Crime,Color,"4,805",Not Rated
+543,Ichi the Killer,Tadanobu Asano,Nao Ômori,Shin'ya Tsukamoto," 37,170 ",Action,Crime,Drama,Color,-,-
+544,The War of the Worlds,Gene Barry,Ann Robinson,Les Tremayne," 29,417",Action,Sci-Fi,Thriller,-,-,G
+545,An Action Hero,Ayushmann Khurrana,Jaideep Ahlawat,Neeraj Madhav," 28,631 ",Action,Comedy,Crime,Color,-,-
+546,Juice,Omar Epps,Tupac Shakur,Jermaine Hopkins," 32,525 ",Action,Crime,Drama,-,-,R
+547,Son of Rambow,Bill Milner,Will Poulter,Jessica Hynes," 57,881 ",Action,Adventure,Comedy,Color,-,PG-13
+548,Ip Man 3,Donnie Yen,Lynn Xiong,Jin Zhang," 31,985 ",Action,Biography,Drama,-,-,PG-13
+549,Dragon: The Bruce Lee Story,Jason Scott Lee,Lauren Holly,Robert Wagner," 45,108 ",Action,Biography,Drama,Color,-,PG-13
+550,Curse of the Golden Flower,Chow Yun-Fat,Gong Li,Jay Chou," 48,980 ",Action,Drama,Romance,Color,-,R
+551,Sultan,Salman Khan,Anushka Sharma,Randeep Hooda," 38,160 ",Action,Drama,Romance,-,-,Not Rated
+552,The Protector,Tony Jaa,Nathan Jones,Xing Jin," 35,873",Action,Crime,Drama,-,-,R
+553,Kabir Singh,Shahid Kapoor,Kiara Advani,Nikita Dutta," 55,302 ",Action,Drama,Romance,-,-,Not Rated
+554,Don 2,Shah Rukh Khan,Florian Lukas,Om Puri," 37,769 ",Action,Crime,Thriller,Color,-,Not Rated
+555,Main Hoon Na,Shah Rukh Khan,Sushmita Sen,Suniel Shetty," 27,376 ",Action,Comedy,Drama,-,-,Not Rated
+556,The Warlords,Jet Li,Andy Lau,Takeshi Kaneshiro," 32,536",Action,Adventure,Drama,Color,-,R
+557,The Legend Is Born: Ip Man,Yu-Hang To,Yi Huang,Biao Yuen," 27,942",Action,Biography,Drama,-,-,Not Rated
+558,Vikrant Rona,Sudeep,Nirup Bhandari,Neetha Ashok," 474,888 ",Action,Crime,Drama,-,-,Not Rated
+559,Top Gun,Tom Cruise,Tim Robbins,Kelly McGillis," 26,523",Action,Drama,-,United States,106,PG
+560,The Last Kingdom: Seven Kings Must Die,Mark Rowley,Pekka Strang,Zoltan Andrasi," 439,491 ",Action,Drama,History,-,296,TV-MA
+561,Doctor Strange in the Multiverse of Madness,Benedict Cumberbatch,Elizabeth Olsen,Chiwetel Ejiofor," 244,803 ",Action,Adventure,Fantasy,"$411,331,607",299,PG-13
+562,Game Night,Jason Bateman,Rachel McAdams,Kyle Chandler," 865,124 ",Action,Adventure,Comedy,-,409,R
+563,Captain America: The First Avenger,Chris Evans,Hugo Weaving,Samuel L. Jackson," 155,569 ",Action,Adventure,Sci-Fi,"$176,654,505",447,PG-13
+564,Conan the Barbarian,Arnold Schwarzenegger,James Earl Jones,Max von Sydow," 397,230 ",Action,Adventure,Fantasy,"$39,565,475",509,R
+565,Jumanji: Welcome to the Jungle,Dwayne Johnson,Karen Gillan,Kevin Hart," 657,238 ",Action,Adventure,Comedy,United States,527,PG-13
+566,Jurassic World,Chris Pratt,Bryce Dallas Howard,Ty Simpkins," 672,932 ",Action,Adventure,Sci-Fi,"$653,406,625",578,PG-13
+567,The Amazing Spider-Man,Andrew Garfield,Emma Stone,Rhys Ifans," 648,155 ",Action,Adventure,Sci-Fi,United States,580,PG-13
+568,Star Wars: Episode VIII - The Last Jedi,Daisy Ridley,John Boyega,Mark Hamill," 361,093 ",Action,Adventure,Fantasy,United States,622,PG-13
+569,Solo: A Star Wars Story,Alden Ehrenreich,Woody Harrelson,Emilia Clarke," 366,787 ",Action,Adventure,Sci-Fi,"$213,767,512",645,PG-13
+570,Mission: Impossible III,Tom Cruise,Michelle Monaghan,Ving Rhames," 399,391 ",Action,Adventure,Thriller,Color,861,PG-13
+571,The Mask,Jim Carrey,Cameron Diaz,Peter Riegert," 95,405 ",Action,Comedy,Crime,Color,890,PG-13
+572,The Guardian,Kevin Costner,Ashton Kutcher,Sela Ward," 193,577 ",Action,Adventure,Drama,Color,971,PG-13
+573,A Knight's Tale,Heath Ledger,Mark Addy,Rufus Sewell," 837,374 ",Action,Adventure,Romance,Color,"1,033",PG-13
+574,Iron Man 2,Robert Downey Jr.,Mickey Rourke,Gwyneth Paltrow," 446,053 ",Action,Sci-Fi,-,United States,"1,077",PG-13
+575,X-Men: Apocalypse,James McAvoy,Michael Fassbender,Jennifer Lawrence," 308,250 ",Action,Adventure,Sci-Fi,Color,"1,141",PG-13
+576,Con Air,Nicolas Cage,John Cusack,John Malkovich," 513,403 ",Action,Crime,Thriller,DTSDolby Digital,"1,205",R
+577,Pacific Rim,Idris Elba,Charlie Hunnam,Rinko Kikuchi," 126,365 ",Action,Adventure,Sci-Fi,Color,"1,214",PG-13
+578,Atlantis: The Lost Empire,Michael J. Fox,Jim Varney,Corey Burton," 98,682 ",Animation,Action,Adventure,Color,"1,501",PG
+579,Romancing the Stone,Michael Douglas,Kathleen Turner,Danny DeVito," 200,664 ",Action,Adventure,Comedy,Color,"1,583",PG
+580,Robin Hood: Prince of Thieves,Kevin Costner,Morgan Freeman,Mary Elizabeth Mastrantonio," 343,102 ",Action,Adventure,Drama,Color,"1,590",PG-13
+581,National Treasure,Nicolas Cage,Diane Kruger,Justin Bartha," 238,316 ",Action,Adventure,Mystery,"$173,008,894","1,606",PG
+582,The Hitman's Bodyguard,Ryan Reynolds,Samuel L. Jackson,Gary Oldman," 51,062",Action,Comedy,Crime,Color,"1,966",R
+583,Dragged Across Concrete,Mel Gibson,Vince Vaughn,Tory Kittles," 134,485 ",Action,Crime,Drama,Color,"2,002",R
+584,Love and Monsters,Dylan O'Brien,Jessica Henwick,Michael Rooker," 103,619 ",Action,Adventure,Comedy,Color,"2,020",PG-13
+585,Clear and Present Danger,Harrison Ford,Willem Dafoe,Anne Archer," 289,121 ",Action,Crime,Drama,Color,"2,265",PG-13
+586,The World's End,Simon Pegg,Nick Frost,Martin Freeman," 283,722 ",Action,Comedy,Sci-Fi,"$26,004,851","2,270",R
+587,28 Weeks Later,Jeremy Renner,Rose Byrne,Robert Carlyle," 143,251 ",Action,Adventure,Horror,Color,"2,291",R
+588,In the Heart of the Sea,Chris Hemsworth,Cillian Murphy,Brendan Gleeson," 347,902 ",Action,Adventure,Biography,-,"2,334",PG-13
+589,Pineapple Express,Seth Rogen,James Franco,Gary Cole," 76,196",Action,Comedy,Crime,ColorBlack and White,"2,424",R
+590,Outlaw King,Chris Pine,Stephen Dillane,Rebecca Robin," 46,006 ",Action,Biography,Drama,-,"2,537",R
+591,Clash of the Titans,Laurence Olivier,Harry Hamlin,Claire Bloom," 122,501 ",Action,Adventure,Family,"$41,092,328","2,681",PG
+592,Thunderball,Sean Connery,Claudine Auger,Adolfo Celi," 255,736 ",Action,Adventure,Thriller,6-Track Stereo,"3,040",PG
+593,Crank,Jason Statham,Amy Smart,Carlos Sanz," 269,675 ",Action,Crime,Thriller,Color,"3,101",R
+594,Non-Stop,Liam Neeson,Julianne Moore,Scoot McNairy," 76,220 ",Action,Mystery,Thriller,Color,"3,492",PG-13
+595,The Edge,Anthony Hopkins,Alec Baldwin,Elle Macpherson," 81,501 ",Action,Adventure,Drama,Color,"3,525",R
+596,48 Hrs.,Nick Nolte,Eddie Murphy,Annette O'Toole," 82,915 ",Action,Comedy,Crime,Color,"3,834",R
+597,The Last Castle,Robert Redford,James Gandolfini,Mark Ruffalo," 41,309 ",Action,Drama,Thriller,-,"4,154",R
+598,Death Wish,Charles Bronson,Hope Lange,Vincent Gardenia," 27,735",Action,Crime,Drama,Color,"4,205",R
+599,The Night Comes for Us,Iko Uwais,Joe Taslim,Julie Estelle," 39,070 ",Action,Crime,Thriller,-,"4,479",TV-MA
+600,Repo Man,Harry Dean Stanton,Emilio Estevez,Tracey Walter," 60,663 ",Action,Comedy,Crime,-,-,R
+601,Westworld,Yul Brynner,Richard Benjamin,James Brolin," 29,438 ",Action,Sci-Fi,Thriller,Color,-,PG
+602,Memphis Belle,Matthew Modine,Eric Stoltz,Tate Donovan," 33,683 ",Action,Drama,War,Color,-,PG-13
+603,The Monster Squad,Andre Gower,Robby Kiger,Stephen Macht," 25,309 ",Action,Comedy,Fantasy,-,-,PG-13
+604,Muppet Treasure Island,Tim Curry,Billy Connolly,Jennifer Saunders," 59,735 ",Action,Adventure,Comedy,-,-,G
+605,Free State of Jones,Matthew McConaughey,Gugu Mbatha-Raw,Mahershala Ali," 82,039 ",Action,Biography,Drama,-,-,R
+606,All Is Lost,Robert Redford,-,-," 85,268 ",Action,Adventure,Drama,Color,-,PG-13
+607,Legend of the Guardians: The Owls of Ga'Hoole,Jim Sturgess,Hugo Weaving,David Wenham," 109,822",Animation,Action,Adventure,Color,-,PG
+608,Get the Gringo,Mel Gibson,Kevin Balmore,Daniel Giménez Cacho," 28,178 ",Action,Drama,Thriller,-,-,R
+609,The Big Boss,Bruce Lee,Maria Yi,James Tien," 28,048",Action,Crime,Drama,-,-,R
+610,New Police Story,Jackie Chan,Nicholas Tse,Charlie Yeung," 58,464 ",Action,Crime,Thriller,Color,-,R
+611,Traitor,Don Cheadle,Guy Pearce,Archie Panjabi," 46,644 ",Action,Crime,Drama,Color,-,PG-13
+612,Slow West,Kodi Smit-McPhee,Caren Pistorius,Aorere Paki," 25,542 ",Action,Adventure,Drama,Color,-,R
+613,Agneepath,Hrithik Roshan,Priyanka Chopra Jonas,Sanjay Dutt," 32,464 ",Action,Crime,Drama,-,-,Not Rated
+614,Alan Partridge,Steve Coogan,Colm Meaney,Tim Key," 47,533 ",Action,Comedy,Crime,-,-,R
+615,Fan,Shah Rukh Khan,Shriya Pilgaonkar,Sayani Gupta," 400,375 ",Action,Drama,Thriller,Color,-,Not Rated
+616,The Fast and the Furious,Vin Diesel,Paul Walker,Michelle Rodriguez," 61,763 ",Action,Crime,Thriller,United StatesGermany,75,PG-13
+617,The Woman King,Viola Davis,Thuso Mbedu,Lashana Lynch," 219,407 ",Action,Drama,History,-,262,PG-13
+618,The Magnificent Seven,Denzel Washington,Chris Pratt,Ethan Hawke," 164,016 ",Action,Adventure,Drama,Color,264,PG-13
+619,Ready or Not,Samara Weaving,Adam Brody,Mark O'Brien," 491,663 ",Action,Comedy,Horror,Color,502,R
+620,Aquaman,Jason Momoa,Amber Heard,Willem Dafoe," 213,471 ",Action,Adventure,Fantasy,United StatesAustralia,528,PG-13
+621,Mad Max,Mel Gibson,Joanne Samuel,Hugh Keays-Byrne," 579,829 ",Action,Adventure,Sci-Fi,"$8,750,000",605,R
+622,Captain Marvel,Brie Larson,Samuel L. Jackson,Ben Mendelsohn," 373,273 ",Action,Adventure,Sci-Fi,United StatesAustralia,749,PG-13
+623,Men in Black 3,Will Smith,Tommy Lee Jones,Josh Brolin," 483,987 ",Action,Adventure,Comedy,Color,757,PG-13
+624,The Maze Runner,Dylan O'Brien,Kaya Scodelario,Will Poulter," 345,555 ",Action,Mystery,Sci-Fi,Color,826,PG-13
+625,TRON: Legacy,Jeff Bridges,Garrett Hedlund,Olivia Wilde," 451,092 ",Action,Adventure,Sci-Fi,Color,"1,137",PG
+626,Spectre,Daniel Craig,Christoph Waltz,Léa Seydoux," 128,335",Action,Adventure,Thriller,Color,"1,148",PG-13
+627,What Happened to Monday,Noomi Rapace,Glenn Close,Willem Dafoe," 338,579 ",Action,Crime,Fantasy,Color,"1,226",TV-MA
+628,Hellboy,Ron Perlman,Doug Jones,Selma Blair," 700,031 ",Action,Adventure,Fantasy,"$59,623,958","1,251",PG-13
+629,Thor: The Dark World,Chris Hemsworth,Natalie Portman,Tom Hiddleston," 202,594 ",Action,Adventure,Fantasy,"$206,362,140","1,336",PG-13
+630,Hanna,Saoirse Ronan,Cate Blanchett,Eric Bana," 89,067 ",Action,Adventure,Drama,United StatesUnited KingdomGermany,"1,487",PG-13
+631,Bloodsport,Jean-Claude Van Damme,Donald Gibb,Leah Ayres," 275,019 ",Action,Biography,Drama,Color,"1,581",R
+632,Bad Boys,Will Smith,Martin Lawrence,Lisa Boyle," 327,231 ",Action,Comedy,Crime,Color,"1,795",R
+633,The Book of Eli,Denzel Washington,Mila Kunis,Ray Stevenson," 72,923",Action,Adventure,Drama,ColorBlack and White,"1,853",R
+634,Boss Level,Frank Grillo,Mel Gibson,Naomi Watts," 113,287 ",Action,Adventure,Comedy,-,"1,914",TV-MA
+635,You Only Live Twice,Sean Connery,Akiko Wakabayashi,Mie Hama," 64,692 ",Action,Adventure,Thriller,4-Track Stereo,"1,915",PG
+636,Young Guns,Emilio Estevez,Kiefer Sutherland,Lou Diamond Phillips," 311,022 ",Action,Drama,Western,Color,"2,045",R
+637,The Transporter,Jason Statham,Shu Qi,Matt Schulze," 91,312",Action,Crime,Thriller,Color,"2,196",PG-13
+638,News of the World,Tom Hanks,Helena Zengel,Tom Astor," 237,079 ",Action,Adventure,Drama,Color,"2,235",PG-13
+639,Ghostbusters,Melissa McCarthy,Kristen Wiig,Kate McKinnon," 37,189",Action,Comedy,Fantasy,Color,"2,341",PG-13
+640,The Outpost,Scott Eastwood,Caleb Landry Jones,Orlando Bloom," 321,134 ",Action,Drama,History,-,"2,351",R
+641,The Island,Scarlett Johansson,Ewan McGregor,Djimon Hounsou," 58,908 ",Action,Sci-Fi,Thriller,Color,"2,362",PG-13
+642,Logan's Run,Michael York,Jenny Agutter,Richard Jordan," 82,458 ",Action,Adventure,Sci-Fi,4-Track Stereo,"2,390",PG
+643,The Long Kiss Goodnight,Geena Davis,Samuel L. Jackson,Yvonne Zima," 259,754 ",Action,Crime,Drama,"$33,447,612","2,423",R
+644,Chappie,Sharlto Copley,Dev Patel,Hugh Jackman," 190,962 ",Action,Crime,Drama,Dolby DigitalDatasatSDDS,"2,450",R
+645,The Mask of Zorro,Antonio Banderas,Anthony Hopkins,Catherine Zeta-Jones," 110,915 ",Action,Adventure,Comedy,Color,"2,532",PG-13
+646,Superman II,Gene Hackman,Christopher Reeve,Margot Kidder," 116,193 ",Action,Adventure,Sci-Fi,"$108,185,706","2,862",PG
+647,Patriot Games,Harrison Ford,Sean Bean,Anne Archer," 202,095 ",Action,Thriller,-,United States,"2,980",R
+648,Unstoppable,Denzel Washington,Chris Pine,Rosario Dawson," 29,774 ",Action,Thriller,-,Color,"3,315",PG-13
+649,Shin Godzilla,Hiroki Hasegawa,Yutaka Takenouchi,Satomi Ishihara," 52,643 ",Action,Drama,Horror,Color,"3,688",Not Rated
+650,Spies in Disguise,Rachel Brosnahan,Jarrett Bruno,Claire Crosby," 116,705 ",Animation,Action,Adventure,Color,"3,998",PG
+651,Street Kings,Keanu Reeves,Forest Whitaker,Hugh Laurie," 151,753 ",Action,Crime,Thriller,"$26,418,667","4,023",R
+652,Four Brothers,Mark Wahlberg,Tyrese Gibson,André 3000," 130,881 ",Action,Crime,Drama,-,"4,119",R
+653,The Score,Robert De Niro,Edward Norton,Marlon Brando," 62,645 ",Action,Crime,Drama,-,"4,170",R
+654,Innerspace,Dennis Quaid,Martin Short,Meg Ryan," 265,347 ",Action,Adventure,Comedy,Color,"4,562",PG
+655,Unknown,Liam Neeson,Diane Kruger,January Jones," 62,892",Action,Mystery,Thriller,Color,"4,793",PG-13
+656,Dog Soldiers,Sean Pertwee,Kevin McKidd,Emma Cleasby," 53,483 ",Action,Horror,Thriller,Color,"4,940",R
+657,Tristan + Isolde,James Franco,Sophia Myles,Rufus Sewell," 27,338",Action,Drama,Romance,-,-,PG-13
+658,Three Steps Above Heaven,Mario Casas,María Valverde,Álvaro Cervantes," 69,300 ",Action,Drama,Romance,-,-,Not Rated
+659,El Mariachi,Carlos Gallardo,Consuelo Gómez,Jaime de Hoyos," 49,682 ",Action,Crime,Thriller,Color,-,R
+660,Enemy Mine,Dennis Quaid,Louis Gossett Jr.,Brion James," 139,771 ",Action,Adventure,Drama,Color,-,PG-13
+661,Green Zone,Matt Damon,Jason Isaacs,Greg Kinnear," 90,798 ",Action,Drama,Thriller,"$35,053,660",-,R
+662,We Own the Night,Joaquin Phoenix,Mark Wahlberg,Eva Mendes," 67,187 ",Action,Crime,Drama,Color,-,R
+663,Harsh Times,Christian Bale,Freddy Rodríguez,Eva Longoria," 41,516",Action,Crime,Drama,Color,-,R
+664,Who Am I?,Jackie Chan,Michelle Ferre,Mirai Yamamoto," 25,778",Action,Adventure,Comedy,-,-,PG-13
+665,Dead Snow 2: Red vs. Dead,Geir Vegar Hoel,Ørjan Gamst,Martin Starr," 29,202",Action,Comedy,Fantasy,Color,-,R
+666,The Legend,Saravanan Arul,Geethika,Mayilsamy," 71,757",Action,Drama,Romance,-,-,-
+667,Violent Night,David Harbour,John Leguizamo,Beverly D'Angelo," 269,993 ",Action,Comedy,Crime,-,133,R
+668,Black Panther: Wakanda Forever,Letitia Wright,Lupita Nyong'o,Danai Gurira," 215,031",Action,Adventure,Drama,"$453,829,060",165,PG-13
+669,Extraction,Chris Hemsworth,Bryon Lerum,Ryder Lerum," 397,488 ",Action,Thriller,-,Color,366,R
+670,Black Widow,Scarlett Johansson,Florence Pugh,David Harbour," 343,557 ",Action,Adventure,Sci-Fi,United States,522,PG-13
+671,Kingsman: The Golden Circle,Taron Egerton,Colin Firth,Mark Strong," 167,425 ",Action,Adventure,Comedy,Color,544,R
+672,Commando,Arnold Schwarzenegger,Rae Dawn Chong,Dan Hedaya," 228,501 ",Action,Adventure,Thriller,"$35,100,000",594,R
+673,Safe House,Denzel Washington,Ryan Reynolds,Robert Patrick," 263,835 ",Action,Thriller,-,Color,613,R
+674,Jumanji: The Next Level,Dwayne Johnson,Jack Black,Kevin Hart," 174,228 ",Action,Adventure,Comedy,Color,627,PG-13
+675,Bumblebee,Hailee Steinfeld,Jorge Lendeborg Jr.,John Cena," 80,323 ",Action,Adventure,Sci-Fi,Color,655,PG-13
+676,Road House,Patrick Swayze,Kelly Lynch,Sam Elliott," 423,302 ",Action,Thriller,-,Color,677,R
+677,In Time,Justin Timberlake,Amanda Seyfried,Cillian Murphy," 169,740 ",Action,Sci-Fi,Thriller,"$37,520,095",680,PG-13
+678,The Equalizer 2,Denzel Washington,Pedro Pascal,Ashton Sanders," 270,545 ",Action,Crime,Thriller,"$102,084,362",774,R
+679,Warcraft,Travis Fimmel,Paula Patton,Ben Foster," 436,508 ",Action,Adventure,Fantasy,Color,891,PG-13
+680,Armageddon,Bruce Willis,Billy Bob Thornton,Ben Affleck," 214,183",Action,Adventure,Sci-Fi,Color,922,PG-13
+681,The Adam Project,Ryan Reynolds,Walker Scobell,Mark Ruffalo," 97,687 ",Action,Adventure,Comedy,-,944,PG-13
+682,Teenage Mutant Ninja Turtles,Judith Hoag,Elias Koteas,Josh Pais," 398,099 ",Action,Adventure,Comedy,Color,953,PG
+683,Wanted,Angelina Jolie,James McAvoy,Morgan Freeman," 159,077 ",Action,Crime,Thriller,Color,962,R
+684,The Running Man,Arnold Schwarzenegger,Maria Conchita Alonso,Yaphet Kotto," 199,569 ",Action,Sci-Fi,Thriller,"$38,122,105","1,062",R
+685,Atomic Blonde,Charlize Theron,James McAvoy,John Goodman," 89,769 ",Action,Thriller,-,Color,"1,277",R
+686,Midway,Ed Skrein,Patrick Wilson,Woody Harrelson," 223,706 ",Action,Drama,History,ColorBlack and White,"1,421",PG-13
+687,King Arthur: Legend of the Sword,Charlie Hunnam,Astrid Bergès-Frisbey,Jude Law," 87,112",Action,Adventure,Drama,Dolby Surround 7.1Dolby Atmos,"1,517",PG-13
+688,Enola Holmes 2,Millie Bobby Brown,Henry Cavill,David Thewlis," 263,641 ",Action,Adventure,Crime,-,"1,766",PG-13
+689,The A-Team,Liam Neeson,Bradley Cooper,Sharlto Copley," 477,860 ",Action,Adventure,Crime,"$77,222,099","1,808",PG-13
+690,The Wolverine,Hugh Jackman,Will Yun Lee,Tao Okamoto," 218,818 ",Action,Sci-Fi,-,Color,"1,868",PG-13
+691,2 Guns,Denzel Washington,Mark Wahlberg,Paula Patton," 44,111 ",Action,Thriller,-,Color,"1,942",R
+692,The Last Starfighter,Lance Guest,Robert Preston,Kay E. Kuter," 125,153 ",Action,Adventure,Sci-Fi,2.39 : 1,"1,948",PG
+693,Tron,Jeff Bridges,Bruce Boxleitner,David Warner," 154,924 ",Action,Adventure,Sci-Fi,-,"1,951",PG
+694,Pandorum,Dennis Quaid,Ben Foster,Cam Gigandet," 189,088 ",Action,Horror,Mystery,-,"1,986",R
+695,Zombieland: Double Tap,Woody Harrelson,Jesse Eisenberg,Emma Stone," 53,075 ",Action,Comedy,Horror,-,"2,004",R
+696,Wyatt Earp,Kevin Costner,Dennis Quaid,Gene Hackman," 184,183 ",Action,Adventure,Biography,Color,"2,011",PG-13
+697,Demolition Man,Sylvester Stallone,Wesley Snipes,Sandra Bullock," 225,710 ",Action,Sci-Fi,Thriller,"$58,055,768","2,162",R
+698,Blade II,Wesley Snipes,Kris Kristofferson,Ron Perlman," 89,301 ",Action,Horror,Sci-Fi,Color,"2,176",R
+699,No Escape,Lake Bell,Pierce Brosnan,Owen Wilson," 95,329 ",Action,Thriller,-,-,"2,243",R
+700,On Her Majesty's Secret Service,George Lazenby,Diana Rigg,Telly Savalas," 249,780 ",Action,Adventure,Thriller,"$22,774,493","2,345",PG
+701,Escape Plan,Sylvester Stallone,Arnold Schwarzenegger,50 Cent," 525,854 ",Action,Thriller,-,"$25,135,965","2,456",R
+702,The Matrix Revolutions,Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss," 82,072 ",Action,Sci-Fi,-,"$139,313,948","2,596",R
+703,Super,Rainn Wilson,Elliot Page,Liv Tyler," 36,192",Action,Comedy,Crime,Color,"2,622",R
+704,Kisi Ka Bhai Kisi Ki Jaan,Salman Khan,Pooja Hegde,Venkatesh Daggubati," 111,237 ",Action,Comedy,Drama,-,"2,627",Not Rated
+705,Live and Let Die,Roger Moore,Yaphet Kotto,Jane Seymour," 300,816 ",Action,Adventure,Thriller,"$35,377,836","2,670",PG
+706,Angels & Demons,Tom Hanks,Ewan McGregor,Ayelet Zurer," 112,316 ",Action,Mystery,Thriller,Color,"2,671",PG-13
+707,Hot Shots!,Charlie Sheen,Cary Elwes,Valeria Golino," 59,861",Action,Comedy,-,Color,"2,789",PG-13
+708,Jungle,Daniel Radcliffe,Thomas Kretschmann,Alex Russell," 83,900 ",Action,Adventure,Biography,-,"2,974",R
+709,Backdraft,Kurt Russell,William Baldwin,Robert De Niro," 68,643 ",Action,Drama,Mystery,Color,"3,001",R
+710,The Finest Hours,Chris Pine,Casey Affleck,Ben Foster," 120,601 ",Action,Drama,History,-,"3,065",PG-13
+711,Out of the Furnace,Christian Bale,Casey Affleck,Zoe Saldana," 102,148 ",Action,Crime,Drama,-,"3,140",R
+712,The Living Daylights,Timothy Dalton,Maryam d'Abo,Jeroen Krabbé," 257,353 ",Action,Adventure,Thriller,Color,"3,238",PG
+713,The Grey,Liam Neeson,Dermot Mulroney,Frank Grillo," 218,967 ",Action,Adventure,Drama,Color,"3,403",R
+714,Gangster Squad,Sean Penn,Ryan Gosling,Emma Stone," 28,223 ",Action,Crime,Drama,-,"3,423",R
+715,Colors,Sean Penn,Robert Duvall,Maria Conchita Alonso," 57,894 ",Action,Crime,Drama,Color,"3,511",R
+716,Absolute Power,Clint Eastwood,Gene Hackman,Ed Harris," 28,859",Action,Crime,Drama,-,"3,519",R
+717,Harriet,Cynthia Erivo,Janelle Monáe,Leslie Odom Jr.," 109,136 ",Action,Biography,Drama,"$43,082,155","3,849",PG-13
+718,The Man with the Golden Gun,Roger Moore,Christopher Lee,Britt Ekland," 204,656 ",Action,Adventure,Thriller,Color,"3,857",PG
+719,Underworld: Evolution,Kate Beckinsale,Scott Speedman,Bill Nighy," 104,631 ",Action,Fantasy,Thriller,Color,"3,914",R
+720,For Your Eyes Only,Roger Moore,Carole Bouquet,Topol," 44,085 ",Action,Adventure,Thriller,Color,"4,071",PG
+721,Rumble in the Bronx,Jackie Chan,Anita Mui,Françoise Yip," 26,778 ",Action,Comedy,Crime,Color,"4,108",R
+722,Hamburger Hill,Anthony Barrile,Michael Boatman,Don Cheadle," 62,800 ",Action,Drama,Thriller,-,"4,143",R
+723,Appaloosa,Ed Harris,Viggo Mortensen,Renée Zellweger," 60,164 ",Action,Crime,Drama,Color,"4,167",R
+724,Pete's Dragon,Bryce Dallas Howard,Robert Redford,Oakes Fegley," 98,734 ",Action,Adventure,Comedy,-,"4,374",PG
+725,Hardcore Henry,Sharlto Copley,Tim Roth,Haley Bennett," 41,029 ",Action,Adventure,Sci-Fi,-,"4,550",R
+726,The Salvation,Mads Mikkelsen,Eva Green,Jeffrey Dean Morgan," 103,750 ",Action,Drama,Thriller,-,"4,644",R
+727,Conspiracy Theory,Mel Gibson,Julia Roberts,Patrick Stewart," 173,236 ",Action,Mystery,Thriller,Color,"4,675",R
+728,Lethal Weapon 3,Mel Gibson,Danny Glover,Joe Pesci," 25,109 ",Action,Crime,Thriller,Color,-,R
+729,Tales from the Crypt: Demon Knight,Billy Zane,William Sadler,Jada Pinkett Smith," 73,265 ",Action,Fantasy,Horror,-,-,R
+730,Death Sentence,Kevin Bacon,John Goodman,Kelly Preston," 65,090 ",Action,Crime,Drama,Color,-,R
+731,Brooklyn's Finest,Richard Gere,Don Cheadle,Ethan Hawke," 131,641 ",Action,Crime,Drama,-,-,R
+732,Ransom,Mel Gibson,Gary Sinise,Rene Russo," 47,282 ",Action,Crime,Thriller,ColorBlack and White,-,R
+733,The Enforcer,Clint Eastwood,Tyne Daly,Harry Guardino," 67,558 ",Action,Crime,Thriller,Color,-,R
+734,Machine Gun Preacher,Gerard Butler,Michelle Monaghan,Michael Shannon," 83,879 ",Action,Biography,Crime,Color,-,R
+735,Hidalgo,Viggo Mortensen,Omar Sharif,Zuleikha Robinson," 48,023 ",Action,Adventure,Biography,-,-,PG-13
+736,Nothing to Lose,Martin Lawrence,Tim Robbins,John C. McGinley," 34,675",Action,Adventure,Comedy,-,-,R
+737,Blood and Bone,Michael Jai White,Julian Sands,Eamonn Walker," 51,757 ",Action,Crime,Drama,-,-,R
+738,The Brothers Bloom,Rachel Weisz,Adrien Brody,Mark Ruffalo," 62,142 ",Action,Adventure,Comedy,Color,-,PG-13
+739,The Brave One,Jodie Foster,Terrence Howard,Naveen Andrews," 27,689 ",Action,Crime,Drama,Color,-,R
+740,Stakeout,Richard Dreyfuss,Emilio Estevez,Madeleine Stowe," 39,268 ",Action,Comedy,Crime,-,-,R
+741,Wild Target,Bill Nighy,Emily Blunt,Rupert Grint," 28,899 ",Action,Comedy,Crime,-,-,PG-13
+742,Turbo Kid,Munro Chambers,Laurence Leboeuf,Michael Ironside," 46,253 ",Action,Adventure,Comedy,-,-,Not Rated
+743,Om Shanti Om,Shah Rukh Khan,Deepika Padukone,Arjun Rampal," 41,646",Action,Comedy,Drama,-,-,Not Rated
+744,Antim: The Final Truth,Salman Khan,Aayush Sharma,Mahima Makwana," 241,906 ",Action,Crime,Drama,-,-,-
+745,The Fate of the Furious,Vin Diesel,Jason Statham,Dwayne Johnson," 505,995 ",Action,Crime,Thriller,"$226,008,385",156,PG-13
+746,Venom,Tom Hardy,Michelle Williams,Riz Ahmed," 192,647 ",Action,Adventure,Sci-Fi,"$213,515,506",371,PG-13
+747,Red Sparrow,Jennifer Lawrence,Joel Edgerton,Matthias Schoenaerts," 729,911 ",Action,Drama,Thriller,Color,408,R
+748,Star Wars: Episode II - Attack of the Clones,Hayden Christensen,Natalie Portman,Ewan McGregor," 278,777 ",Action,Adventure,Fantasy,"$310,676,740",797,PG
+749,Resident Evil,Milla Jovovich,Michelle Rodriguez,Ryan McCluskey," 471,878 ",Action,Horror,Sci-Fi,Color,813,R
+750,Divergent,Shailene Woodley,Theo James,Kate Winslet," 330,192 ",Action,Adventure,Mystery,Color,882,PG-13
+751,Kong: Skull Island,Tom Hiddleston,Samuel L. Jackson,Brie Larson," 541,811 ",Action,Adventure,Fantasy,Color,883,PG-13
+752,Pirates of the Caribbean: On Stranger Tides,Johnny Depp,Penélope Cruz,Ian McShane," 277,518 ",Action,Adventure,Fantasy,"$241,071,802",990,PG-13
+753,The Other Guys,Will Ferrell,Mark Wahlberg,Derek Jeter," 278,983 ",Action,Comedy,Crime,Color,"1,119",PG-13
+754,John Carter,Taylor Kitsch,Lynn Collins,Willem Dafoe," 513,061 ",Action,Adventure,Sci-Fi,"$73,078,100","1,133",PG-13
+755,The Amazing Spider-Man 2,Andrew Garfield,Emma Stone,Jamie Foxx," 527,088 ",Action,Adventure,Sci-Fi,United States,"1,170",PG-13
+756,X-Men: The Last Stand,Patrick Stewart,Hugh Jackman,Halle Berry," 87,182 ",Action,Adventure,Sci-Fi,Color,"1,290",PG-13
+757,Anna,Sasha Luss,Helen Mirren,Luke Evans," 204,249",Action,Thriller,-,Color,"1,304",R
+758,Enola Holmes,Millie Bobby Brown,Henry Cavill,Sam Claflin," 173,024",Action,Adventure,Crime,Color,"1,322",PG-13
+759,The Old Guard,Charlize Theron,KiKi Layne,Matthias Schoenaerts," 505,557 ",Action,Thriller,-,Dolby Atmos,"1,404",R
+760,The Incredible Hulk,Edward Norton,Liv Tyler,Tim Roth," 199,897 ",Action,Adventure,Sci-Fi,"$134,806,913","1,424",PG-13
+761,Jungle Cruise,Dwayne Johnson,Emily Blunt,Edgar Ramírez," 275,357 ",Action,Adventure,Comedy,"$116,987,516","1,443",PG-13
+762,Robin Hood,Russell Crowe,Cate Blanchett,Matthew Macfadyen," 472,087 ",Action,Adventure,Drama,Color,"1,455",PG-13
+763,The Hunger Games: Mockingjay - Part 1,Jennifer Lawrence,Josh Hutcherson,Liam Hemsworth," 246,730 ",Action,Adventure,Sci-Fi,"$337,135,885","1,557",PG-13
+764,Ender's Game,Harrison Ford,Asa Butterfield,Hailee Steinfeld," 233,822 ",Action,Adventure,Sci-Fi,"$61,737,191","1,616",PG-13
+765,Jason Bourne,Matt Damon,Tommy Lee Jones,Alicia Vikander," 240,522 ",Action,Thriller,-,Color,"1,626",PG-13
+766,Austin Powers: The Spy Who Shagged Me,Mike Myers,Heather Graham,Michael York," 67,063",Action,Adventure,Comedy,Color,"1,653",PG-13
+767,The Harder They Fall,Jonathan Majors,Zazie Beetz,RJ Cyler," 148,709 ",Action,Drama,Western,-,"1,705",R
+768,Smokin' Aces,Jeremy Piven,Ryan Reynolds,Ray Liotta," 457,735 ",Action,Comedy,Crime,Color,"1,724",R
+769,Elysium,Matt Damon,Jodie Foster,Sharlto Copley," 235,782 ",Action,Drama,Sci-Fi,DTSSDDSDolby DigitalDolby AtmosAuro 11.1Sonics-DDPDolby Surround 7.1,"1,739",R
+770,The Chronicles of Riddick,Vin Diesel,Judi Dench,Colm Feore," 458,028 ",Action,Adventure,Sci-Fi,Color,"1,757",R
+771,Quantum of Solace,Daniel Craig,Olga Kurylenko,Mathieu Amalric," 296,183 ",Action,Adventure,Mystery,Color,"1,892",PG-13
+772,Prince of Persia: The Sands of Time,Jake Gyllenhaal,Gemma Arterton,Ben Kingsley," 313,374 ",Action,Adventure,Fantasy,Color,"1,990",PG-13
+773,The Expendables 2,Sylvester Stallone,Liam Hemsworth,Randy Couture," 59,083 ",Action,Adventure,Thriller,"$85,028,192","2,026",R
+774,Adrift,Shailene Woodley,Sam Claflin,Jeffrey Thomas," 110,199 ",Action,Adventure,Biography,-,"2,067",PG-13
+775,The Rundown,Dwayne Johnson,Seann William Scott,Christopher Walken," 128,175 ",Action,Adventure,Comedy,Color,"2,072",PG-13
+776,The 13th Warrior,Antonio Banderas,Diane Venora,Dennis Storhøi," 176,821 ",Action,Adventure,History,Color,"2,255",R
+777,The Heat,Sandra Bullock,Michael McDonald,Melissa McCarthy," 308,682 ",Action,Comedy,Crime,Color,"2,320",R
+778,The Bourne Legacy,Jeremy Renner,Rachel Weisz,Edward Norton," 67,219 ",Action,Adventure,Thriller,Color,"2,373",PG-13
+779,Hunter Killer,Gerard Butler,Gary Oldman,Common," 110,335 ",Action,Thriller,-,-,"2,495",R
+780,Crocodile Dundee,Paul Hogan,Linda Kozlowski,John Meillon," 108,167 ",Action,Adventure,Comedy,Color,"2,516",PG-13
+781,Licence to Kill,Timothy Dalton,Robert Davi,Carey Lowell," 126,410 ",Action,Adventure,Thriller,Color,"2,553",PG-13
+782,Tears of the Sun,Bruce Willis,Cole Hauser,Monica Bellucci," 228,478 ",Action,Drama,Thriller,Color,"2,630",R
+783,Rush Hour 2,Jackie Chan,Chris Tucker,John Lone," 71,241 ",Action,Comedy,Crime,-,"2,742",PG-13
+784,The Lego Movie 2: The Second Part,Chris Pratt,Elizabeth Banks,Will Arnett," 182,460 ",Animation,Action,Adventure,Dolby AtmosDolby DigitalDolby Surround 7.1,"2,779",PG
+785,30 Days of Night,Josh Hartnett,Melissa George,Danny Huston," 107,538 ",Action,Adventure,Horror,Color,"2,818",R
+786,Epic,Amanda Seyfried,Josh Hutcherson,Beyoncé," 102,732 ",Animation,Action,Adventure,-,"2,872",PG
+787,Overlord,Jovan Adepo,Wyatt Russell,Mathilde Ollivier," 39,679",Action,Horror,Sci-Fi,Color,"2,876",R
+788,The Informer,Joel Kinnaman,Rosamund Pike,Common," 132,234 ",Action,Crime,Drama,-,"2,891",R
+789,Flushed Away,Hugh Jackman,Kate Winslet,Ian McKellen," 200,623 ",Animation,Action,Adventure,Color,"2,997",PG
+790,Machete,Danny Trejo,Michelle Rodriguez,Robert De Niro," 109,002 ",Action,Crime,Thriller,Color,"3,055",R
+791,Attack the Block,John Boyega,Jodie Whittaker,Alex Esmail," 72,465 ",Action,Adventure,Comedy,"$1,024,175","3,135",R
+792,Joy Ride,Steve Zahn,Paul Walker,Leelee Sobieski," 26,932 ",Action,Mystery,Thriller,DolbyDTS,"3,162",R
+793,Rollerball,James Caan,John Houseman,Maud Adams," 258,432 ",Action,Sci-Fi,Sport,Color,"3,230",Approved
+794,Bad Boys II,Will Smith,Martin Lawrence,Gabrielle Union," 84,147 ",Action,Comedy,Crime,Color,"3,292",R
+795,U-571,Matthew McConaughey,Bill Paxton,Harvey Keitel," 111,996 ",Action,War,-,-,"3,327",PG-13
+796,Run All Night,Liam Neeson,Ed Harris,Joel Kinnaman," 213,737 ",Action,Crime,Thriller,-,"3,490",R
+797,Ghostbusters II,Bill Murray,Dan Aykroyd,Sigourney Weaver," 62,241",Action,Comedy,Fantasy,Color,"3,534",PG
+798,The Girl with All the Gifts,Sennia Nanua,Fisayo Akinade,Dominique Tipper," 96,030 ",Action,Adventure,Drama,-,"3,554",R
+799,Penguins of Madagascar,Tom McGrath,Chris Miller,Christopher Knights," 94,047 ",Animation,Action,Adventure,-,"3,595",PG
+800,Hot Shots! Part Deux,Charlie Sheen,Lloyd Bridges,Valeria Golino," 133,342 ",Action,Comedy,-,Color,"3,802",PG-13
+801,Outbreak,Dustin Hoffman,Rene Russo,Morgan Freeman," 35,383",Action,Drama,Thriller,Color,"3,832",R
+802,The Aeronauts,Felicity Jones,Eddie Redmayne,Himesh Patel," 57,165 ",Action,Adventure,Drama,Color,"3,996",PG-13
+803,Courage Under Fire,Denzel Washington,Meg Ryan,Lou Diamond Phillips," 190,958 ",Action,Drama,Mystery,Color,"4,011",R
+804,Eagle Eye,Shia LaBeouf,Michelle Monaghan,Rosario Dawson," 175,720 ",Action,Mystery,Thriller,Color,"4,014",PG-13
+805,RED 2,Bruce Willis,Helen Mirren,John Malkovich," 83,298 ",Action,Comedy,Crime,"$53,262,560","4,091",PG-13
+806,Star Trek III: The Search for Spock,William Shatner,Leonard Nimoy,DeForest Kelley," 84,558 ",Action,Adventure,Sci-Fi,Color,"4,155",PG
+807,Star Trek: Generations,Patrick Stewart,William Shatner,Malcolm McDowell," 131,248 ",Action,Adventure,Mystery,Color,"4,232",PG
+808,Shanghai Noon,Jackie Chan,Owen Wilson,Lucy Liu," 57,205 ",Action,Adventure,Comedy,-,"4,359",PG-13
+809,Black Rain,Michael Douglas,Andy Garcia,Ken Takakura," 46,846 ",Action,Crime,Drama,-,"4,499",R
+810,Sudden Impact,Clint Eastwood,Sondra Locke,Pat Hingle," 37,069 ",Action,Crime,Thriller,Color,"4,527",R
+811,New Jack City,Wesley Snipes,Ice-T,Allen Payne," 62,567 ",Action,Crime,Drama,Color,"4,722",R
+812,Titan A.E.,Matt Damon,Drew Barrymore,Bill Pullman," 25,476 ",Animation,Action,Adventure,DTSDolby DigitalSDDS,"4,892",PG
+813,The Final Countdown,Kirk Douglas,Martin Sheen,Katharine Ross," 64,398 ",Action,Adventure,Sci-Fi,Color,"4,925",PG
+814,Alpha,Kodi Smit-McPhee,Jóhannes Haukur Jóhannesson,Marcin Kowalczyk," 70,400 ",Action,Adventure,Drama,-,-,PG-13
+815,21 Bridges,Chadwick Boseman,Sienna Miller,J.K. Simmons," 65,193 ",Action,Crime,Drama,Color,-,R
+816,Kiss of the Dragon,Jet Li,Bridget Fonda,Tchéky Karyo," 40,415 ",Action,Crime,Thriller,Color,-,R
+817,The Wave,Kristoffer Joner,Ane Dahl Torp,Jonas Hoff Oftebro," 139,281 ",Action,Drama,Thriller,-,-,R
+818,The Recruit,Al Pacino,Colin Farrell,Bridget Moynahan," 155,507 ",Action,Thriller,-,-,-,PG-13
+819,Man on a Ledge,Sam Worthington,Elizabeth Banks,Jamie Bell," 167,633 ",Action,Crime,Thriller,-,-,PG-13
+820,Lethal Weapon 4,Mel Gibson,Danny Glover,Joe Pesci," 31,132 ",Action,Crime,Thriller,Color,-,R
+821,Outland,Sean Connery,Frances Sternhagen,Peter Boyle," 152,639 ",Action,Crime,Sci-Fi,Color,-,R
+822,Shoot 'Em Up,Clive Owen,Monica Bellucci,Paul Giamatti," 96,497 ",Action,Comedy,Thriller,Color,-,R
+823,Edge of Darkness,Mel Gibson,Ray Winstone,Danny Huston," 152,217 ",Action,Drama,Thriller,"$43,313,890",-,R
+824,Vantage Point,Dennis Quaid,Forest Whitaker,Matthew Fox," 132,759 ",Action,Crime,Drama,Color,-,PG-13
+825,16 Blocks,Bruce Willis,Yasiin Bey,David Morse," 34,335 ",Action,Drama,Thriller,-,-,PG-13
+826,The Way of the Gun,Ryan Phillippe,Benicio Del Toro,Juliette Lewis," 39,302 ",Action,Crime,Drama,-,-,R
+827,The Art of Self-Defense,Jesse Eisenberg,Alessandro Nivola,Imogen Poots," 32,722 ",Action,Comedy,Crime,-,-,R
+828,Seraphim Falls,Pierce Brosnan,Liam Neeson,Anjelica Huston," 35,653",Action,Drama,Thriller,-,-,R
+829,22 Bullets,Jean Reno,Kad Merad,Jean-Pierre Darroussin," 47,509 ",Action,Crime,Drama,-,-,Not Rated
+830,Raees,Shah Rukh Khan,Sunny Leone,Nawazuddin Siddiqui," 41,437 ",Action,Crime,Drama,Color,-,Not Rated
+831,Wasabi,Jean Reno,Ryôko Hirosue,Michel Muller," 25,085",Action,Drama,Comedy,-,-,R
+832,Wanted,Salman Khan,Ayesha Takia,Prakash Raj," 297,859 ",Action,Crime,Thriller,-,-,Not Rated
+833,Fast & Furious,Vin Diesel,Paul Walker,Michelle Rodriguez," 53,995",Action,Crime,Thriller,United StatesJapan,131,PG-13
+834,Plane,Gerard Butler,Mike Colter,Tony Goldwyn," 222,755 ",Action,Adventure,Thriller,-,143,R
+835,Fast & Furious Presents: Hobbs & Shaw,Dwayne Johnson,Jason Statham,Idris Elba," 217,644",Action,Adventure,Thriller,"$173,956,935",265,PG-13
+836,The Gray Man,Ryan Gosling,Chris Evans,Ana de Armas," 468,032 ",Action,Thriller,-,-,268,PG-13
+837,Star Wars: Episode IX - The Rise of Skywalker,Daisy Ridley,John Boyega,Oscar Isaac," 825,248 ",Action,Adventure,Fantasy,United States,327,PG-13
+838,Star Wars: Episode I - The Phantom Menace,Ewan McGregor,Liam Neeson,Natalie Portman," 324,872 ",Action,Adventure,Fantasy,United States,382,PG
+839,Pirates of the Caribbean: Dead Men Tell No Tales,Johnny Depp,Geoffrey Rush,Javier Bardem," 214,584",Action,Adventure,Fantasy,"$172,558,876",606,PG-13
+840,The Tomorrow War,Chris Pratt,Yvonne Strahovski,J.K. Simmons," 124,228 ",Action,Adventure,Drama,Color,727,PG-13
+841,Homefront,Jason Statham,James Franco,Winona Ryder," 120,108 ",Action,Crime,Thriller,Color,737,R
+842,The Hunt,Betty Gilpin,Hilary Swank,Ike Barinholtz," 139,793 ",Action,Horror,Thriller,Color,810,R
+843,Tag,Jeremy Renner,Ed Helms,Jake Johnson," 75,230 ",Action,Comedy,-,"$54,730,625",823,R
+844,Sonic the Hedgehog 2,James Marsden,Jim Carrey,Ben Schwartz," 286,041 ",Action,Adventure,Comedy,-,843,PG
+845,Gone in 60 Seconds,Nicolas Cage,Angelina Jolie,Giovanni Ribisi," 172,569 ",Action,Crime,Thriller,"$101,648,571",902,PG-13
+846,Pokémon: Detective Pikachu,Ryan Reynolds,Justice Smith,Kathryn Newton," 148,045 ",Action,Adventure,Comedy,"$144,174,568",929,PG
+847,Sonic the Hedgehog,Ben Schwartz,James Marsden,Jim Carrey," 459,787 ",Action,Adventure,Comedy,"$148,974,665","1,027",PG
+848,War of the Worlds,Tom Cruise,Dakota Fanning,Tim Robbins," 98,490 ",Action,Adventure,Sci-Fi,"$234,280,354","1,114",PG-13
+849,The Quick and the Dead,Sharon Stone,Gene Hackman,Russell Crowe," 428,856 ",Action,Romance,Thriller,ColorBlack and White,"1,216",R
+850,The Lost World: Jurassic Park,Jeff Goldblum,Julianne Moore,Pete Postlethwaite," 343,459 ",Action,Adventure,Sci-Fi,Color,"1,235",PG-13
+851,The Hunger Games: Mockingjay - Part 2,Jennifer Lawrence,Josh Hutcherson,Liam Hemsworth," 515,689 ",Action,Adventure,Sci-Fi,"$281,723,902","1,356",PG-13
+852,X-Men Origins: Wolverine,Hugh Jackman,Liev Schreiber,Ryan Reynolds," 512,354 ",Action,Sci-Fi,-,Color,"1,462",PG-13
+853,Mr. & Mrs. Smith,Brad Pitt,Angelina Jolie,Adam Brody," 83,775 ",Action,Comedy,Crime,"$186,336,279","1,513",PG-13
+854,Mandy,Nicolas Cage,Andrea Riseborough,Linus Roache," 86,302 ",Action,Fantasy,Horror,"$1,233,694","1,664",Not Rated
+855,12 Strong,Chris Hemsworth,Michael Shannon,Michael Peña," 91,256 ",Action,Drama,History,-,"1,696",R
+856,Under Siege,Steven Seagal,Gary Busey,Tommy Lee Jones," 134,575 ",Action,Thriller,-,Color,"1,698",R
+857,Cliffhanger,Sylvester Stallone,John Lithgow,Michael Rooker," 217,168 ",Action,Adventure,Thriller,"$84,049,211","1,823",R
+858,The Chronicles of Narnia: Prince Caspian,Ben Barnes,Skandar Keynes,Georgie Henley," 59,032",Action,Adventure,Family,Color,"1,902",PG
+859,Flash Gordon,Sam J. Jones,Melody Anderson,Max von Sydow," 369,074 ",Action,Adventure,Sci-Fi,"$27,107,960","1,911",PG
+860,Terminator Salvation,Christian Bale,Sam Worthington,Anton Yelchin," 165,996 ",Action,Adventure,Sci-Fi,SDDSDolby DigitalDTS,"2,075",PG-13
+861,Sin City: A Dame to Kill For,Mickey Rourke,Jessica Alba,Josh Brolin," 283,621 ",Action,Crime,Thriller,Black and WhiteColor,"2,112",R
+862,Olympus Has Fallen,Gerard Butler,Aaron Eckhart,Morgan Freeman," 175,350 ",Action,Thriller,-,Color,"2,177",R
+863,Rambo: First Blood Part II,Sylvester Stallone,Richard Crenna,Charles Napier," 59,755 ",Action,Adventure,Thriller,"$150,415,432","2,236",R
+864,The Rocketeer,Billy Campbell,Jennifer Connelly,Alan Arkin," 199,337 ",Action,Adventure,Family,2.39 : 1,"2,286",PG
+865,Tomorrow Never Dies,Pierce Brosnan,Jonathan Pryce,Michelle Yeoh," 279,899 ",Action,Adventure,Thriller,Color,"2,316",PG-13
+866,Kick-Ass 2,Aaron Taylor-Johnson,Chloë Grace Moretz,Christopher Mintz-Plasse," 172,511 ",Action,Comedy,Crime,Color,"2,336",R
+867,The Perfect Storm,George Clooney,Mark Wahlberg,John C. Reilly," 165,261 ",Action,Adventure,Drama,Color,"2,484",PG-13
+868,The Mechanic,Jason Statham,Ben Foster,Donald Sutherland," 166,990 ",Action,Crime,Thriller,Color,"2,515",R
+869,Bad Boys for Life,Will Smith,Martin Lawrence,Vanessa Hudgens," 341,533 ",Action,Comedy,Crime,-,"2,595",R
+870,The Interview,James Franco,Seth Rogen,Randall Park," 191,756 ",Action,Adventure,Comedy,SDDSDatasatDolby DigitalDolby Surround 7.1,"2,813",R
+871,Swordfish,John Travolta,Hugh Jackman,Halle Berry," 172,627 ",Action,Crime,Thriller,DTSDolby DigitalSDDS,"2,871",R
+872,The Man in the Iron Mask,Leonardo DiCaprio,Jeremy Irons,John Malkovich," 99,204 ",Action,Adventure,Drama,Color,"2,944",PG-13
+873,The Spiderwick Chronicles,Freddie Highmore,Sarah Bolger,David Strathairn," 135,432 ",Action,Adventure,Drama,Color,"3,013",PG
+874,Nerve,Emma Roberts,Dave Franco,Emily Meade," 110,094 ",Action,Adventure,Crime,-,"3,118",PG-13
+875,Diamonds Are Forever,Sean Connery,Jill St. John,Charles Gray," 202,665 ",Action,Adventure,Thriller,Color,"3,282",GP
+876,Air Force One,Harrison Ford,Gary Oldman,Glenn Close," 103,914 ",Action,Drama,Thriller,"$172,956,409","3,316",R
+877,Never Back Down,Sean Faris,Djimon Hounsou,Amber Heard," 222,691 ",Action,Drama,Sport,Color,"3,318",PG-13
+878,Get Smart,Steve Carell,Anne Hathaway,Alan Arkin," 109,266 ",Action,Adventure,Comedy,SDDSDTSDolby Digital,"3,398",PG-13
+879,Octopussy,Roger Moore,Maud Adams,Louis Jourdan," 124,553 ",Action,Adventure,Thriller,Color,"3,438",PG
+880,Beverly Hills Cop II,Eddie Murphy,Judge Reinhold,Jürgen Prochnow," 107,587 ",Action,Comedy,Crime,-,"3,572",R
+881,The Forbidden Kingdom,Jackie Chan,Jet Li,Michael Angarano," 109,461 ",Action,Adventure,Fantasy,Color,"3,599",PG-13
+882,U.S. Marshals,Tommy Lee Jones,Wesley Snipes,Robert Downey Jr.," 67,446 ",Action,Crime,Thriller,Color,"3,745",PG-13
+883,Peppermint,Jennifer Garner,John Gallagher Jr.,John Ortiz," 113,544 ",Action,Thriller,-,Color,"3,824",R
+884,Safe,Jason Statham,Catherine Chan,Chris Sarandon," 245,367 ",Action,Crime,Thriller,-,"3,964",R
+885,National Treasure: Book of Secrets,Nicolas Cage,Diane Kruger,Justin Bartha," 37,650 ",Action,Adventure,Mystery,"$219,964,115","4,088",PG
+886,Young Guns II,Emilio Estevez,Kiefer Sutherland,Lou Diamond Phillips," 124,417 ",Action,Drama,Western,Color,"4,142",PG-13
+887,A Walk Among the Tombstones,Liam Neeson,Dan Stevens,David Harbour," 83,748 ",Action,Crime,Drama,Color,"4,289",R
+888,Space Cowboys,Clint Eastwood,Tommy Lee Jones,Donald Sutherland," 163,871 ",Action,Adventure,Thriller,-,"4,535",PG-13
+889,Underworld: Rise of the Lycans,Rhona Mitra,Michael Sheen,Bill Nighy," 59,641 ",Action,Fantasy,Thriller,Color,-,R
+890,Executive Decision,Kurt Russell,Halle Berry,John Leguizamo," 103,136 ",Action,Adventure,Thriller,DolbySDDS,-,R
+891,Cellular,Kim Basinger,Chris Evans,Jason Statham," 101,565 ",Action,Crime,Thriller,-,-,PG-13
+892,Self/less,Ryan Reynolds,Natalie Martinez,Matthew Goode," 34,531",Action,Mystery,Sci-Fi,-,-,PG-13
+893,Batman: The Movie,Adam West,Burt Ward,Lee Meriwether," 97,443 ",Action,Adventure,Comedy,Color,-,PG
+894,The International,Clive Owen,Naomi Watts,Armin Mueller-Stahl," 35,549 ",Action,Crime,Drama,"$25,450,527",-,R
+895,The Grandmaster,Tony Leung Chiu-wai,Ziyi Zhang,Jin Zhang," 112,181 ",Action,Biography,Drama,-,-,PG-13
+896,Hostage,Bruce Willis,Kevin Pollak,Serena Scott Thomas," 27,133",Action,Crime,Drama,Color,-,R
+897,Space Sweepers,Song Joong-ki,Kim Tae-ri,Jin Seon-kyu," 116,271 ",Action,Adventure,Drama,-,-,TV-MA
+898,Premium Rush,Joseph Gordon-Levitt,Michael Shannon,Dania Ramirez," 43,575 ",Action,Crime,Thriller,Color,-,PG-13
+899,Flyboys,James Franco,Jean Reno,Jennifer Decker," 34,849 ",Action,Drama,History,-,-,PG-13
+900,The Four Feathers,Heath Ledger,Wes Bentley,Kate Hudson," 38,124 ",Action,Adventure,Drama,-,-,PG-13
+901,Heist,Gene Hackman,Rebecca Pidgeon,Danny DeVito," 29,471",Action,Crime,Drama,-,-,R
+902,War,Hrithik Roshan,Tiger Shroff,Vaani Kapoor," 58,613 ",Action,Adventure,Thriller,Color,-,Not Rated
+903,Ladder 49,Joaquin Phoenix,John Travolta,Jacinda Barrett," 57,377 ",Action,Drama,Thriller,-,-,PG-13
+904,Taxi 2,Samy Naceri,Frédéric Diefenthal,Emma Wiklund," 32,515 ",Action,Comedy,Crime,-,-,Not Rated
+905,Spartan,Val Kilmer,Derek Luke,William H. Macy," 28,271 ",Action,Crime,Drama,-,-,R
+906,Dhoom 2,Hrithik Roshan,Abhishek Bachchan,Aishwarya Rai Bachchan," 45,488 ",Action,Crime,Thriller,-,-,Not Rated
+907,District 13: Ultimatum,Cyril Raffaelli,David Belle,Philippe Torreton," 58,604 ",Action,Crime,Thriller,-,-,R
+908,Conquest 1453,Devrim Evin,Ibrahim Celikkol,Dilek Serbest," 188,743 ",Action,Drama,History,Color,-,Not Rated
+909,Valerian and the City of a Thousand Planets,Dane DeHaan,Cara Delevingne,Clive Owen," 123,855",Action,Adventure,Fantasy,Color,350,PG-13
+910,Greenland,Gerard Butler,Morena Baccarin,Roger Dale Floyd," 131,365 ",Action,Thriller,-,Color,673,PG-13
+911,Escape Room,Taylor Russell,Logan Miller,Jay Ellis," 512,234 ",Action,Adventure,Horror,-,829,PG-13
+912,Lucy,Scarlett Johansson,Morgan Freeman,Choi Min-sik," 203,086 ",Action,Sci-Fi,Thriller,Color,950,R
+913,Twister,Helen Hunt,Bill Paxton,Cary Elwes," 460,193 ",Action,Adventure,Thriller,Color,952,PG-13
+914,The Day After Tomorrow,Dennis Quaid,Jake Gyllenhaal,Emmy Rossum," 712,459 ",Action,Adventure,Sci-Fi,"$186,740,799",955,PG-13
+915,Batman v Superman: Dawn of Justice,Ben Affleck,Henry Cavill,Amy Adams," 157,307 ",Action,Adventure,Sci-Fi,"$330,360,194",975,PG-13
+916,Last Action Hero,Arnold Schwarzenegger,F. Murray Abraham,Art Carney," 335,133 ",Action,Adventure,Comedy,"$50,016,394","1,069",PG-13
+917,The Mummy Returns,Brendan Fraser,Rachel Weisz,John Hannah," 353,221 ",Action,Adventure,Fantasy,Color,"1,127",PG-13
+918,The Expendables,Sylvester Stallone,Jason Statham,Jet Li," 136,185",Action,Adventure,Thriller,"$103,068,524","1,212",R
+919,Triple Frontier,Ben Affleck,Oscar Isaac,Charlie Hunnam," 423,138 ",Action,Thriller,-,-,"1,268",R
+920,Godzilla,Aaron Taylor-Johnson,Elizabeth Olsen,Bryan Cranston," 172,880 ",Action,Adventure,Sci-Fi,Dolby AtmosSDDSDatasatDolby Digital12-Track Digital SoundSonics-DDPDolby Surround 7.1,"1,448",PG-13
+921,Riddick,Vin Diesel,Karl Urban,Katee Sackhoff," 164,871 ",Action,Adventure,Sci-Fi,Color,"1,577",R
+922,The Punisher,Thomas Jane,John Travolta,Samantha Mathis," 307,833 ",Action,Crime,Drama,"$33,810,189","1,730",R
+923,Alien³,Sigourney Weaver,Charles S. Dutton,Charles Dance," 186,406 ",Action,Horror,Sci-Fi,Color,"1,734",R
+924,Tomorrowland,George Clooney,Britt Robertson,Hugh Laurie," 103,215 ",Action,Adventure,Family,Color,"1,760",PG
+925,Angel Has Fallen,Gerard Butler,Frederick Schmidt,Danny Huston," 82,272",Action,Thriller,-,Color,"1,976",R
+926,Army of Thieves,Matthias Schweighöfer,Nathalie Emmanuel,Ruby O. Fee," 174,357 ",Action,Comedy,Crime,-,"2,132",TV-MA
+927,Need for Speed,Aaron Paul,Dominic Cooper,Imogen Poots," 321,632 ",Action,Adventure,Thriller,-,"2,224",PG-13
+928,Salt,Angelina Jolie,Liev Schreiber,Chiwetel Ejiofor," 56,971 ",Action,Thriller,-,"$118,311,368","2,246",PG-13
+929,The Three Musketeers,Charlie Sheen,Kiefer Sutherland,Chris O'Donnell," 222,654 ",Action,Adventure,Romance,-,"2,417",PG
+930,Pain & Gain,Mark Wahlberg,Dwayne Johnson,Anthony Mackie," 28,075",Action,Comedy,Crime,"$49,875,291","2,544",R
+931,The Vault,Freddie Highmore,Astrid Bergès-Frisbey,Sam Riley," 213,721 ",Action,Adventure,Thriller,-,"2,579",R
+932,Death Race,Jason Statham,Joan Allen,Tyrese Gibson," 303,436 ",Action,Sci-Fi,Thriller,"$36,316,032","2,616",R
+933,Now You See Me 2,Jesse Eisenberg,Mark Ruffalo,Woody Harrelson," 495,285 ",Action,Adventure,Comedy,-,"2,624",PG-13
+934,Hancock,Will Smith,Charlize Theron,Jason Bateman," 45,721 ",Action,Comedy,Drama,Color,"2,669",PG-13
+935,Revenge,Matilda Anna Ingrid Lutz,Kevin Janssens,Vincent Colombe," 169,089 ",Action,Drama,Horror,-,"2,726",R
+936,Monsters vs. Aliens,Reese Witherspoon,Rainn Wilson,Stephen Colbert," 109,594 ",Animation,Action,Adventure,"$198,351,526","2,973",PG
+937,Tango & Cash,Sylvester Stallone,Kurt Russell,Teri Hatcher," 119,475 ",Action,Comedy,Crime,"$63,408,614","3,014",R
+938,Rat Race,Breckin Meyer,Amy Smart,Whoopi Goldberg," 120,344 ",Action,Adventure,Comedy,-,"3,020",PG-13
+939,The Sum of All Fears,Ben Affleck,Morgan Freeman,Ian Mongrain," 132,321 ",Action,Drama,Thriller,Color,"3,025",PG-13
+940,Savages,Aaron Taylor-Johnson,Taylor Kitsch,Blake Lively," 237,046 ",Action,Crime,Drama,ColorBlack and White,"3,074",R
+941,Predators,Adrien Brody,Laurence Fishburne,Topher Grace," 104,128 ",Action,Adventure,Fantasy,United States,"3,091",R
+942,Colombiana,Zoe Saldana,Michael Vartan,Callum Blue," 239,307 ",Action,Drama,Thriller,Color,"3,123",PG-13
+943,The Lone Ranger,Johnny Depp,Armie Hammer,William Fichtner," 204,960 ",Action,Adventure,Western,"$89,302,115","3,266",PG-13
+944,The World Is Not Enough,Pierce Brosnan,Sophie Marceau,Robert Carlyle," 70,370 ",Action,Adventure,Thriller,Color,"3,319",PG-13
+945,Act of Valor,Alex Veadov,Roselyn Sanchez,Nestor Serrano," 67,190 ",Action,Adventure,Thriller,Color,"3,768",R
+946,Darkman,Liam Neeson,Frances McDormand,Colin Friels," 109,897 ",Action,Sci-Fi,Thriller,Color,"3,790",R
+947,Faster,Dwayne Johnson,Billy Bob Thornton,Maggie Grace," 156,770 ",Action,Crime,Drama,-,"3,958",R
+948,The Purge: Anarchy,Frank Grillo,Carmen Ejogo,Zach Gilford," 108,941 ",Action,Horror,Sci-Fi,SDDSDatasatDolby Digital EXDolby Surround 7.1Dolby Atmos,"3,967",R
+949,Behind Enemy Lines,Gene Hackman,Owen Wilson,Gabriel Macht," 99,611 ",Action,Drama,Thriller,Color,"3,997",PG-13
+950,DragonHeart,Dennis Quaid,Sean Connery,Dina Meyer," 58,013 ",Action,Adventure,Fantasy,Color,"4,129",PG-13
+951,Kickboxer,Jean-Claude Van Damme,Dennis Alexio,Dennis Chan," 32,126 ",Action,Sport,Thriller,-,"4,189",R
+952,The Angry Birds Movie 2,Jason Sudeikis,Josh Gad,Leslie Jones," 202,332 ",Animation,Action,Adventure,-,"4,215",PG
+953,The Taking of Pelham 123,Denzel Washington,John Travolta,Luis Guzmán," 81,711 ",Action,Crime,Thriller,"$65,452,312","4,263",R
+954,Star Trek: Nemesis,Patrick Stewart,Jonathan Frakes,Brent Spiner," 132,968 ",Action,Adventure,Sci-Fi,Color,"4,398",PG-13
+955,Killer Elite,Jason Statham,Clive Owen,Robert De Niro," 120,601 ",Action,Crime,Thriller,Color,"4,460",R
+956,The Jackal,Bruce Willis,Richard Gere,Sidney Poitier," 137,164 ",Action,Crime,Drama,Color,"4,590",R
+957,Let's Be Cops,Jake Johnson,Damon Wayans Jr.,Rob Riggle," 77,398 ",Action,Comedy,Crime,-,"4,642",R
+958,Star Trek: Insurrection,Patrick Stewart,Jonathan Frakes,Brent Spiner," 90,409 ",Action,Adventure,Sci-Fi,Color,"4,658",PG
+959,Snitch,Dwayne Johnson,Susan Sarandon,Jon Bernthal," 75,383 ",Action,Drama,Thriller,Color,"4,689",PG-13
+960,The Siege,Denzel Washington,Bruce Willis,Annette Bening," 44,727 ",Action,Thriller,-,Color,"4,719",R
+961,Lock Up,Sylvester Stallone,Donald Sutherland,John Amos," 66,000",Action,Crime,Drama,-,"4,754",R
+962,Blood Father,Mel Gibson,Erin Moriarty,Diego Luna," 131,695 ",Action,Crime,Drama,-,"4,944",R
+963,Daybreakers,Ethan Hawke,Willem Dafoe,Sam Neill," 42,818 ",Action,Horror,Sci-Fi,Color,-,R
+964,Kill List,Neil Maskell,MyAnna Buring,Harry Simpson," 58,579 ",Action,Crime,Horror,-,-,Not Rated
+965,Live by Night,Ben Affleck,Elle Fanning,Brendan Gleeson," 56,058 ",Action,Crime,Drama,-,-,R
+966,Shaft,Samuel L. Jackson,Jessie T. Usher,Richard Roundtree," 64,520 ",Action,Comedy,Crime,-,-,R
+967,Basic,John Travolta,Samuel L. Jackson,Connie Nielsen," 49,797 ",Action,Crime,Drama,-,-,R
+968,The Rover,Guy Pearce,Robert Pattinson,Scoot McNairy," 56,196",Action,Crime,Drama,Color,-,R
+969,Chaos,Jason Statham,Ryan Phillippe,Wesley Snipes," 124,662 ",Action,Crime,Drama,-,-,R
+970,Contraband,Mark Wahlberg,Giovanni Ribisi,Kate Beckinsale," 59,241 ",Action,Crime,Drama,Color,-,R
+971,Batman: The Killing Joke,Kevin Conroy,Mark Hamill,Tara Strong," 32,802 ",Animation,Action,Crime,-,-,R
+972,The Omega Man,Charlton Heston,Anthony Zerbe,Rosalind Cash," 93,481 ",Action,Drama,Sci-Fi,-,-,PG
+973,Here Comes the Boom,Kevin James,Salma Hayek,Henry Winkler," 119,391 ",Action,Comedy,Sport,-,-,PG
+974,From Paris with Love,John Travolta,Jonathan Rhys Meyers,Kasia Smutniak," 83,040 ",Action,Crime,Thriller,-,-,R
+975,Final Fantasy: The Spirits Within,Alec Baldwin,Steve Buscemi,Ming-Na Wen," 49,687 ",Animation,Action,Adventure,Color,-,PG-13
+976,Black Death,Eddie Redmayne,Sean Bean,Carice van Houten," 28,266 ",Action,Drama,History,Color,-,R
+977,Just Cause,Sean Connery,Laurence Fishburne,Kate Capshaw," 31,224 ",Action,Crime,Drama,Color,-,R
+978,How I Live Now,Saoirse Ronan,Tom Holland,George MacKay," 32,176 ",Action,Adventure,Drama,-,-,R
+979,The Prophecy,Christopher Walken,Elias Koteas,Virginia Madsen," 59,536 ",Action,Crime,Drama,Black and WhiteColor,-,R
+980,Last Man Standing,Bruce Willis,Bruce Dern,William Sanderson," 69,118 ",Action,Crime,Drama,-,-,R
+981,Dead Man Down,Colin Farrell,Noomi Rapace,Dominic Cooper," 25,236 ",Action,Crime,Drama,-,-,R
+982,Black and Blue,Naomie Harris,Tyrese Gibson,Frank Grillo," 46,364 ",Action,Thriller,-,-,-,R
+983,Blood Work,Clint Eastwood,Jeff Daniels,Anjelica Huston," 28,856 ",Action,Crime,Drama,Color,-,R
+984,Son of a Gun,Ewan McGregor,Brenton Thwaites,Alicia Vikander," 54,683 ",Action,Crime,Drama,Color,-,R
+985,Night Watch,Konstantin Khabenskiy,Vladimir Menshov,Mariya Poroshina," 27,574 ",Action,Fantasy,Horror,Color,-,R
+986,Ned Kelly,Heath Ledger,Orlando Bloom,Geoffrey Rush," 32,175",Action,Adventure,Biography,-,-,R
+987,Resident Evil: Degeneration,Paul Mercier,Alyson Court,Laura Bailey," 34,908 ",Animation,Action,Horror,Color,-,R
+988,Day Watch,Konstantin Khabenskiy,Mariya Poroshina,Vladimir Menshov," 34,323",Action,Fantasy,Horror,Color,-,R
+989,Redirected,Vinnie Jones,Scot Williams,Gil Darnell," 37,505",Action,Comedy,Crime,-,-,Not Rated
+990,Fast X,Vin Diesel,Michelle Rodriguez,Jason Statham," 56,572",Action,Adventure,Crime,Color,5,PG-13
+991,Operation Fortune: Ruse de Guerre,Jason Statham,Aubrey Plaza,Cary Elwes," 246,910 ",Action,Comedy,Thriller,-,87,R
+992,Black Adam,Dwayne Johnson,Aldis Hodge,Pierce Brosnan," 228,449 ",Action,Adventure,Fantasy,"$168,152,111",248,PG-13
+993,Uncharted,Tom Holland,Mark Wahlberg,Antonio Banderas," 359,635 ",Action,Adventure,-,-,322,PG-13
+994,Eternals,Gemma Chan,Richard Madden,Angelina Jolie," 158,152 ",Action,Adventure,Fantasy,"$164,870,234",328,PG-13
+995,The King's Man,Ralph Fiennes,Gemma Arterton,Rhys Ifans," 165,845 ",Action,Adventure,Thriller,Color,538,R
+996,Dune,Kyle MacLachlan,Virginia Madsen,Francesca Annis," 284,571 ",Action,Adventure,Sci-Fi,"$30,925,690",600,PG-13
+997,Terminator Genisys,Arnold Schwarzenegger,Jason Clarke,Emilia Clarke," 608,223 ",Action,Adventure,Sci-Fi,"$89,760,956",659,PG-13
+998,Spider-Man 3,Tobey Maguire,Kirsten Dunst,Topher Grace," 220,060 ",Action,Adventure,Sci-Fi,United States,694,PG-13
+999,Godzilla vs. Kong,Alexander Skarsgård,Millie Bobby Brown,Rebecca Hall," 90,825 ",Action,Sci-Fi,Thriller,Color,750,PG-13
+1000,Sky High,Kurt Russell,Kelly Preston,Michael Angarano," 291,228",Action,Comedy,Family,Color,767,PG
+1001,Red Notice,Dwayne Johnson,Ryan Reynolds,Gal Gadot," 202,606 ",Action,Comedy,Thriller,-,814,PG-13
+1002,Knight and Day,Tom Cruise,Cameron Diaz,Peter Sarsgaard," 229,481 ",Action,Adventure,Comedy,"$76,423,035",908,PG-13
+1003,Ocean's Eight,Sandra Bullock,Cate Blanchett,Anne Hathaway," 60,167 ",Action,Comedy,Crime,-,"1,122",PG-13
+1004,Red Dawn,Patrick Swayze,C. Thomas Howell,Lea Thompson," 171,810 ",Action,Drama,Thriller,Color,"1,256",PG-13
+1005,King Arthur,Clive Owen,Stephen Dillane,Keira Knightley," 142,416 ",Action,Adventure,Drama,Color,"1,349",PG-13
+1006,The Last Stand,Arnold Schwarzenegger,Forest Whitaker,Johnny Knoxville," 137,870 ",Action,Thriller,Western,Color,"1,389",R
+1007,The Shallows,Blake Lively,Óscar Jaenada,Angelo Josue Lozano Corzo," 25,355",Action,Drama,Horror,-,"1,427",PG-13
+1008,Run Hide Fight,Isabel May,Radha Mitchell,Thomas Jane," 219,742 ",Action,Crime,Drama,-,"1,504",TV-MA
+1009,Tomb Raider,Alicia Vikander,Dominic West,Walton Goggins," 94,263",Action,Adventure,Fantasy,"$58,250,803","1,522",PG-13
+1010,Polar,Mads Mikkelsen,Vanessa Hudgens,Katheryn Winnick," 220,782 ",Action,Thriller,-,-,"1,742",TV-MA
+1011,Ghost in the Shell,Scarlett Johansson,Pilou Asbæk,Takeshi Kitano," 407,882 ",Action,Crime,Drama,"$40,563,557","1,852",PG-13
+1012,Terminator 3: Rise of the Machines,Arnold Schwarzenegger,Nick Stahl,Kristanna Loken," 202,354 ",Action,Sci-Fi,-,"$150,371,112","1,864",R
+1013,Waterworld,Kevin Costner,Jeanne Tripplehorn,Dennis Hopper," 141,271 ",Action,Adventure,Sci-Fi,Color,"1,895",PG-13
+1014,The Bodyguard,Kevin Costner,Whitney Houston,Gary Kemp," 200,452 ",Action,Drama,Music,Color,"2,039",R
+1015,Central Intelligence,Dwayne Johnson,Kevin Hart,Danielle Nicolet," 228,578 ",Action,Comedy,Crime,"$127,440,871","2,230",PG-13
+1016,White House Down,Channing Tatum,Jamie Foxx,Maggie Gyllenhaal," 28,766 ",Action,Drama,Thriller,"$73,103,784","2,447",PG-13
+1017,Every Which Way But Loose,Clint Eastwood,Sondra Locke,Geoffrey Lewis," 61,761",Action,Comedy,-,-,"2,648",PG
+1018,Spectral,James Badge Dale,Emily Mortimer,Bruce Greenwood," 261,074 ",Action,Adventure,Sci-Fi,-,"2,660",PG-13
+1019,Maze Runner: The Scorch Trials,Dylan O'Brien,Kaya Scodelario,Thomas Brodie-Sangster," 218,988 ",Action,Adventure,Sci-Fi,-,"2,731",PG-13
+1020,Miss Congeniality,Sandra Bullock,Michael Caine,Benjamin Bratt," 101,169 ",Action,Comedy,Crime,DTSDolby DigitalSDDS,"2,809",PG-13
+1021,A View to a Kill,Roger Moore,Christopher Walken,Tanya Roberts," 195,018",Action,Adventure,Thriller,Color,"3,006",PG
+1022,Bright,Will Smith,Joel Edgerton,Noomi Rapace," 37,052",Action,Fantasy,Thriller,Color,"3,097",TV-MA
+1023,Unlocked,Noomi Rapace,Orlando Bloom,Toni Collette," 97,703 ",Action,Thriller,-,-,"3,149",R
+1024,The Angry Birds Movie,Jason Sudeikis,Josh Gad,Danny McBride," 174,715 ",Animation,Action,Adventure,Color,"3,191",PG
+1025,Predator 2,Danny Glover,Gary Busey,Kevin Peter Hall," 68,212 ",Action,Horror,Sci-Fi,"$30,669,413","3,254",R
+1026,Criminal,Kevin Costner,Ryan Reynolds,Gal Gadot," 32,458",Action,Sci-Fi,Thriller,-,"3,410",R
+1027,My Spy,Dave Bautista,Chloe Coleman,Parisa Fitz-Henley," 68,515 ",Action,Comedy,-,-,"3,428",PG-13
+1028,The Collector,Josh Stewart,Andrea Roth,Juan Fernández," 208,397 ",Action,Horror,Thriller,-,"3,517",R
+1029,Transporter 2,Jason Statham,Amber Valletta,Kate Nauta," 52,551 ",Action,Crime,Thriller,Color,"3,565",R
+1030,Scouts Guide to the Zombie Apocalypse,Tye Sheridan,Logan Miller,Joey Morgan," 64,794",Action,Comedy,Horror,-,"3,623",R
+1031,Guns Akimbo,Daniel Radcliffe,Samara Weaving,Ned Dennehy," 165,938 ",Action,Comedy,Crime,-,"3,711",R
+1032,Once Upon a Time in Mexico,Antonio Banderas,Salma Hayek,Johnny Depp," 170,881 ",Action,Crime,Thriller,-,"3,791",R
+1033,Beowulf,Ray Winstone,Crispin Glover,Angelina Jolie," 25,294",Animation,Action,Adventure,Color,"3,806",PG-13
+1034,Sand Castle,Nicholas Hoult,Logan Marshall-Green,Henry Cavill," 74,113 ",Action,Drama,War,-,"3,852",TV-MA
+1035,Death Wish,Bruce Willis,Vincent D'Onofrio,Elisabeth Shue," 47,026 ",Action,Crime,Drama,Color,"3,971",R
+1036,The Take,Idris Elba,Richard Madden,Charlotte Le Bon," 119,679 ",Action,Crime,Drama,-,"4,036",R
+1037,The Commuter,Liam Neeson,Vera Farmiga,Patrick Wilson," 47,365 ",Action,Mystery,Thriller,-,"4,056",PG-13
+1038,The Dead Pool,Clint Eastwood,Liam Neeson,Patricia Clarkson," 43,525",Action,Crime,Mystery,-,"4,074",R
+1039,#Alive,Yoo Ah-in,Park Shin-Hye,Jeon Bae-soo," 38,380 ",Action,Drama,Horror,Color,"4,123",TV-MA
+1040,The Black Cauldron,Grant Bardsley,Freddie Jones,Susan Sheridan," 177,737 ",Animation,Action,Adventure,-,"4,192",PG
+1041,Surrogates,Bruce Willis,Radha Mitchell,Ving Rhames," 99,120 ",Action,Sci-Fi,Thriller,-,"4,279",PG-13
+1042,Revolver,Jason Statham,Ray Liotta,André 3000," 73,876 ",Action,Crime,Drama,-,"4,349",R
+1043,Ninja Assassin,Rain,Rick Yune,Naomie Harris," 37,390 ",Action,Thriller,-,-,"4,453",R
+1044,Osmosis Jones,Laurence Fishburne,Chris Rock,David Hyde Pierce," 99,936 ",Animation,Action,Adventure,-,"4,458",PG
+1045,The American,George Clooney,Paolo Bonacelli,Violante Placido," 74,471 ",Action,Crime,Drama,Color,"4,490",R
+1046,Triple 9,Casey Affleck,Chiwetel Ejiofor,Anthony Mackie," 110,889 ",Action,Crime,Thriller,-,"4,855",R
+1047,Paycheck,Ben Affleck,Aaron Eckhart,Uma Thurman," 190,454 ",Action,Mystery,Sci-Fi,Color,"4,946",PG-13
+1048,This Means War,Reese Witherspoon,Chris Pine,Tom Hardy," 120,263 ",Action,Comedy,Romance,"$54,760,791",-,PG-13
+1049,Entrapment,Sean Connery,Catherine Zeta-Jones,Ving Rhames," 157,823 ",Action,Crime,Romance,Color,-,PG-13
+1050,Underworld: Awakening,Kate Beckinsale,Michael Ealy,India Eisley," 86,011 ",Action,Fantasy,Horror,Color,-,R
+1051,Blue Streak,Martin Lawrence,Luke Wilson,Peter Greene," 135,452 ",Action,Comedy,Crime,-,-,PG-13
+1052,Johnny English Reborn,Rowan Atkinson,Rosamund Pike,Dominic West," 84,472 ",Action,Adventure,Comedy,Color,-,PG
+1053,Centurion,Michael Fassbender,Dominic West,Olga Kurylenko," 58,126 ",Action,Drama,History,-,-,R
+1054,Mr. Right,Anna Kendrick,Sam Rockwell,Tim Roth," 48,277 ",Action,Comedy,Romance,-,-,R
+1055,Free Fire,Sharlto Copley,Brie Larson,Armie Hammer," 108,851 ",Action,Comedy,Crime,Color,-,R
+1056,Repo Men,Jude Law,Forest Whitaker,Alice Braga," 29,568 ",Action,Sci-Fi,Thriller,"$13,794,835",-,R
+1057,Risen,Joseph Fiennes,Tom Felton,Peter Firth," 85,834 ",Action,Drama,History,-,-,PG-13
+1058,Assassins,Sylvester Stallone,Antonio Banderas,Julianne Moore," 36,977 ",Action,Crime,Thriller,-,-,R
+1059,Escape from the Planet of the Apes,Roddy McDowall,Kim Hunter,Bradford Dillman," 44,002 ",Action,Sci-Fi,-,-,-,G
+1060,Nick of Time,Johnny Depp,Christopher Walken,Courtney Chase," 80,433 ",Action,Crime,Drama,-,-,R
+1061,Assault on Precinct 13,Ethan Hawke,Laurence Fishburne,Gabriel Byrne," 30,511",Action,Crime,Drama,"$20,040,895",-,R
+1062,7500,Joseph Gordon-Levitt,Omid Memar,Aylin Tezel," 58,017 ",Action,Drama,Thriller,-,-,R
+1063,Proof of Life,Meg Ryan,Russell Crowe,David Morse," 50,172 ",Action,Drama,Thriller,-,-,R
+1064,Formula 51,Samuel L. Jackson,Robert Carlyle,Emily Mortimer," 40,506",Action,Comedy,Crime,Color,-,R
+1065,ARQ,Robbie Amell,Rachael Taylor,Shaun Benson," 29,158 ",Action,Sci-Fi,Thriller,-,-,TV-MA
+1066,Charlie Countryman,Shia LaBeouf,Evan Rachel Wood,Mads Mikkelsen," 51,779",Action,Comedy,Drama,Color,-,R
+1067,Toofaan,Farhan Akhtar,Mrunal Thakur,Paresh Rawal," 364,437 ",Action,Drama,Sport,-,-,-
+1068,Thor: Love and Thunder,Chris Hemsworth,Natalie Portman,Christian Bale," 465,668 ",Action,Adventure,Comedy,"$343,256,830",121,PG-13
+1069,Indiana Jones and the Kingdom of the Crystal Skull,Harrison Ford,Cate Blanchett,Shia LaBeouf," 155,810 ",Action,Adventure,-,Color,288,PG-13
+1070,Kindergarten Cop,Arnold Schwarzenegger,Penelope Ann Miller,Pamela Reed," 141,629 ",Action,Comedy,Crime,Color,397,PG-13
+1071,Mad Max Beyond Thunderdome,Mel Gibson,Tina Turner,Bruce Spence," 184,612 ",Action,Adventure,Sci-Fi,Color,462,PG-13
+1072,Terminator: Dark Fate,Linda Hamilton,Arnold Schwarzenegger,Mackenzie Davis," 341,219 ",Action,Adventure,Sci-Fi,"$62,253,077",661,R
+1073,Pearl Harbor,Ben Affleck,Kate Beckinsale,Josh Hartnett," 418,331 ",Action,Drama,History,Color,806,PG-13
+1074,Transformers: Dark of the Moon,Shia LaBeouf,Rosie Huntington-Whiteley,Tyrese Gibson," 181,421 ",Action,Adventure,Sci-Fi,"$352,390,543",911,PG-13
+1075,The Legend of Tarzan,Alexander Skarsgård,Rory J Saper,Christian Stevens," 387,126 ",Action,Adventure,Drama,DatasatDolby DigitalDolby AtmosAuro 11.1,970,PG-13
+1076,Men in Black II,Tommy Lee Jones,Will Smith,Rip Torn," 193,504 ",Action,Adventure,Comedy,Color,"1,020",PG-13
+1077,The Karate Kid,Jackie Chan,Jaden Smith,Taraji P. Henson," 307,966 ",Action,Drama,Family,"$176,591,618","1,546",PG
+1078,300: Rise of an Empire,Sullivan Stapleton,Eva Green,Lena Headey," 183,367 ",Action,Drama,-,Color,"1,639",R
+1079,Deep Impact,Robert Duvall,Téa Leoni,Elijah Wood," 215,975 ",Action,Drama,Sci-Fi,-,"1,657",PG-13
+1080,Austin Powers in Goldmember,Mike Myers,Beyoncé,Seth Green," 72,531 ",Action,Adventure,Comedy,-,"1,780",PG-13
+1081,Cold Pursuit,Liam Neeson,Laura Dern,Micheál Neeson," 201,294 ",Action,Comedy,Crime,"$32,138,862","1,828",R
+1082,Dracula Untold,Luke Evans,Dominic Cooper,Sarah Gadon," 259,884 ",Action,Drama,Fantasy,-,"1,867",PG-13
+1083,Total Recall,Colin Farrell,Bokeem Woodbine,Bryan Cranston," 240,537 ",Action,Adventure,Sci-Fi,"$58,877,969","1,908",PG-13
+1084,Knowing,Nicolas Cage,Chandler Canterbury,Rose Byrne," 254,328 ",Action,Mystery,Sci-Fi,"$79,957,634","1,910",PG-13
+1085,Alien: Resurrection,Sigourney Weaver,Winona Ryder,Dominique Pinon," 63,789 ",Action,Horror,Sci-Fi,Color,"1,952",R
+1086,Dick Tracy,Warren Beatty,Madonna,Al Pacino," 233,455 ",Action,Comedy,Crime,Color,"1,981",PG
+1087,Transcendence,Johnny Depp,Rebecca Hall,Morgan Freeman," 47,400 ",Action,Drama,Sci-Fi,Color,"2,187",PG-13
+1088,Kung Pow: Enter the Fist,Steve Oedekerk,Fei Lung,Leo Lee," 173,906 ",Action,Comedy,-,-,"2,249",PG-13
+1089,Hitman,Timothy Olyphant,Dougray Scott,Olga Kurylenko," 140,816 ",Action,Crime,Thriller,"$39,687,694","2,272",R
+1090,Reign of Fire,Matthew McConaughey,Christian Bale,Izabella Scorupco," 65,992",Action,Adventure,Fantasy,"$43,061,982","2,384",PG-13
+1091,Kate,Mary Elizabeth Winstead,Woody Harrelson,Miku Patricia Martineau," 95,548 ",Action,Adventure,Crime,-,"2,395",R
+1092,3 Days to Kill,Kevin Costner,Hailee Steinfeld,Connie Nielsen," 38,141 ",Action,Drama,Thriller,-,"2,430",PG-13
+1093,The Cannonball Run,Burt Reynolds,Roger Moore,Farrah Fawcett," 182,353 ",Action,Comedy,Sport,Color,"2,477",PG
+1094,Inferno,Tom Hanks,Felicity Jones,Irrfan Khan," 165,253 ",Action,Adventure,Crime,Color,"2,488",PG-13
+1095,47 Ronin,Keanu Reeves,Hiroyuki Sanada,Ko Shibasaki," 102,425 ",Action,Drama,Fantasy,Color,"2,511",PG-13
+1096,Small Soldiers,Kirsten Dunst,Gregory Smith,David Cross," 92,720",Action,Adventure,Comedy,DTSDolby DigitalSDDS,"2,529",PG-13
+1097,Spenser Confidential,Mark Wahlberg,Winston Duke,Alan Arkin," 149,700 ",Action,Comedy,Crime,-,"2,550",R
+1098,Maze Runner: The Death Cure,Dylan O'Brien,Ki Hong Lee,Kaya Scodelario," 56,499",Action,Adventure,Sci-Fi,Color,"2,589",PG-13
+1099,In the Shadow of the Moon,Boyd Holbrook,Cleopatra Coleman,Bokeem Woodbine," 85,761 ",Action,Crime,Mystery,-,"2,796",TV-MA
+1100,American Assassin,Dylan O'Brien,Michael Keaton,Sanaa Lathan," 83,382 ",Action,Thriller,-,-,"2,854",R
+1101,Walking Tall,Dwayne Johnson,Ashley Scott,Johnny Knoxville," 175,163 ",Action,Crime,-,Color,"2,874",PG-13
+1102,Rush Hour 3,Jackie Chan,Chris Tucker,Max von Sydow," 39,929",Action,Comedy,Crime,Color,"2,878",PG-13
+1103,Time Trap,Reiley McClendon,Cassidy Gifford,Brianne Howey," 245,409 ",Action,Adventure,Mystery,-,"2,925",Not Rated
+1104,The Divergent Series: Insurgent,Shailene Woodley,Ansel Elgort,Theo James," 114,947 ",Action,Adventure,Sci-Fi,-,"3,067",PG-13
+1105,Eraser,Arnold Schwarzenegger,Vanessa Williams,James Caan," 104,640 ",Action,Crime,Thriller,"$101,295,562","3,113",R
+1106,The Losers,Idris Elba,Zoe Saldana,Jeffrey Dean Morgan," 125,902 ",Action,Adventure,Comedy,Color,"3,267",PG-13
+1107,Parker,Jason Statham,Jennifer Lopez,Michael Chiklis," 80,920 ",Action,Crime,Thriller,-,"3,277",R
+1108,Deliver Us from Evil,Eric Bana,Edgar Ramírez,Olivia Munn," 50,445 ",Action,Adventure,Crime,-,"3,356",R
+1109,Keanu,Keegan-Michael Key,Jordan Peele,Tiffany Haddish," 68,379 ",Action,Comedy,Crime,"$20,591,853","3,360",R
+1110,The Devil's Own,Harrison Ford,Brad Pitt,Margaret Colin," 142,688 ",Action,Crime,Drama,-,"3,369",R
+1111,Jack the Giant Slayer,Nicholas Hoult,Stanley Tucci,Ewan McGregor," 109,611 ",Action,Adventure,Fantasy,Color,"3,516",PG-13
+1112,Zathura: A Space Adventure,Josh Hutcherson,Jonah Bobo,Dax Shepard," 135,071 ",Action,Adventure,Comedy,Color,"3,520",PG
+1113,Jack Ryan: Shadow Recruit,Chris Pine,Kevin Costner,Keira Knightley," 147,911 ",Action,Drama,Thriller,"$50,577,412","3,555",PG-13
+1114,Tower Heist,Eddie Murphy,Ben Stiller,Casey Affleck," 313,879 ",Action,Comedy,Crime,Color,"3,557",PG-13
+1115,Taken 2,Liam Neeson,Famke Janssen,Maggie Grace," 32,531 ",Action,Crime,Thriller,"$139,854,287","3,591",PG-13
+1116,Blown Away,Jeff Bridges,Tommy Lee Jones,Suzy Amis," 34,598",Action,Crime,Drama,-,"3,663",R
+1117,Copshop,Gerard Butler,Frank Grillo,Alexis Louder," 106,655 ",Action,Thriller,-,-,"3,773",R
+1118,The Brothers Grimsby,Sacha Baron Cohen,Mark Strong,Rebel Wilson," 64,282 ",Action,Adventure,Comedy,-,"3,785",R
+1119,Takers,Chris Brown,Hayden Christensen,Matt Dillon," 28,652 ",Action,Crime,Drama,-,"3,797",PG-13
+1120,The Wall,Aaron Taylor-Johnson,John Cena,Laith Nakli," 53,729 ",Action,Drama,Thriller,-,"3,839",R
+1121,Hard Target,Jean-Claude Van Damme,Lance Henriksen,Yancy Butler," 66,305 ",Action,Crime,Thriller,-,"3,890",R
+1122,TMNT,Patrick Stewart,Mako,Chris Evans," 104,679 ",Animation,Action,Adventure,Color,"3,927",PG
+1123,Moonraker,Roger Moore,Lois Chiles,Michael Lonsdale," 30,075",Action,Adventure,Sci-Fi,2.39 : 1,"4,166",PG
+1124,The Toxic Avenger,Andree Maranda,Mitch Cohen,Jennifer Babtist," 32,881 ",Action,Comedy,Horror,Color,"4,174",R
+1125,Feast,Navi Rawat,Krista Allen,Balthazar Getty," 29,250 ",Action,Comedy,Horror,Color,"4,202",R
+1126,Death Race 2000,David Carradine,Sylvester Stallone,Simone Griffeth," 109,421 ",Action,Comedy,Sci-Fi,-,"4,220",R
+1127,Shanghai Knights,Jackie Chan,Owen Wilson,Fann Wong," 166,773 ",Action,Adventure,Comedy,-,"4,325",PG-13
+1128,Johnny English,Rowan Atkinson,John Malkovich,Natalie Imbruglia," 32,081 ",Action,Adventure,Comedy,Color,"4,336",PG
+1129,Rogue,Michael Vartan,Radha Mitchell,Sam Worthington," 200,309 ",Action,Drama,Horror,Color,"4,454",R
+1130,Resident Evil: Extinction,Milla Jovovich,Ali Larter,Oded Fehr," 47,215 ",Action,Horror,Sci-Fi,Color,"4,497",R
+1131,Rising Sun,Sean Connery,Wesley Snipes,Harvey Keitel," 74,461 ",Action,Crime,Drama,Color,"4,619",R
+1132,Redemption,Jason Statham,Agata Buzek,Vicky McClure," 162,451 ",Action,Crime,Drama,-,"4,655",R
+1133,Next,Nicolas Cage,Julianne Moore,Jessica Biel," 37,934 ",Action,Sci-Fi,Thriller,Color,"4,670",PG-13
+1134,Lionheart,Jean-Claude Van Damme,Harrison Page,Deborah Rennard," 30,253 ",Action,Crime,Drama,-,"4,812",R
+1135,Captain Underpants: The First Epic Movie,Kevin Hart,Thomas Middleditch,Ed Helms," 27,553",Animation,Action,Adventure,-,-,PG
+1136,The Outsider,Jared Leto,Tadanobu Asano,Kippei Shîna," 77,761 ",Action,Crime,Drama,-,-,TV-MA
+1137,Johnny English Strikes Again,Rowan Atkinson,Ben Miller,Olga Kurylenko," 94,100 ",Action,Adventure,Comedy,2.39 : 1,-,PG
+1138,War,Jet Li,Jason Statham,Nadine Velazquez," 28,316",Action,Crime,Thriller,Color,-,R
+1139,The Silencing,Nikolaj Coster-Waldau,Caleb Ellsworth-Clark,Josh Cruddas," 77,020 ",Action,Crime,Mystery,-,-,R
+1140,Outlander,Jim Caviezel,Sophia Myles,Ron Perlman," 49,537 ",Action,Adventure,Sci-Fi,Color,-,R
+1141,Stuber,Dave Bautista,Kumail Nanjiani,Mira Sorvino," 30,729 ",Action,Comedy,Crime,-,-,R
+1142,Destroyer,Nicole Kidman,Toby Kebbell,Tatiana Maslany," 70,543 ",Action,Crime,Drama,-,-,R
+1143,The Saint,Val Kilmer,Elisabeth Shue,Rade Serbedzija," 38,277 ",Action,Adventure,Romance,"$61,363,304",-,PG-13
+1144,Astro Boy,Freddie Highmore,Nicolas Cage,Kristen Bell," 44,421 ",Animation,Action,Adventure,-,-,PG
+1145,Pokémon: The First Movie - Mewtwo Strikes Back,Veronica Taylor,Rachael Lillis,Eric Stuart," 65,724 ",Animation,Action,Adventure,-,-,G
+1146,The Boondock Saints II: All Saints Day,Sean Patrick Flanery,Norman Reedus,Billy Connolly," 69,223 ",Action,Thriller,-,-,-,R
+1147,The November Man,Pierce Brosnan,Luke Bracey,Olga Kurylenko," 72,035 ",Action,Thriller,-,-,-,R
+1148,The Eagle,Channing Tatum,Jamie Bell,Donald Sutherland," 49,792 ",Action,Adventure,Drama,Color,-,PG-13
+1149,Loaded Weapon 1,Emilio Estevez,Samuel L. Jackson,Jon Lovitz," 44,303",Action,Comedy,Crime,-,-,PG-13
+1150,Last Knights,Clive Owen,Morgan Freeman,Aksel Hennie," 30,419 ",Action,Drama,History,-,-,R
+1151,Money Talks,Charlie Sheen,Chris Tucker,Heather Locklear," 30,045",Action,Comedy,Crime,Color,-,R
+1152,A Lonely Place to Die,Alec Newman,Ed Speleers,Melissa George," 27,989 ",Action,Adventure,Crime,-,-,R
+1153,Mr. Nice Guy,Jackie Chan,Richard Norton,Miki Lee," 48,772 ",Action,Adventure,Comedy,Dolby Digital,-,PG-13
+1154,After the Sunset,Pierce Brosnan,Salma Hayek,Woody Harrelson," 26,796 ",Action,Comedy,Crime,-,-,PG-13
+1155,The Warrior's Way,Jang Dong-Gun,Kate Bosworth,Geoffrey Rush," 31,323 ",Action,Drama,Fantasy,Color,-,R
+1156,Ong Bak 2,Tony Jaa,Sarunyu Wongkrachang,Sorapong Chatree," 42,629",Action,-,-,-,-,R
+1157,The Legend of Tomiris,Ghassan Massoud,Aizhan Lighg,Eduardo Minett," 33,400 ",Action,Drama,History,-,-,TV-14
+1158,Dabangg,Salman Khan,Sonakshi Sinha,Sonu Sood," 166,568",Action,Comedy,Crime,-,-,Not Rated
+1159,Ant-Man and the Wasp: Quantumania,Paul Rudd,Evangeline Lilly,Michael Douglas," 134,525 ",Action,Adventure,Comedy,"$214,491,951",17,PG-13
+1160,The Lost City,Sandra Bullock,Channing Tatum,Daniel Radcliffe," 463,259 ",Action,Adventure,Comedy,-,699,PG-13
+1161,Justice League,Ben Affleck,Gal Gadot,Jason Momoa," 246,185 ",Action,Adventure,Fantasy,United StatesCanadaUnited Kingdom,742,PG-13
+1162,San Andreas,Dwayne Johnson,Carla Gugino,Alexandra Daddario," 83,117 ",Action,Adventure,Thriller,Color,920,PG-13
+1163,Ambulance,Jake Gyllenhaal,Yahya Abdul-Mateen II,Eiza González," 353,050 ",Action,Crime,Drama,-,942,R
+1164,Mission: Impossible II,Tom Cruise,Dougray Scott,Thandiwe Newton," 187,845 ",Action,Adventure,Thriller,Color,957,PG-13
+1165,The Expendables 3,Sylvester Stallone,Jason Statham,Jet Li," 185,609",Action,Adventure,Thriller,"$39,322,544","1,112",PG-13
+1166,6 Underground,Ryan Reynolds,Mélanie Laurent,Manuel Garcia-Rulfo," 165,370 ",Action,Thriller,-,Color,"1,182",R
+1167,Jack Reacher: Never Go Back,Tom Cruise,Cobie Smulders,Aldis Hodge," 29,776",Action,Crime,Drama,-,"1,192",PG-13
+1168,Lou,Allison Janney,Jurnee Smollett,Logan Marshall-Green," 42,079",Action,Crime,Drama,-,"1,317",R
+1169,Code 8,Kari Matchett,Robbie Amell,Penny Eizenga," 327,536 ",Action,Crime,Drama,Color,"1,375",Not Rated
+1170,Jurassic World: Fallen Kingdom,Chris Pratt,Bryce Dallas Howard,Rafe Spall," 83,280",Action,Adventure,Sci-Fi,"$417,719,760","1,449",PG-13
+1171,Day Shift,Jamie Foxx,Dave Franco,Natasha Liu Bordizzo," 130,993 ",Action,Comedy,Fantasy,-,"1,499",R
+1172,Mortal Engines,Hera Hilmar,Robert Sheehan,Hugo Weaving," 114,139 ",Action,Adventure,Fantasy,Color,"1,538",PG-13
+1173,Lightyear,Chris Evans,Keke Palmer,Peter Sohn," 103,368 ",Animation,Action,Adventure,Color,"1,574",PG
+1174,Rambo: Last Blood,Sylvester Stallone,Paz Vega,Sergio Peris-Mencheta," 51,603",Action,Crime,Thriller,Color,"1,617",R
+1175,Blood Red Sky,Peri Baumeister,Carl Anton Koch,Alexander Scheer," 165,938 ",Action,Adventure,Drama,-,"1,961",TV-MA
+1176,The Sorcerer's Apprentice,Nicolas Cage,Jay Baruchel,Alfred Molina," 233,620 ",Action,Adventure,Family,"$63,150,991","2,146",PG
+1177,RoboCop,Joel Kinnaman,Gary Oldman,Michael Keaton," 287,274 ",Action,Crime,Sci-Fi,"$58,607,007","2,165",PG-13
+1178,Superman Returns,Brandon Routh,Kevin Spacey,Kate Bosworth," 99,724",Action,Adventure,Sci-Fi,"$200,081,192","2,183",PG-13
+1179,Hitman's Wife's Bodyguard,Ryan Reynolds,Samuel L. Jackson,Salma Hayek," 92,411 ",Action,Comedy,Crime,Color,"2,205",R
+1180,-,-,-,-," 175,727 ",-,-,-,-,-,-
+1181,-,-,-,-," 295,167 ",-,-,-,-,-,-
+1182,-,-,-,-," 83,303 ",-,-,-,-,-,-
+1183,-,-,-,-," 49,502 ",-,-,-,-,-,-
+1184,-,-,-,-," 241,903 ",-,-,-,-,-,-
+1185,-,-,-,-," 223,601 ",-,-,-,-,-,-
+1186,-,-,-,-," 88,491 ",-,-,-,-,-,-
+1187,-,-,-,-," 313,842 ",-,-,-,-,-,-
+1188,-,-,-,-," 27,452 ",-,-,-,-,-,-
+1189,-,-,-,-," 32,322 ",-,-,-,-,-,-
+1190,-,-,-,-," 204,547 ",-,-,-,-,-,-
+1191,-,-,-,-," 70,282 ",-,-,-,-,-,-
+1192,-,-,-,-," 102,035 ",-,-,-,-,-,-
+1193,-,-,-,-," 92,943 ",-,-,-,-,-,-
+1194,-,-,-,-," 211,306 ",-,-,-,-,-,-
+1195,-,-,-,-," 114,238 ",-,-,-,-,-,-
+1196,-,-,-,-," 34,948",-,-,-,-,-,-
+1197,-,-,-,-," 88,950",-,-,-,-,-,-
+1198,-,-,-,-," 113,629 ",-,-,-,-,-,-
+1199,-,-,-,-," 68,827 ",-,-,-,-,-,-
+1200,-,-,-,-," 61,445 ",-,-,-,-,-,-
+1201,-,-,-,-," 34,860 ",-,-,-,-,-,-
+1202,-,-,-,-," 75,979 ",-,-,-,-,-,-
+1203,-,-,-,-," 76,095 ",-,-,-,-,-,-
+1204,-,-,-,-," 38,903 ",-,-,-,-,-,-
+1205,-,-,-,-," 94,196 ",-,-,-,-,-,-
+1206,-,-,-,-," 50,911 ",-,-,-,-,-,-
+1207,-,-,-,-," 73,373 ",-,-,-,-,-,-
+1208,-,-,-,-," 154,165 ",-,-,-,-,-,-
+1209,-,-,-,-," 71,296 ",-,-,-,-,-,-
+1210,-,-,-,-," 36,855 ",-,-,-,-,-,-
+1211,-,-,-,-," 109,238 ",-,-,-,-,-,-
+1212,-,-,-,-," 72,074 ",-,-,-,-,-,-
+1213,-,-,-,-," 118,483 ",-,-,-,-,-,-
+1214,-,-,-,-," 93,855 ",-,-,-,-,-,-
+1215,-,-,-,-," 51,878 ",-,-,-,-,-,-
+1216,-,-,-,-," 59,879 ",-,-,-,-,-,-
+1217,-,-,-,-," 45,899",-,-,-,-,-,-
+1218,-,-,-,-," 86,180 ",-,-,-,-,-,-
+1219,-,-,-,-," 55,652 ",-,-,-,-,-,-
+1220,-,-,-,-," 31,566",-,-,-,-,-,-
+1221,-,-,-,-," 74,889",-,-,-,-,-,-
+1222,Solomon Kane,James Purefoy,Max von Sydow,Rachel Hurd-Wood," 65,799 ",Action,Adventure,Fantasy,Color,-,R
+1223,Red State,Michael Parks,Melissa Leo,John Goodman," 82,143 ",Action,Crime,Horror,Color,-,R
+1224,Broken City,Mark Wahlberg,Russell Crowe,Catherine Zeta-Jones," 177,241",Action,Crime,Drama,-,-,R
+1225,The Promise,Oscar Isaac,Charlotte Le Bon,Christian Bale," 104,127 ",Action,Adventure,Drama,Color,-,PG-13
+1226,30 Minutes or Less,Jesse Eisenberg,Danny McBride,Nick Swardson," 55,591 ",Action,Comedy,Crime,-,-,R
+1227,Flight of the Phoenix,Dennis Quaid,Miranda Otto,Giovanni Ribisi," 29,236 ",Action,Adventure,Drama,Color,-,PG-13
+1228,Point of No Return,Bridget Fonda,Gabriel Byrne,Dermot Mulroney," 47,505 ",Action,Crime,Drama,-,-,R
+1229,Hobo with a Shotgun,Rutger Hauer,Pasha Ebrahimi,Robb Wells," 42,887",Action,Comedy,Horror,-,-,Not Rated
+1230,Ironclad,Paul Giamatti,Jason Flemyng,Brian Cox," 34,111 ",Action,Drama,History,-,-,R
+1231,Conquest of the Planet of the Apes,Roddy McDowall,Don Murray,Ricardo Montalban," 33,423 ",Action,Sci-Fi,-,Color,-,PG
+1232,Undisputed,Wesley Snipes,Ving Rhames,Peter Falk," 31,571",Action,Crime,Drama,-,-,R
+1233,"Tomorrow, When the War Began",Caitlin Stasey,Rachel Hurd-Wood,Lincoln Lewis," 31,249 ",Action,Adventure,Drama,Color,-,R
+1234,Gringo,Joel Edgerton,Charlize Theron,David Oyelowo," 29,812 ",Action,Comedy,Crime,-,-,R
+1235,The Replacement Killers,Chow Yun-Fat,Mira Sorvino,Michael Rooker," 31,930 ",Action,Crime,Thriller,Color,-,R
+1236,Murder at 1600,Wesley Snipes,Diane Lane,Daniel Benzali," 34,028 ",Action,Crime,Drama,-,-,R
+1237,Welcome to the Punch,James McAvoy,Mark Strong,Andrea Riseborough," 26,929",Action,Crime,Thriller,-,-,R
+1238,The Lovebirds,Issa Rae,Kumail Nanjiani,Paul Sparks," 47,141 ",Action,Comedy,Crime,-,-,R
+1239,Seeking Justice,Nicolas Cage,January Jones,Guy Pearce," 51,164 ",Action,Crime,Drama,Color,-,R
+1240,15 Minutes,Robert De Niro,Edward Burns,Kelsey Grammer," 29,810 ",Action,Crime,Drama,Color,-,R
+1241,Antitrust,Ryan Phillippe,Tim Robbins,Rachael Leigh Cook," 58,384 ",Action,Crime,Drama,-,-,PG-13
+1242,Chennai Express,Deepika Padukone,Shah Rukh Khan,Sathyaraj," 27,583",Action,Comedy,Drama,Color,-,Not Rated
+1243,Thunivu,Ajith Kumar,Manju Warrier,Samuthirakani," 77,928",Action,Crime,Thriller,-,-,Not Rated
+1244,Sooryavanshi,Akshay Kumar,Katrina Kaif,Ajay Devgn," 81,130",Action,Crime,Thriller,-,-,-
+1245,Shazam! Fury of the Gods,Zachary Levi,Asher Angel,Jack Dylan Grazer," 283,841 ",Action,Adventure,Comedy,Color,16,PG-13
+1246,The Fast and the Furious: Tokyo Drift,Lucas Black,Zachery Ty Bryan,Shad Moss," 63,359 ",Action,Crime,Thriller,United StatesGermanyJapan,167,PG-13
+1247,Don't Breathe 2,Stephen Lang,Madelyn Grace,Brendan Sexton III," 181,119 ",Action,Crime,Horror,-,539,R
+1248,Mortal Kombat,Lewis Tan,Jessica McNamee,Josh Lawson," 155,770",Action,Adventure,Fantasy,Color,676,R
+1249,Murder Mystery,Adam Sandler,Jennifer Aniston,Luke Evans," 274,643 ",Action,Comedy,Crime,-,995,PG-13
+1250,Van Helsing,Hugh Jackman,Kate Beckinsale,Richard Roxburgh," 249,680 ",Action,Adventure,Fantasy,ColorBlack and White,"1,040",PG-13
+1251,Birds of Prey,Margot Robbie,Rosie Perez,Mary Elizabeth Winstead," 190,717 ",Action,Comedy,Crime,"$84,172,791","1,233",R
+1252,Godzilla: King of the Monsters,Kyle Chandler,Vera Farmiga,Millie Bobby Brown," 172,068 ",Action,Adventure,Fantasy,Color,"1,411",PG-13
+1253,Immortals,Henry Cavill,Mickey Rourke,John Hurt," 246,652 ",Action,Drama,Fantasy,Color,"1,414",R
+1254,Sucker Punch,Emily Browning,Vanessa Hudgens,Abbie Cornish," 150,940 ",Action,Adventure,Fantasy,Color,"1,565",PG-13
+1255,S.W.A.T.,Samuel L. Jackson,Colin Farrell,Michelle Rodriguez," 160,264 ",Action,Adventure,Crime,Color,"1,885",PG-13
+1256,Hercules,Dwayne Johnson,John Hurt,Ian McShane," 172,947 ",Action,Adventure,Fantasy,"$72,688,614","2,082",PG-13
+1257,Exodus: Gods and Kings,Christian Bale,Joel Edgerton,Ben Kingsley," 65,749",Action,Adventure,Drama,-,"2,116",PG-13
+1258,Those Who Wish Me Dead,Angelina Jolie,Nicholas Hoult,Finn Little," 47,772",Action,Drama,Thriller,-,"2,192",R
+1259,Gunpowder Milkshake,Karen Gillan,Lena Headey,Carla Gugino," 249,276 ",Action,Crime,Thriller,Color,"2,434",R
+1260,The Tourist,Johnny Depp,Angelina Jolie,Paul Bettany," 76,151 ",Action,Thriller,-,Color,"2,486",PG-13
+1261,Speed Racer,Emile Hirsch,Matthew Fox,Christina Ricci," 94,359 ",Action,Adventure,Comedy,"$43,945,766","2,711",PG
+1262,Dante's Peak,Pierce Brosnan,Linda Hamilton,Jamie Renée Smith," 127,101 ",Action,Adventure,Thriller,-,"2,811",PG-13
+1263,The Time Machine,Guy Pearce,Yancey Arias,Mark Addy," 72,358 ",Action,Adventure,Sci-Fi,"$56,832,494","2,889",PG-13
+1264,Unhinged,Russell Crowe,Caren Pistorius,Gabriel Bateman," 120,307 ",Action,Thriller,-,Color,"2,901",R
+1265,Miami Vice,Colin Farrell,Jamie Foxx,Gong Li," 84,182 ",Action,Adventure,Crime,Color,"3,370",R
+1266,G.I. Jane,Demi Moore,Viggo Mortensen,Anne Bancroft," 93,101",Action,Drama,War,Color,"3,380",R
+1267,Project Power,Jamie Foxx,Joseph Gordon-Levitt,Dominique Fishback," 198,036 ",Action,Crime,Sci-Fi,-,"3,494",R
+1268,Taken 3,Liam Neeson,Forest Whitaker,Maggie Grace," 49,521 ",Action,Crime,Thriller,Color,"3,514",PG-13
+1269,CHIPS,Michael Peña,Dax Shepard,Vincent D'Onofrio," 100,479 ",Action,Comedy,Crime,Color,"3,590",R
+1270,Sahara,Matthew McConaughey,Penélope Cruz,Steve Zahn," 48,892 ",Action,Adventure,Comedy,-,"3,725",PG-13
+1271,Beneath the Planet of the Apes,James Franciscus,Kim Hunter,Maurice Evans," 57,965 ",Action,Adventure,Sci-Fi,Color,"3,764",G
+1272,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,Paige Turco,David Warner,Michelan Sisti," 226,172 ",Action,Adventure,Comedy,Color,"3,913",PG
+1273,Cowboys & Aliens,Daniel Craig,Harrison Ford,Olivia Wilde," 33,418 ",Action,Drama,Sci-Fi,Color,"4,034",PG-13
+1274,Above the Law,Steven Seagal,Pam Grier,Henry Silva," 53,865 ",Action,Crime,Drama,Color,"4,240",R
+1275,Honest Thief,Liam Neeson,Kate Walsh,Jai Courtney," 70,854 ",Action,Thriller,-,-,"4,353",PG-13
+1276,The Net,Sandra Bullock,Jeremy Northam,Dennis Miller," 55,825 ",Action,Crime,Drama,Color,"4,903",PG-13
+1277,Captive State,John Goodman,Ashton Sanders,Jonathan Majors," 25,679 ",Action,Horror,Sci-Fi,Color,"4,945",PG-13
+1278,2.0,Rajinikanth,Akshay Kumar,Amy Jackson," 105,204 ",Action,Sci-Fi,Thriller,-,-,Not Rated
+1279,The Purge: Election Year,Frank Grillo,Elizabeth Mitchell,Mykelti Williamson," 171,579 ",Action,Horror,Sci-Fi,-,-,R
+1280,Transporter 3,Jason Statham,Robert Knepper,Natalya Rudakova," 27,966 ",Action,Adventure,Thriller,Color,-,PG-13
+1281,The Lego Ninjago Movie,Jackie Chan,Dave Franco,Fred Armisen," 78,785 ",Animation,Action,Adventure,-,-,PG
+1282,Shaft,Samuel L. Jackson,Vanessa Williams,Christian Bale," 26,250 ",Action,Crime,Thriller,GermanyUnited States,-,R
+1283,The Shadow,Alec Baldwin,John Lone,Penelope Ann Miller," 80,121 ",Action,Adventure,Crime,Color,-,PG-13
+1284,The Spy Who Dumped Me,Justin Theroux,Kate McKinnon,Blanka Györfi-Tóth," 75,867 ",Action,Adventure,Comedy,Color,-,R
+1285,First Knight,Sean Connery,Richard Gere,Julia Ormond," 48,491 ",Action,Adventure,Drama,-,-,PG-13
+1286,A Man Apart,Vin Diesel,Timothy Olyphant,Larenz Tate," 62,106 ",Action,Crime,Drama,-,-,R
+1287,Valhalla Rising,Mads Mikkelsen,Maarten Stevenson,Alexander Morton," 58,162 ",Action,Adventure,Drama,-,-,Not Rated
+1288,Soldier,Kurt Russell,Jason Scott Lee,Jason Isaacs," 49,252 ",Action,Drama,Sci-Fi,Color,-,R
+1289,The Hunted,Tommy Lee Jones,Benicio Del Toro,Connie Nielsen," 36,365 ",Action,Crime,Drama,-,-,R
+1290,Jimmy Neutron: Boy Genius,Debi Derryberry,Rob Paulsen,Megan Cavanagh," 31,908",Animation,Action,Adventure,"$80,936,232",-,G
+1291,Erased,Aaron Eckhart,Nick Alachiotis,Liana Liberato," 60,152 ",Action,Thriller,-,-,-,R
+1292,The Peacemaker,George Clooney,Nicole Kidman,Marcel Iures," 34,386",Action,Thriller,-,Color,-,R
+1293,Varisu,Joseph Vijay,Rashmika Mandanna,Shaam," 35,602 ",Action,Drama,-,-,-,Not Rated
+1294,Firestarter,Drew Barrymore,David Keith,Freddie Jones," 99,745 ",Action,Horror,Sci-Fi,Color,-,R
+1295,Lockout,Guy Pearce,Maggie Grace,Peter Stormare," 48,706 ",Action,Sci-Fi,Thriller,Color,-,PG-13
+1296,Carriers,Chris Pine,Piper Perabo,Lou Taylor Pucci," 58,036",Action,Adventure,Drama,Color,-,PG-13
+1297,Automata,Antonio Banderas,Birgitte Hjort Sørensen,Dylan McDermott," 46,102 ",Action,Drama,Sci-Fi,-,-,R
+1298,Bird on a Wire,Mel Gibson,Goldie Hawn,David Carradine," 35,311",Action,Comedy,-,-,-,PG-13
+1299,The Code,Ivan Petrushinov,Victor Boichev,Nickolay Hadjiminev," 27,734 ",Action,Crime,Thriller,-,-,R
+1300,Wrongfully Accused,Leslie Nielsen,Richard Crenna,Kelly LeBrock," 30,826 ",Action,Comedy,Thriller,-,-,PG-13
+1301,The Big Hit,Mark Wahlberg,Lou Diamond Phillips,Christina Applegate," 53,498 ",Action,Comedy,Crime,-,-,R
+1302,The Condemned,Steve Austin,Vinnie Jones,Nathan Jones," 40,175 ",Action,Crime,Thriller,Color,-,R
+1303,Man of Tai Chi,Tiger Hu Chen,Keanu Reeves,Karen Mok," 31,691",Action,Drama,-,-,-,R
+1304,The Machine,Toby Stephens,Caity Lotz,Denis Lawson," 34,634 ",Action,Drama,Sci-Fi,Color,-,R
+1305,K-9,Jim Belushi,Mel Harris,Kevin Tighe," 35,755",Action,Comedy,Crime,-,-,PG-13
+1306,The Tournament,Ving Rhames,Robert Carlyle,Kelly Hu," 71,288 ",Action,Thriller,-,-,-,R
+1307,Kick,Salman Khan,Jacqueline Fernandez,Nawazuddin Siddiqui," 284,261 ",Action,Comedy,Crime,-,-,Not Rated
+1308,2 Fast 2 Furious,Paul Walker,Tyrese Gibson,Cole Hauser," 699,511 ",Action,Crime,Thriller,United StatesGermany,184,PG-13
+1309,Suicide Squad,Will Smith,Jared Leto,Margot Robbie," 140,915 ",Action,Adventure,Fantasy,United States,418,PG-13
+1310,The Great Wall,Matt Damon,Tian Jing,Willem Dafoe," 237,353 ",Action,Adventure,Fantasy,-,642,PG-13
+1311,Venom: Let There Be Carnage,Tom Hardy,Woody Harrelson,Michelle Williams," 415,117 ",Action,Sci-Fi,Thriller,Color,721,PG-13
+1312,Transformers: Revenge of the Fallen,Shia LaBeouf,Megan Fox,Josh Duhamel," 82,813 ",Action,Adventure,Sci-Fi,Color,"1,025",PG-13
+1313,Conan the Destroyer,Arnold Schwarzenegger,Grace Jones,Olivia d'Abo," 137,554 ",Action,Adventure,Fantasy,"$31,042,035","1,514",PG
+1314,Deep Blue Sea,Thomas Jane,Saffron Burrows,Samuel L. Jackson," 88,030 ",Action,Adventure,Sci-Fi,DTSDolby DigitalSDDS,"1,805",R
+1315,Underwater,Kristen Stewart,Vincent Cassel,Mamoudou Athie," 123,870 ",Action,Horror,Sci-Fi,Color,"1,830",PG-13
+1316,The Brothers Grimm,Matt Damon,Heath Ledger,Monica Bellucci," 96,065 ",Action,Adventure,Comedy,-,"1,889",PG-13
+1317,Teenage Mutant Ninja Turtles: Out of the Shadows,Megan Fox,Will Arnett,Tyler Perry," 330,452 ",Action,Adventure,Comedy,-,"1,940",PG-13
+1318,Jurassic Park III,Sam Neill,William H. Macy,Téa Leoni," 65,193 ",Action,Adventure,Sci-Fi,Color,"1,960",PG-13
+1319,Punisher: War Zone,Ray Stevenson,Dominic West,Julie Benz," 111,271 ",Action,Crime,Drama,Color,"2,061",R
+1320,Power Rangers,Dacre Montgomery,Naomi Scott,RJ Cyler," 139,858",Action,Adventure,Fantasy,Color,"2,151",PG-13
+1321,Pathaan,Shah Rukh Khan,Deepika Padukone,John Abraham," 106,613 ",Action,Adventure,Thriller,-,"2,180",Not Rated
+1322,The Last Witch Hunter,Vin Diesel,Rose Leslie,Elijah Wood," 78,028 ",Action,Adventure,Fantasy,Color,"2,211",PG-13
+1323,Into the Blue,Paul Walker,Jessica Alba,Scott Caan," 163,774 ",Action,Adventure,Crime,-,"2,798",PG-13
+1324,London Has Fallen,Gerard Butler,Aaron Eckhart,Morgan Freeman," 33,940 ",Action,Thriller,-,Color,"3,035",R
+1325,The Wandering Earth,Jing Wu,Chuxiao Qu,Guangjie Li," 80,531 ",Action,Adventure,Sci-Fi,Color,"3,850",TV-MA
+1326,Six Days Seven Nights,Harrison Ford,Anne Heche,David Schwimmer," 95,399",Action,Adventure,Comedy,-,"3,935",PG-13
+1327,Iron Sky,Julia Dietze,Christopher Kirby,Götz Otto," 158,544 ",Action,Adventure,Comedy,Color,"4,204",R
+1328,Abraham Lincoln: Vampire Hunter,Benjamin Walker,Rufus Sewell,Dominic Cooper," 125,132 ",Action,Fantasy,Horror,"$37,519,139","4,283",R
+1329,The 6th Day,Arnold Schwarzenegger,Michael Rapaport,Tony Goldwyn," 26,809",Action,Mystery,Sci-Fi,Color,"4,717",PG-13
+1330,The Black Hole,Maximilian Schell,Anthony Perkins,Robert Forster," 28,300 ",Action,Sci-Fi,-,-,"4,746",PG
+1331,The Rookie,Clint Eastwood,Charlie Sheen,Raul Julia," 63,289 ",Action,Crime,Drama,-,"4,848",R
+1332,Vertical Limit,Scott Glenn,Chris O'Donnell,Bill Paxton," 78,562 ",Action,Adventure,Drama,-,"4,880",PG-13
+1333,Doomsday,Rhona Mitra,Bob Hoskins,Alexander Siddig," 49,414 ",Action,Sci-Fi,Thriller,Color,"4,984",R
+1334,Passenger 57,Wesley Snipes,Bruce Payne,Tom Sizemore," 65,105 ",Action,Crime,Thriller,-,-,R
+1335,Keeping Up with the Joneses,Zach Galifianakis,Isla Fisher,Jon Hamm," 69,231 ",Action,Comedy,-,-,-,PG-13
+1336,Star Wars: The Clone Wars,Matt Lanter,Nika Futterman,Tom Kane," 56,445 ",Animation,Action,Adventure,Color,-,PG
+1337,Sanctum,Rhys Wakefield,Allison Cratchley,Christopher James Baker," 104,832 ",Action,Adventure,Drama,-,-,R
+1338,The Legend of Zorro,Antonio Banderas,Catherine Zeta-Jones,Rufus Sewell," 68,364 ",Action,Adventure,Romance,Color,-,PG
+1339,Domino,Keira Knightley,Mickey Rourke,Edgar Ramírez," 28,376 ",Action,Biography,Crime,Color,-,R
+1340,Firefox,Clint Eastwood,Freddie Jones,David Huffman," 40,807",Action,Adventure,Thriller,-,-,PG
+1341,Braven,Jason Momoa,Garret Dillahunt,Jill Wagner," 94,007 ",Action,Thriller,-,-,-,R
+1342,The One,Jet Li,Carla Gugino,Delroy Lindo," 74,761 ",Action,Sci-Fi,Thriller,-,-,PG-13
+1343,Daylight,Sylvester Stallone,Amy Brenneman,Viggo Mortensen," 57,682 ",Action,Adventure,Drama,-,-,PG-13
+1344,The Golden Child,Eddie Murphy,J.L. Reate,Charles Dance," 36,342 ",Action,Adventure,Comedy,-,-,PG-13
+1345,Red Tails,Cuba Gooding Jr.,Gerald McRaney,David Oyelowo," 49,966 ",Action,Drama,History,Color,-,PG-13
+1346,The Fan,Robert De Niro,Wesley Snipes,Ellen Barkin," 61,538 ",Action,Drama,Sport,Color,-,R
+1347,Timecop,Jean-Claude Van Damme,Mia Sara,Ron Silver," 27,808",Action,Crime,Sci-Fi,-,-,R
+1348,Fatman,Mel Gibson,Walton Goggins,Marianne Jean-Baptiste," 35,624 ",Action,Adventure,Comedy,Color,-,R
+1349,Undercover Brother,Eddie Griffin,Denise Richards,Aunjanue Ellis-Taylor," 45,276 ",Action,Comedy,-,-,-,PG-13
+1350,Gone,Amanda Seyfried,Jennifer Carpenter,Wes Bentley," 38,124 ",Action,Adventure,Mystery,-,-,PG-13
+1351,Kidnap,Halle Berry,Sage Correa,Chris McGinn," 43,116 ",Action,Crime,Thriller,-,-,R
+1352,Another 48 Hrs.,Eddie Murphy,Nick Nolte,Brion James," 47,779 ",Action,Comedy,Crime,-,-,R
+1353,3000 Miles to Graceland,Kurt Russell,Kevin Costner,Courteney Cox," 60,972 ",Action,Comedy,Crime,-,-,R
+1354,Ride Along 2,Ice Cube,Kevin Hart,Tika Sumpter," 29,643 ",Action,Comedy,Crime,-,-,PG-13
+1355,Fortress,Christopher Lambert,Loryn Locklin,Kurtwood Smith," 36,386 ",Action,Crime,Sci-Fi,Color,-,R
+1356,Hard Rain,Morgan Freeman,Christian Slater,Randy Quaid," 25,669 ",Action,Crime,Drama,-,-,R
+1357,Men at Work,Charlie Sheen,Emilio Estevez,Leslie Hope," 31,023",Action,Comedy,Crime,-,-,PG-13
+1358,The Double,Richard Gere,Topher Grace,Martin Sheen," 31,034 ",Action,Crime,Drama,-,-,PG-13
+1359,Tiger Lives,Salman Khan,Katrina Kaif,Anupriya Goenka," 41,450",Action,Adventure,Thriller,-,-,Not Rated
+1360,Ghosted,Chris Evans,Ana de Armas,Adrien Brody," 31,563",Action,Adventure,Comedy,-,61,PG-13
+1361,The School for Good and Evil,Kit Young,Sophia Anne Caruso,Cate Blanchett," 78,297 ",Action,Comedy,Drama,-,714,PG-13
+1362,Oldboy,Josh Brolin,Elizabeth Olsen,Samuel L. Jackson," 214,633 ",Action,Drama,Mystery,"$2,193,658",965,R
+1363,Teenage Mutant Ninja Turtles,Megan Fox,Will Arnett,William Fichtner," 178,485 ",Action,Adventure,Comedy,Color,"1,135",PG-13
+1364,Army of the Dead,Dave Bautista,Ella Purnell,Ana de la Reguera," 252,374 ",Action,Crime,Drama,Color,"1,239",R
+1365,Battleship,Alexander Skarsgård,Brooklyn Decker,Liam Neeson," 260,767 ",Action,Adventure,Sci-Fi,Color,"1,254",PG-13
+1366,Noah,Russell Crowe,Jennifer Connelly,Anthony Hopkins," 386,341 ",Action,Adventure,Drama,Color,"1,302",PG-13
+1367,2012,John Cusack,Thandiwe Newton,Chiwetel Ejiofor," 287,166 ",Action,Adventure,Sci-Fi,Color,"1,451",PG-13
+1368,Clash of the Titans,Sam Worthington,Liam Neeson,Ralph Fiennes," 121,094 ",Action,Adventure,Fantasy,"$163,214,888","1,600",PG-13
+1369,Mortal Kombat,Christopher Lambert,Robin Shou,Linden Ashby," 82,399 ",Action,Adventure,Fantasy,Color,"1,631",PG-13
+1370,Species,Natasha Henstridge,Michael Madsen,Ben Kingsley," 53,768",Action,Horror,Sci-Fi,Color,"1,776",R
+1371,The Man from Toronto,Kevin Hart,Woody Harrelson,Jasmine Mathews," 179,750 ",Action,Adventure,Comedy,-,"1,798",PG-13
+1372,The League of Extraordinary Gentlemen,Sean Connery,Stuart Townsend,Peta Wilson," 183,017 ",Action,Adventure,Fantasy,"$66,465,204","1,811",PG-13
+1373,xXx,Vin Diesel,Asia Argento,Marton Csokas," 113,399 ",Action,Adventure,Thriller,Color,"2,014",PG-13
+1374,End of Days,Arnold Schwarzenegger,Gabriel Byrne,Robin Tunney," 76,510 ",Action,Fantasy,Horror,"$66,889,043","2,312",R
+1375,Cobra,Sylvester Stallone,Brigitte Nielsen,Reni Santoni," 44,691",Action,Crime,Thriller,"$49,042,224","2,467",R
+1376,Troll,Ine Marie Wilmann,Kim Falck,Mads Sjøgård Pettersen," 182,683 ",Action,Adventure,Drama,-,"2,500",TV-14
+1377,Blade: Trinity,Wesley Snipes,Kris Kristofferson,Parker Posey," 134,496 ",Action,Horror,Sci-Fi,Color,"2,519",R
+1378,Hollow Man,Kevin Bacon,Elisabeth Shue,Josh Brolin," 127,021 ",Action,Horror,Sci-Fi,Color,"2,640",R
+1379,Journey to the Center of the Earth,Brendan Fraser,Josh Hutcherson,Aníta Briem," 56,819 ",Action,Adventure,Family,Color,"2,797",PG
+1380,Over the Top,Sylvester Stallone,Robert Loggia,Susan Blakely," 89,160 ",Action,Drama,Sport,Color,"2,894",PG
+1381,RoboCop 2,Peter Weller,Nancy Allen,Belinda Bauer," 61,112",Action,Crime,Sci-Fi,Color,"3,026",R
+1382,Without Remorse,Michael B. Jordan,Jodie Turner-Smith,Jamie Bell," 88,411 ",Action,Thriller,War,-,"3,081",R
+1383,Haywire,Gina Carano,Ewan McGregor,Michael Fassbender," 63,317 ",Action,Drama,Thriller,ColorBlack and White,"3,136",R
+1384,Lake Placid,Bridget Fonda,Bill Pullman,Oliver Platt," 136,385 ",Action,Comedy,Horror,-,"3,235",R
+1385,The Mortal Instruments: City of Bones,Lily Collins,Jamie Campbell Bower,Robert Sheehan," 58,400 ",Action,Adventure,Fantasy,-,"3,471",PG-13
+1386,Pride and Prejudice and Zombies,Lily James,Sam Riley,Jack Huston," 55,125",Action,Comedy,Fantasy,-,"3,596",PG-13
+1387,Extinction,Michael Peña,Lizzy Caplan,Amelia Crouch," 120,930 ",Action,Drama,Sci-Fi,-,"3,600",TV-MA
+1388,Wild Hogs,Tim Allen,Martin Lawrence,John Travolta," 135,535 ",Action,Adventure,Comedy,-,"3,655",PG-13
+1389,Rambo III,Sylvester Stallone,Richard Crenna,Marc de Jonge," 44,840 ",Action,Adventure,Thriller,"$53,715,611","3,771",R
+1390,Morgan,Kate Mara,Anya Taylor-Joy,Rose Leslie," 116,835 ",Action,Horror,Sci-Fi,-,"3,965",R
+1391,The Host,Saoirse Ronan,Max Irons,Jake Abel," 35,165 ",Action,Adventure,Drama,-,"4,160",PG-13
+1392,Straw Dogs,James Marsden,Kate Bosworth,Alexander Skarsgård," 35,020 ",Action,Drama,Thriller,Color,"4,388",R
+1393,1941,John Belushi,Dan Aykroyd,Treat Williams," 175,213 ",Action,Comedy,War,Color,"4,509",PG
+1394,Resident Evil: Afterlife,Milla Jovovich,Ali Larter,Wentworth Miller," 126,778 ",Action,Horror,Sci-Fi,Color,"4,827",R
+1395,Skyscraper,Dwayne Johnson,Neve Campbell,Chin Han," 70,083 ",Action,Adventure,Thriller,"$68,420,120","4,835",PG-13
+1396,Into the Storm,Richard Armitage,Sarah Wayne Callies,Matt Walsh," 92,266 ",Action,Adventure,Drama,-,-,PG-13
+1397,Around the World in 80 Days,Jackie Chan,Steve Coogan,Jim Broadbent," 162,558 ",Action,Adventure,Comedy,Color,-,PG
+1398,The Green Hornet,Seth Rogen,Jay Chou,Christoph Waltz," 31,284 ",Action,Comedy,Crime,Color,-,PG-13
+1399,Hard to Kill,Steven Seagal,Kelly LeBrock,William Sadler," 42,347 ",Action,Crime,Drama,-,-,R
+1400,The Gunman,Sean Penn,Idris Elba,Jasmine Trinca," 44,314 ",Action,Adventure,Crime,-,-,R
+1401,Striking Distance,Bruce Willis,Sarah Jessica Parker,Dennis Farina," 47,261 ",Action,Crime,Mystery,-,-,R
+1402,Cirque du Freak: The Vampire's Assistant,Chris Massoglia,John C. Reilly,Salma Hayek," 41,230 ",Action,Adventure,Fantasy,Color,-,PG-13
+1403,Reindeer Games,Ben Affleck,Gary Sinise,Charlize Theron," 29,630 ",Action,Adventure,Crime,-,-,R
+1404,Air America,Mel Gibson,Robert Downey Jr.,Nancy Travis," 35,839 ",Action,Comedy,War,-,-,R
+1405,Sudden Death,Jean-Claude Van Damme,Powers Boothe,Raymond J. Barry," 39,260 ",Action,Crime,Thriller,-,-,R
+1406,Bulletproof,Damon Wayans,Adam Sandler,James Caan," 45,806 ",Action,Comedy,Crime,-,-,R
+1407,Cradle 2 the Grave,Jet Li,DMX,Mark Dacascos," 58,722 ",Action,Crime,Drama,-,-,R
+1408,Firewall,Harrison Ford,Virginia Madsen,Paul Bettany," 44,226 ",Action,Crime,Thriller,Color,-,PG-13
+1409,Taxi 3,Samy Naceri,Frédéric Diefenthal,Bernard Farcy," 53,156",Action,Comedy,Crime,-,-,Not Rated
+1410,Samrat Prithviraj,Akshay Kumar,Sanjay Dutt,Ashutosh Rana," 52,939",Action,Drama,History,-,-,-
+1411,Murder Mystery 2,Adam Sandler,Jennifer Aniston,Mark Strong," 152,887",Action,Comedy,Crime,-,365,PG-13
+1412,Mulan,Liu Yifei,Donnie Yen,Gong Li," 261,366",Action,Adventure,Drama,"$69,965,374",517,PG-13
+1413,The Matrix Resurrections,Keanu Reeves,Carrie-Anne Moss,Yahya Abdul-Mateen II," 30,345",Action,Sci-Fi,-,Color,519,R
+1414,Memory,Liam Neeson,Guy Pearce,Taj Atwal," 52,687 ",Action,Crime,Thriller,-,992,R
+1415,Chaos Walking,Tom Holland,Daisy Ridley,Demián Bichir," 109,898 ",Action,Adventure,Fantasy,Color,"1,006",PG-13
+1416,The Three Musketeers,Logan Lerman,Matthew Macfadyen,Ray Stevenson," 51,890 ",Action,Adventure,Fantasy,-,"1,266",PG-13
+1417,Escape Room: Tournament of Champions,Taylor Russell,Logan Miller,Deborah Ann Woll," 88,577 ",Action,Adventure,Horror,-,"1,281",PG-13
+1418,Mechanic: Resurrection,Jason Statham,Jessica Alba,Tommy Lee Jones," 223,666 ",Action,Adventure,Crime,-,"1,480",R
+1419,Planet of the Apes,Mark Wahlberg,Helena Bonham Carter,Tim Roth," 194,588 ",Action,Adventure,Sci-Fi,Color,"1,576",PG-13
+1420,X-Men: Dark Phoenix,James McAvoy,Michael Fassbender,Jennifer Lawrence," 211,960 ",Action,Adventure,Sci-Fi,"$65,845,974","1,607",PG-13
+1421,G.I. Joe: The Rise of Cobra,Dennis Quaid,Channing Tatum,Marlon Wayans," 336,076 ",Action,Adventure,Sci-Fi,SDDSDolby DigitalDTS,"1,608",PG-13
+1422,Fantastic Four,Ioan Gruffudd,Michael Chiklis,Chris Evans," 81,186 ",Action,Adventure,Fantasy,Color,"1,638",PG-13
+1423,Bloodshot,Vin Diesel,Eiza González,Sam Heughan," 184,493 ",Action,Adventure,Sci-Fi,-,"1,671",PG-13
+1424,G.I. Joe: Retaliation,Dwayne Johnson,Channing Tatum,Adrianne Palicki," 50,352",Action,Adventure,Sci-Fi,Color,"1,681",PG-13
+1425,Samaritan,Sylvester Stallone,Javon 'Wanna' Walton,Pilou Asbæk," 122,905 ",Action,Drama,Fantasy,Color,"1,726",PG-13
+1426,Freddy vs. Jason,Robert Englund,Ken Kirzinger,Kelly Rowland," 78,400 ",Action,Horror,-,Color,"2,119",R
+1427,Underworld: Blood Wars,Kate Beckinsale,Theo James,Tobias Menzies," 213,843 ",Action,Adventure,Fantasy,-,"2,307",R
+1428,Lara Croft: Tomb Raider,Angelina Jolie,Jon Voight,Iain Glen," 46,982 ",Action,Adventure,Fantasy,"$131,168,070","2,730",PG-13
+1429,Buffy the Vampire Slayer,Kristy Swanson,Donald Sutherland,Paul Reubens," 107,973 ",Action,Comedy,Fantasy,Color,"2,750",PG-13
+1430,Journey 2: The Mysterious Island,Josh Hutcherson,Dwayne Johnson,Michael Caine," 59,159 ",Action,Adventure,Comedy,Color,"2,784",PG
+1431,Crocodile Dundee II,Paul Hogan,Linda Kozlowski,John Meillon," 127,593 ",Action,Adventure,Comedy,Color,"2,887",PG
+1432,Allegiant,Shailene Woodley,Theo James,Jeff Daniels," 65,898 ",Action,Adventure,Mystery,-,"2,911",PG-13
+1433,Pan,Levi Miller,Hugh Jackman,Garrett Hedlund," 93,320 ",Action,Adventure,Comedy,-,"3,089",PG
+1434,Hitman: Agent 47,Rupert Friend,Hannah Ware,Zachary Quinto," 115,102 ",Action,Crime,Thriller,Color,"3,241",R
+1435,Only God Forgives,Ryan Gosling,Kristin Scott Thomas,Vithaya Pansringarm," 82,102 ",Action,Crime,Drama,Color,"3,260",R
+1436,Fool's Gold,Matthew McConaughey,Kate Hudson,Donald Sutherland," 48,916",Action,Adventure,Comedy,Color,"3,421",PG-13
+1437,The Do-Over,Adam Sandler,David Spade,Paula Patton," 107,367 ",Action,Adventure,Comedy,-,"4,100",TV-MA
+1438,Poseidon,Richard Dreyfuss,Kurt Russell,Emmy Rossum," 192,256 ",Action,Adventure,Thriller,Color,"4,105",PG-13
+1439,Wrath of the Titans,Sam Worthington,Liam Neeson,Rosamund Pike," 27,213 ",Action,Adventure,Fantasy,-,"4,134",PG-13
+1440,Cooties,Elijah Wood,Rainn Wilson,Alison Pill," 77,622 ",Action,Comedy,Horror,-,"4,156",R
+1441,Escape from L.A.,Kurt Russell,Steve Buscemi,Stacy Keach," 33,985 ",Action,Adventure,Sci-Fi,Color,"4,628",R
+1442,The Darkest Minds,Amandla Stenberg,Mandy Moore,Bradley Whitford," 137,358 ",Action,Adventure,Drama,Color,"4,672",PG-13
+1443,Gamer,Gerard Butler,Michael C. Hall,Ludacris," 45,408 ",Action,Sci-Fi,Thriller,Color,"4,714",R
+1444,Ben-Hur,Jack Huston,Toby Kebbell,Rodrigo Santoro," 121,882 ",Action,Drama,Romance,Color,"4,748",PG-13
+1445,Priest,Paul Bettany,Cam Gigandet,Maggie Q," 116,768 ",Action,Fantasy,Horror,Color,"4,869",PG-13
+1446,Gemini Man,Will Smith,Mary Elizabeth Winstead,Clive Owen," 29,342 ",Action,Sci-Fi,Thriller,Color,-,PG-13
+1447,Cutthroat Island,Geena Davis,Matthew Modine,Frank Langella," 182,582 ",Action,Adventure,Comedy,Color,-,PG-13
+1448,Battle Los Angeles,Aaron Eckhart,Michelle Rodriguez,Bridget Moynahan," 61,406 ",Action,Adventure,Sci-Fi,Color,-,PG-13
+1449,Race to Witch Mountain,Dwayne Johnson,Carla Gugino,AnnaSophia Robb," 64,900 ",Action,Adventure,Family,"$67,172,594",-,PG
+1450,Sabotage,Arnold Schwarzenegger,Sam Worthington,Terrence Howard," 29,978 ",Action,Crime,Drama,Color,-,R
+1451,Mighty Joe Young,Bill Paxton,Charlize Theron,Rade Serbedzija," 27,278",Action,Adventure,Family,-,-,PG
+1452,Beckett,John David Washington,Boyd Holbrook,Vicky Krieps," 51,160 ",Action,Crime,Drama,-,-,TV-MA
+1453,Bullet to the Head,Sylvester Stallone,Jason Momoa,Christian Slater," 58,206 ",Action,Crime,Thriller,-,-,R
+1454,Hudson Hawk,Bruce Willis,Danny Aiello,Andie MacDowell," 61,450 ",Action,Adventure,Comedy,Color,-,R
+1455,Drillbit Taylor,Owen Wilson,Josh Peck,Alex Frost," 59,051 ",Action,Comedy,Crime,Color,-,PG-13
+1456,Red Planet,Val Kilmer,Carrie-Anne Moss,Tom Sizemore," 25,944",Action,Sci-Fi,Thriller,-,-,PG-13
+1457,Close,Noomi Rapace,Olivia Jewson,Abdellatif Chaouqi," 25,250 ",Action,Drama,Thriller,-,-,TV-MA
+1458,Nowhere to Run,Jean-Claude Van Damme,Rosanna Arquette,Kieran Culkin," 42,117 ",Action,Drama,Romance,-,-,R
+1459,Money Train,Wesley Snipes,Woody Harrelson,Jennifer Lopez," 36,379",Action,Comedy,Crime,Color,-,R
+1460,Bandidas,Penélope Cruz,Salma Hayek,Steve Zahn," 30,423 ",Action,Comedy,Crime,-,-,PG-13
+1461,The Art of War,Wesley Snipes,Donald Sutherland,Maury Chaykin," 31,341 ",Action,Adventure,Crime,Color,-,R
+1462,Armored,Columbus Short,Matt Dillon,Laurence Fishburne," 31,670",Action,Crime,Thriller,-,-,PG-13
+1463,The Mother,Jennifer Lopez,Lucy Paez,Omari Hardwick," 184,180 ",Action,Thriller,-,-,29,R
+1464,Jurassic World: Dominion,Chris Pratt,Bryce Dallas Howard,Laura Dern," 180,628 ",Action,Adventure,Sci-Fi,Color,257,PG-13
+1465,The Meg,Jason Statham,Bingbing Li,Rainn Wilson," 321,163 ",Action,Horror,Sci-Fi,Color,294,PG-13
+1466,Transformers: Age of Extinction,Mark Wahlberg,Nicola Peltz Beckham,Jack Reynor," 150,666 ",Action,Adventure,Sci-Fi,"$245,439,076",614,PG-13
+1467,Pixels,Adam Sandler,Kevin James,Michelle Monaghan," 40,241",Action,Comedy,Fantasy,Color,692,PG-13
+1468,Strange World,Jake Gyllenhaal,Jaboukie Young-White,Gabrielle Union," 34,217 ",Animation,Action,Adventure,-,838,PG
+1469,Beast,Liyabuya Gongo,Martin Munro,Daniel Hadebe," 25,491",Action,Adventure,Drama,-,"1,221",R
+1470,Last Seen Alive,Gerard Butler,Jaimie Alexander,Russell Hornsby," 191,270 ",Action,Mystery,Thriller,-,"1,511",R
+1471,Charlie's Angels,Cameron Diaz,Drew Barrymore,Lucy Liu," 139,617 ",Action,Adventure,Comedy,Color,"1,701",PG-13
+1472,Men in Black: International,Chris Hemsworth,Tessa Thompson,Kumail Nanjiani," 272,771 ",Action,Adventure,Comedy,Color,"1,887",PG-13
+1473,Hulk,Eric Bana,Jennifer Connelly,Sam Elliott," 172,954 ",Action,Sci-Fi,-,Color,"1,994",PG-13
+1474,Alexander,Colin Farrell,Anthony Hopkins,Rosario Dawson," 121,840 ",Action,Biography,Drama,Color,"2,207",R
+1475,Spy Kids,Alexa PenaVega,Daryl Sabara,Antonio Banderas," 271,210 ",Action,Adventure,Comedy,Color,"2,218",PG
+1476,Fantastic Four: Rise of the Silver Surfer,Ioan Gruffudd,Jessica Alba,Chris Evans," 121,311 ",Action,Adventure,Fantasy,Color,"2,263",PG
+1477,Judge Dredd,Sylvester Stallone,Armand Assante,Rob Schneider," 207,685 ",Action,Crime,Sci-Fi,Dolby DigitalDTSSDDSDolby,"2,308",R
+1478,You Don't Mess with the Zohan,Adam Sandler,John Turturro,Emmanuelle Chriqui," 142,006 ",Action,Comedy,-,Color,"2,458",PG-13
+1479,The Dark Tower,Idris Elba,Matthew McConaughey,Tom Taylor," 97,646 ",Action,Adventure,Fantasy,Color,"2,490",PG-13
+1480,The Pacifier,Vin Diesel,Brittany Snow,Max Thieriot," 203,181 ",Action,Comedy,Drama,Color,"2,494",PG
+1481,Assassin's Creed,Michael Fassbender,Marion Cotillard,Jeremy Irons," 205,727 ",Action,Adventure,Sci-Fi,"$54,647,948","2,757",PG-13
+1482,Alien vs. Predator,Sanaa Lathan,Lance Henriksen,Raoul Bova," 121,325 ",Action,Adventure,Horror,"$80,282,231","3,108",PG-13
+1483,Pacific Rim: Uprising,John Boyega,Scott Eastwood,Cailee Spaeny," 67,928 ",Action,Adventure,Fantasy,-,"3,148",PG-13
+1484,The Specialist,Sylvester Stallone,Sharon Stone,James Woods," 139,721 ",Action,Drama,Thriller,Color,"3,465",R
+1485,R.I.P.D.,Ryan Reynolds,Jeff Bridges,Mary-Louise Parker," 73,970 ",Action,Adventure,Comedy,-,"3,483",PG-13
+1486,Johnny Mnemonic,Keanu Reeves,Dolph Lundgren,Dina Meyer," 57,797 ",Action,Drama,Sci-Fi,Color,"4,028",R
+1487,Wild Card,Jason Statham,Michael Angarano,Dominik Garcia," 80,694 ",Action,Crime,Drama,-,"4,095",R
+1488,Machete Kills,Danny Trejo,Alexa PenaVega,Mel Gibson," 27,161",Action,Crime,Thriller,-,"4,391",R
+1489,Jay and Silent Bob Reboot,Joey Lauren Adams,Ben Affleck,Fred Armisen," 64,540 ",Action,Adventure,Comedy,Color,"4,392",R
+1490,Timeline,Paul Walker,Gerard Butler,Billy Connolly," 33,220",Action,Adventure,Sci-Fi,-,"4,493",PG-13
+1491,Jolt,Kate Beckinsale,Jai Courtney,Stanley Tucci," 43,957",Action,Comedy,Crime,-,"4,580",R
+1492,The Ice Road,Liam Neeson,Marcus Thomas,Laurence Fishburne," 108,606",Action,Adventure,Thriller,-,"4,872",PG-13
+1493,Brahmastra Part One: Shiva,Amitabh Bachchan,Ranbir Kapoor,Alia Bhatt," 35,946 ",Action,Adventure,Fantasy,Color,"4,911",M
+1494,Raw Deal,Arnold Schwarzenegger,Kathryn Harrold,Sam Wanamaker," 42,330 ",Action,Crime,Thriller,-,-,R
+1495,Double Impact,Jean-Claude Van Damme,Geoffrey Lewis,Alonna Shaw," 38,917",Action,Crime,-,-,-,R
+1496,Hold the Dark,Jeffrey Wright,Alexander Skarsgård,James Badge Dale," 40,155",Action,Crime,Drama,-,-,TV-MA
+1497,The Marksman,Katheryn Winnick,Liam Neeson,Teresa Ruiz," 54,082 ",Action,Drama,Thriller,-,-,PG-13
+1498,Chain Reaction,Keanu Reeves,Morgan Freeman,Rachel Weisz," 52,494 ",Action,Drama,Sci-Fi,Color,-,PG-13
+1499,National Security,Martin Lawrence,Steve Zahn,Colm Feore," 46,394 ",Action,Comedy,Crime,-,-,PG-13
+1500,MacGruber,Will Forte,Kristen Wiig,Val Kilmer," 43,271 ",Action,Comedy,-,Color,-,R
+1501,Brick Mansions,Paul Walker,David Belle,RZA," 33,017 ",Action,Crime,Thriller,Color,-,PG-13
+1502,The Skulls,Joshua Jackson,Paul Walker,Hill Harper," 46,691 ",Action,Crime,Drama,-,-,PG-13
+1503,The Pink Panther 2,Steve Martin,Jean Reno,Emily Mortimer," 25,560",Action,Adventure,Comedy,Color,-,PG
+1504,The Contract,John Cusack,Morgan Freeman,Jamie Anderson," 34,685",Action,Crime,Drama,-,-,R
+1505,Survivor,Milla Jovovich,Pierce Brosnan,Dylan McDermott," 27,048 ",Action,Crime,Thriller,-,-,PG-13
+1506,The Quest,Jean-Claude Van Damme,Roger Moore,James Remar," 36,201 ",Action,Adventure,Drama,-,-,PG-13
+1507,Exit Wounds,Steven Seagal,DMX,Isaiah Washington," 27,089",Action,Crime,Thriller,-,-,R
+1508,Fire with Fire,Josh Duhamel,Bruce Willis,Rosario Dawson," 49,026 ",Action,Thriller,-,-,-,R
+1509,Bad Company,Anthony Hopkins,Chris Rock,Matthew Marsh," 29,711 ",Action,Comedy,Thriller,-,-,PG-13
+1510,12 Rounds,John Cena,Ashley Scott,Aidan Gillen," 33,416 ",Action,Crime,Thriller,-,-,PG-13
+1511,Sleepless,Jamie Foxx,Michelle Monaghan,Dermot Mulroney," 28,336 ",Action,Thriller,-,Color,-,R
+1512,Metro,Eddie Murphy,Michael Rapaport,Kim Miyori," 25,078 ",Action,Comedy,Crime,-,-,R
+1513,Bang Bang,Hrithik Roshan,Katrina Kaif,Pawan Malhotra," 36,240 ",Action,Adventure,Comedy,-,-,Not Rated
+1514,Once There Was a Tiger,Salman Khan,Katrina Kaif,Girish Karnad," 193,630 ",Action,Adventure,Romance,-,-,Not Rated
+1515,Baywatch,Dwayne Johnson,Zac Efron,Alexandra Daddario," 33,020",Action,Comedy,Crime,Color,450,R
+1516,Willy's Wonderland,Nicolas Cage,Emily Tosta,Beth Grant," 104,285 ",Action,Comedy,Horror,"$418,286","1,494",16+
+1517,The Core,Aaron Eckhart,Hilary Swank,Delroy Lindo," 33,101",Action,Adventure,Sci-Fi,-,"1,801",PG-13
+1518,The 355,Jessica Chastain,Penélope Cruz,Bingbing Fan," 81,683 ",Action,Thriller,-,Color,"2,335",PG-13
+1519,George of the Jungle,Brendan Fraser,Leslie Mann,Thomas Haden Church," 289,952 ",Action,Adventure,Comedy,-,"2,451",PG
+1520,Green Lantern,Ryan Reynolds,Blake Lively,Peter Sarsgaard," 108,963",Action,Adventure,Sci-Fi,Color,"2,523",PG-13
+1521,The Cloverfield Paradox,Gugu Mbatha-Raw,David Oyelowo,Daniel Brühl," 141,965 ",Action,Adventure,Horror,-,"2,574",PG-13
+1522,The Scorpion King,Dwayne Johnson,Steven Brand,Michael Clarke Duncan," 33,501",Action,Adventure,Fantasy,Color,"2,776",PG-13
+1523,Sweet Girl,Jason Momoa,Isabela Merced,Manuel Garcia-Rulfo," 142,007 ",Action,Drama,Thriller,-,"3,197",R
+1524,Snakes on a Plane,Samuel L. Jackson,Julianna Margulies,Nathan Phillips," 113,643 ",Action,Adventure,Crime,"$34,020,814","3,245",R
+1525,Pompeii,Kit Harington,Emily Browning,Kiefer Sutherland," 97,432 ",Action,Adventure,Drama,"$23,219,748","3,404",PG-13
+1526,Resident Evil: The Final Chapter,Milla Jovovich,Iain Glen,Ali Larter," 31,213 ",Action,Horror,Sci-Fi,Color,"3,863",R
+1527,Virtuosity,Denzel Washington,Russell Crowe,Kelly Lynch," 79,021 ",Action,Crime,Sci-Fi,-,"4,027",R
+1528,Seventh Son,Ben Barnes,Julianne Moore,Jeff Bridges," 102,891 ",Action,Adventure,Fantasy,Color,"4,092",PG-13
+1529,Your Highness,Danny McBride,Natalie Portman,James Franco," 79,066 ",Action,Adventure,Comedy,Color,"4,178",R
+1530,Volcano,Tommy Lee Jones,Anne Heche,Gaby Hoffmann," 74,904 ",Action,Drama,Sci-Fi,-,"4,364",PG-13
+1531,Mortdecai,Johnny Depp,Gwyneth Paltrow,Ewan McGregor," 58,775 ",Action,Adventure,Comedy,Color,"4,511",R
+1532,Eight Legged Freaks,David Arquette,Kari Wuhrer,Scott Terra," 141,598 ",Action,Adventure,Comedy,-,"4,578",PG-13
+1533,Lara Croft: Tomb Raider - The Cradle of Life,Angelina Jolie,Gerard Butler,Chris Barrie," 35,099 ",Action,Adventure,Fantasy,-,"4,809",PG-13
+1534,Peninsula,Gang Dong-won,Lee Jung-hyun,Re Lee," 62,157 ",Action,Horror,Thriller,-,"4,954",Not Rated
+1535,Star Trek V: The Final Frontier,William Shatner,Leonard Nimoy,DeForest Kelley," 48,470 ",Action,Adventure,Fantasy,Dolby Digital,-,PG
+1536,Under Siege 2: Dark Territory,Steven Seagal,Eric Bogosian,Everett McGill," 84,275 ",Action,Adventure,Thriller,-,-,R
+1537,Beverly Hills Cop III,Eddie Murphy,Jon Tenney,Joey Travolta," 131,022 ",Action,Comedy,Crime,-,-,R
+1538,The Bounty Hunter,Jennifer Aniston,Gerard Butler,Gio Perez," 76,510 ",Action,Comedy,Romance,-,-,PG-13
+1539,Collateral Damage,Arnold Schwarzenegger,John Leguizamo,Francesca Neri," 45,755 ",Action,Drama,Thriller,Color,-,R
+1540,Stolen,Nicolas Cage,Malin Akerman,Josh Lucas," 42,758 ",Action,Crime,Thriller,-,-,R
+1541,Beverly Hills Ninja,Chris Farley,Nicollette Sheridan,Robin Shou," 97,163 ",Action,Comedy,-,-,-,PG-13
+1542,Babylon A.D.,Vin Diesel,Michelle Yeoh,Mélanie Thierry," 89,305 ",Action,Adventure,Sci-Fi,Color,-,PG-13
+1543,Cop Out,Bruce Willis,Tracy Morgan,Juan Carlos Hernández," 33,746 ",Action,Comedy,Crime,Color,-,R
+1544,Fighting,Channing Tatum,Terrence Howard,Luis Guzmán," 39,660 ",Action,Crime,Drama,Color,-,PG-13
+1545,Whiteout,Kate Beckinsale,Gabriel Macht,Tom Skerritt," 26,210 ",Action,Crime,Mystery,-,-,R
+1546,The Man,Samuel L. Jackson,Eugene Levy,Miguel Ferrer," 64,172 ",Action,Comedy,Crime,-,-,PG-13
+1547,Showtime,Robert De Niro,Eddie Murphy,Rene Russo," 29,652",Action,Comedy,Crime,-,-,PG-13
+1548,Taxi 4,Samy Naceri,Frédéric Diefenthal,Bernard Farcy," 35,155",Action,Comedy,Crime,-,-,Not Rated
+1549,Gunjan Saxena: The Kargil Girl,Janhvi Kapoor,Pankaj Tripathi,Angad Bedi," 46,616",Action,Biography,Drama,-,-,TV-14
+1550,65,Adam Driver,Ariana Greenblatt,Chloe Coleman," 31,391",Action,Adventure,Drama,-,55,PG-13
+1551,Shotgun Wedding,Jennifer Lopez,Josh Duhamel,Lenny Kravitz," 278,616 ",Action,Comedy,Romance,Color,978,R
+1552,Wonder Woman 1984,Gal Gadot,Chris Pine,Kristen Wiig," 121,157 ",Action,Adventure,Fantasy,"$46,801,036",998,PG-13
+1553,Gods of Egypt,Brenton Thwaites,Nikolaj Coster-Waldau,Gerard Butler," 196,453 ",Action,Adventure,Drama,-,"1,095",PG-13
+1554,The Mummy,Tom Cruise,Sofia Boutella,Annabelle Wallis," 258,759 ",Action,Adventure,Fantasy,"$80,227,895","1,111",PG-13
+1555,Batman Forever,Val Kilmer,Tommy Lee Jones,Jim Carrey," 55,476",Action,Adventure,-,Color,"1,342",PG-13
+1556,Infinite,Mark Wahlberg,Chiwetel Ejiofor,Sophie Cookson," 61,778",Action,Sci-Fi,Thriller,-,"1,366",PG-13
+1557,Spiderhead,Chris Hemsworth,Miles Teller,Jurnee Smollett," 38,169 ",Action,Crime,Drama,-,"1,532",R
+1558,The Forever Purge,Ana de la Reguera,Tenoch Huerta,Josh Lucas," 59,240 ",Action,Crime,Horror,-,"1,563",R
+1559,Ava,Jessica Chastain,John Malkovich,Common," 41,759",Action,Drama,Thriller,-,"1,983",R
+1560,Snake Eyes,Henry Golding,Andrew Koji,Haruka Abe," 197,567 ",Action,Adventure,Crime,-,"2,666",PG-13
+1561,Godzilla,Matthew Broderick,Jean Reno,Maria Pitillo," 33,987 ",Action,Sci-Fi,Thriller,DTSDolby Digital,"2,668",PG-13
+1562,Maximum Overdrive,Emilio Estevez,Pat Hingle,Laura Harrington," 101,485 ",Action,Comedy,Horror,Color,"3,552",R
+1563,Drive Angry,Nicolas Cage,Amber Heard,William Fichtner," 130,722 ",Action,Comedy,Fantasy,Color,"3,632",R
+1564,Æon Flux,Charlize Theron,Frances McDormand,Sophie Okonedo," 55,887 ",Action,Adventure,Sci-Fi,Color,"4,437",PG-13
+1565,Vampire Academy,Zoey Deutch,Lucy Fry,Danila Kozlovskiy," 34,337 ",Action,Comedy,Drama,Color,"4,645",PG-13
+1566,Big Game,Samuel L. Jackson,Onni Tommila,Ray Stevenson," 31,855",Action,Adventure,Comedy,-,"4,698",PG-13
+1567,"Game Over, Man!",Adam Devine,Anders Holm,Blake Anderson," 93,824 ",Action,Comedy,-,-,"4,785",TV-MA
+1568,Killers,Katherine Heigl,Ashton Kutcher,Tom Selleck," 62,035 ",Action,Comedy,Romance,Color,"4,953",PG-13
+1569,Blackhat,Chris Hemsworth,Viola Davis,Tang Wei," 29,387 ",Action,Crime,Thriller,Color,-,R
+1570,The Happytime Murders,Melissa McCarthy,Elizabeth Banks,Maya Rudolph," 44,017",Action,Comedy,Crime,Color,-,R
+1571,Outside the Wire,Anthony Mackie,Damson Idris,Enzo Cilenti," 96,128 ",Action,Adventure,Fantasy,-,-,R
+1572,Season of the Witch,Nicolas Cage,Ron Perlman,Claire Foy," 86,181 ",Action,Adventure,Fantasy,"$24,827,228",-,PG-13
+1573,The Tuxedo,Jackie Chan,Jennifer Love Hewitt,Jason Isaacs," 45,509 ",Action,Comedy,Sci-Fi,-,-,PG-13
+1574,The Spy Next Door,Jackie Chan,Amber Valletta,Billy Ray Cyrus," 27,822 ",Action,Comedy,Family,Color,-,PG
+1575,D3: The Mighty Ducks,Emilio Estevez,Jeffrey Nordling,David Selby," 36,481 ",Action,Comedy,Drama,Dolby Digital,-,PG
+1576,The Last Legion,Colin Firth,Ben Kingsley,Aishwarya Rai Bachchan," 63,537 ",Action,Adventure,History,-,-,PG-13
+1577,The Man with the Iron Fists,Russell Crowe,Cung Le,Lucy Liu," 45,401 ",Action,-,-,ColorBlack and White,-,R
+1578,Pathfinder,Karl Urban,Clancy Brown,Moon Bloodgood," 32,196 ",Action,Adventure,Drama,Color,-,R
+1579,Battle for the Planet of the Apes,Roddy McDowall,Claude Akins,Natalie Trundy," 38,146 ",Action,Sci-Fi,-,Color,-,G
+1580,Killing Season,Robert De Niro,John Travolta,Milo Ventimiglia," 51,284 ",Action,Drama,Thriller,-,-,R
+1581,Bulletproof Monk,Chow Yun-Fat,Seann William Scott,Jaime King," 52,488 ",Action,Comedy,Fantasy,-,-,PG-13
+1582,I Spy,Eddie Murphy,Owen Wilson,Famke Janssen," 47,660 ",Action,Adventure,Comedy,Color,-,PG-13
+1583,Dhoom 3,Aamir Khan,Katrina Kaif,Abhishek Bachchan," 42,450 ",Action,Crime,Drama,-,-,Not Rated
+1584,Masters of the Universe,Dolph Lundgren,Frank Langella,Meg Foster," 112,669 ",Action,Adventure,Fantasy,"$17,336,370",855,PG
+1585,Geostorm,Gerard Butler,Jim Sturgess,Abbie Cornish," 138,004 ",Action,Sci-Fi,Thriller,-,"1,610",PG-13
+1586,The Predator,Boyd Holbrook,Trevante Rhodes,Jacob Tremblay," 84,165 ",Action,Adventure,Horror,"$51,024,708","1,789",R
+1587,The New Mutants,Maisie Williams,Anya Taylor-Joy,Charlie Heaton," 64,610 ",Action,Horror,Mystery,"$23,852,659","1,821",PG-13
+1588,Point Break,Edgar Ramírez,Luke Bracey,Ray Winstone," 245,193 ",Action,Adventure,Crime,Color,"2,111",PG-13
+1589,Ghost Rider,Nicolas Cage,Eva Mendes,Sam Elliott," 191,414 ",Action,Fantasy,Thriller,"$115,802,596","2,167",PG-13
+1590,Jupiter Ascending,Channing Tatum,Mila Kunis,Eddie Redmayne," 224,149 ",Action,Adventure,Sci-Fi,Color,"2,199",PG-13
+1591,Daredevil,Ben Affleck,Jennifer Garner,Colin Farrell," 33,227 ",Action,Crime,-,Color,"2,222",PG-13
+1592,Tank Girl,Lori Petty,Ice-T,Naomi Watts," 76,618 ",Action,Comedy,Sci-Fi,-,"2,377",R
+1593,Robin Hood,Taron Egerton,Jamie Foxx,Ben Mendelsohn," 47,192 ",Action,Adventure,Drama,"$30,824,628","2,883",PG-13
+1594,Congo,Laura Linney,Tim Curry,Dylan Walsh," 146,170 ",Action,Adventure,Mystery,Color,"3,635",PG-13
+1595,Resident Evil: Retribution,Milla Jovovich,Sienna Guillory,Michelle Rodriguez," 78,779 ",Action,Horror,Sci-Fi,Color,"3,786",R
+1596,Red Dawn,Chris Hemsworth,Isabel Lucas,Josh Hutcherson," 66,335 ",Action,Drama,-,"$44,806,783","4,101",PG-13
+1597,The Karate Kid Part III,Ralph Macchio,Pat Morita,Robyn Lively," 73,255 ",Action,Drama,Family,Color,"4,432",PG
+1598,Land of the Lost,Will Ferrell,Danny McBride,Anna Friel," 128,154 ",Action,Adventure,Comedy,Color,"4,480",PG-13
+1599,Max Payne,Mark Wahlberg,Mila Kunis,Beau Bridges," 70,375 ",Action,Crime,Drama,Color,-,PG-13
+1600,Spy Kids 2: Island of Lost Dreams,Alexa PenaVega,Daryl Sabara,Antonio Banderas," 43,328 ",Action,Adventure,Comedy,-,-,PG
+1601,One for the Money,Katherine Heigl,Jason O'Mara,Daniel Sunjata," 39,147 ",Action,Comedy,Crime,Color,-,PG-13
+1602,Spy Hard,Leslie Nielsen,Nicollette Sheridan,Charles Durning," 46,254",Action,Comedy,-,-,-,PG-13
+1603,The Colony,Kevin Zegers,Laurence Fishburne,Bill Paxton," 38,336 ",Action,Horror,Sci-Fi,-,-,Not Rated
+1604,Hollywood Homicide,Harrison Ford,Josh Hartnett,Isaiah Washington," 57,553 ",Action,Comedy,Crime,-,-,PG-13
+1605,Bangkok Dangerous,Nicolas Cage,Charlie Yeung,Shahkrit Yamnarm," 26,059",Action,Crime,Thriller,"$15,298,133",-,R
+1606,Universal Soldier: Regeneration,Dolph Lundgren,Jean-Claude Van Damme,Andrei Arlovski," 32,346",Action,Adventure,Sci-Fi,-,-,R
+1607,The Way to Paradise,Enzo Zelocchi,Jennifer Lyons,Bryson Jones Allman," 147,231 ",Action,Comedy,Thriller,-,-,-
+1608,F9: The Fast Saga,Vin Diesel,Michelle Rodriguez,Jordana Brewster," 158,331 ",Action,Crime,Thriller,United States,47,PG-13
+1609,Transformers: The Last Knight,Mark Wahlberg,Anthony Hopkins,Josh Duhamel," 137,158 ",Action,Adventure,Sci-Fi,-,334,PG-13
+1610,Morbius,Jared Leto,Matt Smith,Adria Arjona," 50,776 ",Action,Adventure,Horror,Color,927,PG-13
+1611,The Covenant,Steven Strait,Sebastian Stan,Toby Hemingway," 58,214 ",Action,Adventure,Fantasy,-,"1,309",PG-13
+1612,Resident Evil: Welcome to Raccoon City,Kaya Scodelario,Robbie Amell,Hannah John-Kamen," 93,998 ",Action,Horror,Sci-Fi,Color,"1,435",R
+1613,Hellboy,David Harbour,Milla Jovovich,Ian McShane," 107,929 ",Action,Adventure,Fantasy,United StatesUnited KingdomBulgariaCanadaPortugalFrance,"1,456",R
+1614,Legion,Paul Bettany,Dennis Quaid,Charles S. Dutton," 165,937 ",Action,Fantasy,Horror,Color,"1,744",R
+1615,The Mummy: Tomb of the Dragon Emperor,Brendan Fraser,Jet Li,Maria Bello," 94,505 ",Action,Adventure,Fantasy,Color,"1,765",PG-13
+1616,xXx: Return of Xander Cage,Vin Diesel,Donnie Yen,Deepika Padukone," 70,274 ",Action,Adventure,Thriller,Color,"1,841",PG-13
+1617,Spawn,Michael Jai White,John Leguizamo,Martin Sheen," 113,358 ",Action,Drama,Horror,Color,"2,281",PG-13
+1618,The 5th Wave,Chloë Grace Moretz,Matthew Zuk,Gabriela Lopez," 29,015 ",Action,Adventure,Sci-Fi,-,"2,442",PG-13
+1619,Mighty Morphin Power Rangers,Karan Ashley,Johnny Yong Bosch,Steve Cardenas," 183,779 ",Action,Adventure,Family,-,"2,560",PG
+1620,Independence Day: Resurgence,Liam Hemsworth,Jeff Goldblum,Bill Pullman," 63,767 ",Action,Adventure,Sci-Fi,Color,"2,581",PG-13
+1621,Monster Hunter,Milla Jovovich,Tony Jaa,Ron Perlman," 33,606 ",Action,Adventure,Fantasy,Color,"2,747",PG-13
+1622,The Bad Batch,Suki Waterhouse,Jason Momoa,Jayda Fink," 113,636 ",Action,Horror,Mystery,Color,"2,880",R
+1623,Paul Blart: Mall Cop,Kevin James,Keir O'Donnell,Jayma Mays," 116,009 ",Action,Comedy,Crime,Color,"3,586",PG
+1624,Doom,Karl Urban,Rosamund Pike,Dwayne Johnson," 73,699 ",Action,Horror,Sci-Fi,Color,"3,704",R
+1625,Lost in Space,Gary Oldman,William Hurt,Matt LeBlanc," 88,143 ",Action,Adventure,Family,United KingdomUnited States,"3,924",PG-13
+1626,Big Momma's House,Martin Lawrence,Nia Long,Paul Giamatti," 210,866 ",Action,Comedy,Crime,Color,"4,044",PG-13
+1627,A Good Day to Die Hard,Bruce Willis,Jai Courtney,Sebastian Koch," 66,453 ",Action,Thriller,-,Color,"4,485",R
+1628,The First Purge,Y'lan Noel,Lex Scott Davis,Joivan Wade," 43,345 ",Action,Horror,Sci-Fi,-,-,R
+1629,The Transporter Refueled,Ed Skrein,Loan Chabanol,Ray Stevenson," 42,777 ",Action,Thriller,-,-,-,PG-13
+1630,The Medallion,Jackie Chan,Lee Evans,Claire Forlani," 26,789 ",Action,Comedy,Fantasy,Color,-,PG-13
+1631,Mutant Chronicles,Thomas Jane,Ron Perlman,Devon Aoki," 34,431",Action,Adventure,Mystery,-,-,R
+1632,Beast,Joseph Vijay,Pooja Hegde,K. Selvaraghavan," 36,169",Action,Thriller,-,-,-,-
+1633,Bachchhan Paandey,Akshay Kumar,Kriti Sanon,Jacqueline Fernandez," 88,461 ",Action,Comedy,Crime,-,-,-
+1634,Moonfall,Halle Berry,Patrick Wilson,John Bradley," 100,804 ",Action,Adventure,Sci-Fi,-,579,PG-13
+1635,Conan the Barbarian,Jason Momoa,Ron Perlman,Rose McGowan," 43,379 ",Action,Adventure,Fantasy,"$21,295,021","2,144",R
+1636,Red Sonja,Arnold Schwarzenegger,Brigitte Nielsen,Sandahl Bergman," 128,330 ",Action,Adventure,Fantasy,"$6,948,633","2,569",PG-13
+1637,Eragon,Ed Speleers,Sienna Guillory,Jeremy Irons," 82,561 ",Action,Adventure,Family,Color,"3,331",PG
+1638,"I, Frankenstein",Aaron Eckhart,Bill Nighy,Miranda Otto," 133,394 ",Action,Fantasy,Sci-Fi,-,"4,085",PG-13
+1639,"10,000 BC",Camilla Belle,Steven Strait,Marco Khan," 55,188 ",Action,Adventure,Drama,-,"4,097",PG-13
+1640,Stealth,Josh Lucas,Jessica Biel,Jamie Foxx," 35,983 ",Action,Adventure,Sci-Fi,"$32,116,746","4,938",PG-13
+1641,Agent Cody Banks,Frankie Muniz,Hilary Duff,Andrew Francis," 81,893 ",Action,Adventure,Comedy,-,-,PG
+1642,Abduction,Taylor Lautner,Lily Collins,Alfred Molina," 77,667 ",Action,Mystery,Thriller,Color,-,PG-13
+1643,Miss Congeniality 2: Armed & Fabulous,Sandra Bullock,Regina King,William Shatner," 48,283 ",Action,Comedy,Crime,Color,-,PG-13
+1644,G-Force,Will Arnett,Penélope Cruz,Zach Galifianakis," 61,058 ",Animation,Action,Adventure,Color,-,PG
+1645,Cats & Dogs,Alec Baldwin,Tobey Maguire,Jeff Goldblum," 52,600 ",Action,Adventure,Comedy,-,-,PG
+1646,Hot Pursuit,Reese Witherspoon,Sofía Vergara,Matthew Del Negro," 25,169 ",Action,Comedy,Crime,-,-,PG-13
+1647,Stormbreaker,Alex Pettyfer,Mickey Rourke,Sophie Okonedo," 34,787 ",Action,Adventure,Family,-,-,PG
+1648,Alex Cross,Tyler Perry,Matthew Fox,Rachel Nichols," 35,559 ",Action,Crime,Mystery,Color,-,PG-13
+1649,Get Carter,Sylvester Stallone,Rachael Leigh Cook,Miranda Richardson," 76,604 ",Action,Crime,Drama,-,-,R
+1650,Charlie's Angels,Kristen Stewart,Naomi Scott,Ella Balinska," 252,067 ",Action,Adventure,Comedy,Color,"1,656",PG-13
+1651,The Twilight Saga: Eclipse,Kristen Stewart,Robert Pattinson,Taylor Lautner," 28,630",Action,Adventure,Drama,"$300,531,751","2,141",PG-13
+1652,Shadow in the Cloud,Chloë Grace Moretz,Nick Robinson,Beulah Koale," 55,655",Action,Horror,War,Color,"2,635",R
+1653,How It Ends,Theo James,Kat Graham,Nancy Sorel," 72,499 ",Action,Drama,Horror,-,"3,154",TV-MA
+1654,Superman III,Christopher Reeve,Richard Pryor,Margot Kidder," 32,690 ",Action,Adventure,Comedy,Color,"3,876",PG
+1655,Cyborg,Jean-Claude Van Damme,Deborah Richter,Vincent Klyn," 34,898 ",Action,Sci-Fi,Thriller,-,"4,979",R
+1656,The Phantom,Billy Zane,Kristy Swanson,Treat Williams," 28,981 ",Action,Adventure,Comedy,-,-,PG
+1657,Virus,Jamie Lee Curtis,Donald Sutherland,William Baldwin," 28,049 ",Action,Horror,Sci-Fi,-,-,R
+1658,See No Evil,Glenn Jacobs,Christina Vidal,Michael J. Pagan," 36,509 ",Action,Horror,Thriller,-,-,R
+1659,Dilwale,Shah Rukh Khan,Kajol,Varun Dhawan," 163,881 ",Action,Comedy,Drama,-,-,Not Rated
+1660,Wild Wild West,Will Smith,Kevin Kline,Kenneth Branagh," 62,370 ",Action,Comedy,Sci-Fi,-,"3,268",PG-13
+1661,The Darkest Hour,Emile Hirsch,Olivia Thirlby,Max Minghella," 35,106 ",Action,Adventure,Horror,-,"3,408",PG-13
+1662,Dracula 2000,Gerard Butler,Justine Waddell,Jonny Lee Miller," 130,382 ",Action,Fantasy,Horror,Color,"3,551",R
+1663,Charlie's Angels: Full Throttle,Drew Barrymore,Lucy Liu,Cameron Diaz," 38,503 ",Action,Adventure,Comedy,Color,"4,020",PG-13
+1664,The Cold Light of Day,Henry Cavill,Bruce Willis,Sigourney Weaver," 56,160 ",Action,Thriller,-,-,-,PG-13
+1665,Ghosts of Mars,Natasha Henstridge,Ice Cube,Pam Grier," 34,075 ",Action,Horror,Sci-Fi,-,-,R
+1666,Blues Brothers 2000,Dan Aykroyd,John Goodman,Walter Levine," 38,934",Action,Comedy,Crime,-,-,PG-13
+1667,Happy New Year,Shah Rukh Khan,Deepika Padukone,Abhishek Bachchan," 107,858 ",Action,Comedy,Crime,Color,-,Not Rated
+1668,Anaconda,Jon Voight,Jennifer Lopez,Eric Stoltz," 51,428",Action,Adventure,Horror,Color,"1,410",PG-13
+1669,The Ridiculous 6,Adam Sandler,Terry Crews,Jorge Garcia," 45,581 ",Action,Adventure,Comedy,-,"3,358",TV-14
+1670,DOA: Dead or Alive,Jaime Pressly,Devon Aoki,Sarah Carter," 205,131 ",Action,Adventure,Mystery,-,"3,677",PG-13
+1671,After Earth,Jaden Smith,David Denman,Will Smith," 34,618 ",Action,Adventure,Sci-Fi,-,"3,689",PG-13
+1672,Teenage Mutant Ninja Turtles III,Elias Koteas,Paige Turco,Stuart Wilson," 25,609 ",Action,Adventure,Comedy,Color,-,PG
+1673,Crocodile Dundee in Los Angeles,Paul Hogan,Linda Kozlowski,Jere Burns," 27,988",Action,Adventure,Comedy,Color,-,PG
+1674,Tekken,Jonathan Patrick Foo,Kelly Overton,Cary-Hiroyuki Tagawa," 35,546 ",Action,Crime,Drama,-,-,R
+1675,Double Team,Jean-Claude Van Damme,Dennis Rodman,Mickey Rourke," 26,076 ",Action,Comedy,Sci-Fi,-,-,R
+1676,Godsend,Robert De Niro,Greg Kinnear,Rebecca Romijn," 49,003 ",Action,Drama,Fantasy,-,-,PG-13
+1677,Howard the Duck,Lea Thompson,Jeffrey Jones,Tim Robbins," 73,053 ",Action,Adventure,Comedy,Color,"1,229",PG
+1678,Zoolander 2,Ben Stiller,Owen Wilson,Penélope Cruz," 95,290 ",Action,Adventure,Comedy,Color,"3,630",PG-13
+1679,Elektra,Jennifer Garner,Goran Visnjic,Will Yun Lee," 32,691 ",Action,Adventure,Crime,Color,"4,026",PG-13
+1680,Anacondas: The Hunt for the Blood Orchid,Morris Chestnut,KaDee Strickland,Eugene Byrd," 62,069 ",Action,Adventure,Horror,-,-,PG-13
+1681,The Spirit,Gabriel Macht,Samuel L. Jackson,Scarlett Johansson," 34,748 ",Action,Crime,Fantasy,Color,-,PG-13
+1682,The Marine,John Cena,Kelly Carlson,Robert Patrick," 60,195 ",Action,Comedy,Drama,Color,-,PG-13
+1683,Jonah Hex,Josh Brolin,Megan Fox,John Malkovich," 56,719",Action,Drama,Fantasy,Color,-,PG-13
+1684,Shamshera,Ranbir Kapoor,Sanjay Dutt,Vaani Kapoor," 44,405 ",Action,Adventure,Drama,-,-,-
+1685,Ra.One,Shah Rukh Khan,Arjun Rampal,Kareena Kapoor," 26,899",Action,Adventure,Sci-Fi,Color,-,Not Rated
+1686,Bodyguard,Salman Khan,Kareena Kapoor,Raj Babbar," 31,686 ",Action,Comedy,Drama,-,-,Not Rated
+1687,Bharat,Salman Khan,Katrina Kaif,Sunil Grover," 72,171 ",Action,Comedy,Drama,-,-,Not Rated
+1688,Superhero Movie,Drake Bell,Leslie Nielsen,Sara Paxton," 25,618",Action,Comedy,Sci-Fi,Color,"2,290",PG-13
+1689,Interceptor,Elsa Pataky,Luke Bracey,Aaron Glenane," 129,340 ",Action,Adventure,Drama,-,"2,866",TV-MA
+1690,Aliens vs. Predator: Requiem,Reiko Aylesworth,Steven Pasquale,Shareeka Epps," 29,906",Action,Adventure,Horror,"$41,797,066","4,019",R
+1691,Shehzada,Kartik Aaryan,Kriti Sanon,Paresh Rawal," 42,194 ",Action,Comedy,Drama,-,"4,335",-
+1692,Driven,Sylvester Stallone,Kip Pardue,Til Schweiger," 36,461 ",Action,Drama,Sport,Color,-,PG-13
+1693,Snatched,Amy Schumer,Goldie Hawn,Kim Caramele," 43,751",Action,Adventure,Comedy,-,-,R
+1694,Thunder Force,Melissa McCarthy,Octavia Spencer,Jason Bateman," 30,236 ",Action,Adventure,Comedy,-,"3,798",PG-13
+1695,Species II,Natasha Henstridge,Michael Madsen,Marg Helgenberger," 121,366 ",Action,Horror,Sci-Fi,Color,"4,219",R
+1696,Home Alone 3,Alex D. Linz,Olek Krupa,Rya Kihlstedt," 43,705 ",Action,Comedy,Crime,Color,"4,409",PG
+1697,Taxi,Queen Latifah,Jimmy Fallon,Gisele Bündchen," 90,910 ",Action,Comedy,Crime,-,-,PG-13
+1698,Skyline,Eric Balfour,Donald Faison,Scottie Thompson," 72,128 ",Action,Sci-Fi,Thriller,Color,-,PG-13
+1699,xXx: State of the Union,Ice Cube,Samuel L. Jackson,Willem Dafoe," 32,414 ",Action,Adventure,Crime,Color,-,PG-13
+1700,The Next Karate Kid,Pat Morita,Hilary Swank,Michael Ironside," 32,747 ",Action,Drama,Family,DolbyDolby Digital,-,PG
+1701,Kangaroo Jack,Anthony Anderson,Jerry O'Connell,Estella Warren," 58,709 ",Action,Adventure,Comedy,Color,-,PG
+1702,Jason X,Kane Hodder,Lexa Doig,Jeff Geddis," 29,146",Action,Horror,Sci-Fi,Color,"4,426",R
+1703,Cell,John Cusack,Samuel L. Jackson,Isabelle Fuhrman," 39,277 ",Action,Adventure,Horror,-,-,R
+1704,Paul Blart: Mall Cop 2,Kevin James,Raini Rodriguez,Eduardo Verástegui," 28,498 ",Action,Comedy,Crime,-,-,PG
+1705,"Big Mommas: Like Father, Like Son",Martin Lawrence,Brandon T. Jackson,Jessica Lucas," 171,488 ",Action,Comedy,Crime,Color,-,PG-13
+1706,Fantastic Four,Miles Teller,Kate Mara,Michael B. Jordan," 63,057 ",Action,Adventure,Sci-Fi,Color,865,PG-13
+1707,Spy Kids 3: Game Over,Daryl Sabara,Alexa PenaVega,Antonio Banderas," 122,809 ",Action,Adventure,Comedy,Color,"3,644",PG
+1708,Ghost Rider: Spirit of Vengeance,Nicolas Cage,Ciarán Hinds,Idris Elba," 43,561 ",Action,Adventure,Fantasy,"$51,774,002","4,064",PG-13
+1709,Stop! Or My Mom Will Shoot,Sylvester Stallone,Estelle Getty,JoBeth Williams," 83,071 ",Action,Comedy,-,-,-,PG-13
+1710,Ultraviolet,Milla Jovovich,Cameron Bright,Nick Chinlund," 49,579 ",Action,Sci-Fi,-,Color,-,PG-13
+1711,Inspector Gadget,Matthew Broderick,Rupert Everett,Joely Fisher," 46,970 ",Action,Adventure,Comedy,"$97,403,112","4,634",PG
+1712,Highlander II: The Quickening,Christopher Lambert,Sean Connery,Virginia Madsen," 55,293 ",Action,Adventure,Fantasy,-,-,R
+1713,The Legend of Hercules,Kellan Lutz,Gaia Weiss,Scott Adkins," 30,067 ",Action,Adventure,Fantasy,Color,-,PG-13
+1714,Universal Soldier: The Return,Jean-Claude Van Damme,Bill Goldberg,Heidi Schanz," 73,856",Action,Sci-Fi,-,-,-,R
+1715,Coolie No. 1,Varun Dhawan,Sara Ali Khan,Paresh Rawal," 51,960 ",Action,Comedy,Romance,-,-,TV-14
+1716,RoboCop 3,Robert John Burke,Nancy Allen,Mario Machado," 28,919 ",Action,Crime,Sci-Fi,Color,-,PG-13
+1717,Torque,Martin Henderson,Ice Cube,Monet Mazur," 73,214 ",Action,Comedy,Crime,-,-,PG-13
+1718,Street Fighter,Jean-Claude Van Damme,Raul Julia,Ming-Na Wen," 167,336 ",Action,Adventure,Comedy,Color,"1,713",PG-13
+1719,The Last Airbender,Noah Ringer,Nicola Peltz Beckham,Jackson Rathbone," 26,628 ",Action,Adventure,Family,Color,"1,955",PG
+1720,Shark Night,Sara Paxton,Dustin Milligan,Chris Carmack," 83,671 ",Action,Adventure,Horror,Color,-,PG-13
+1721,Speed 2: Cruise Control,Sandra Bullock,Jason Patric,Willem Dafoe," 50,145 ",Action,Adventure,Crime,Color,"3,329",PG-13
+1722,In the Name of the King: A Dungeon Siege Tale,Jason Statham,Ron Perlman,Ray Liotta," 33,408",Action,Adventure,Fantasy,-,-,PG-13
+1723,Escape Plan 2: Hades,Sylvester Stallone,Dave Bautista,Xiaoming Huang," 44,591 ",Action,Crime,Mystery,-,-,R
+1724,The Avengers,Ralph Fiennes,Uma Thurman,Sean Connery," 26,462 ",Action,Adventure,Sci-Fi,Color,-,PG-13
+1725,The Adventures of Pluto Nash,Eddie Murphy,Jay Mohr,Randy Quaid," 259,752 ",Action,Comedy,Sci-Fi,-,-,PG-13
+1726,Batman & Robin,Arnold Schwarzenegger,George Clooney,Chris O'Donnell," 40,009 ",Action,Sci-Fi,-,"$107,353,792","1,080",PG-13
+1727,The Adventures of Sharkboy and Lavagirl 3-D,Cayden Boyd,George Lopez,Kristin Davis," 50,685 ",Action,Adventure,Comedy,-,"2,241",PG
+1728,Superman IV: The Quest for Peace,Christopher Reeve,Gene Hackman,Margot Kidder," 35,184 ",Action,Adventure,Sci-Fi,Color,"3,938",PG
+1729,Dungeons & Dragons,Justin Whalin,Jeremy Irons,Zoe McLellan," 56,436 ",Action,Adventure,Fantasy,Color,"1,288",PG-13
+1730,Mortal Kombat: Annihilation,Robin Shou,Talisa Soto,James Remar," 33,482",Action,Adventure,Fantasy,-,"3,227",PG-13
+1731,Crimea,Roman Kurtsyn,Evgeniya Lapova,Pavel Kraynov," 30,312 ",Action,Drama,-,-,-,-
+1732,Barb Wire,Pamela Anderson,Amir AboulEla,Adriana Alexander," 26,985 ",Action,Sci-Fi,-,Color,"4,725",R
+1733,Spy Kids 4: All the Time in the World,Jessica Alba,Jeremy Piven,Joel McHale," 122,434 ",Action,Adventure,Comedy,Color,-,PG
+1734,Catwoman,Halle Berry,Sharon Stone,Benjamin Bratt," 41,216 ",Action,Crime,Fantasy,Color,"4,417",PG-13
+1735,Left Behind,Nicolas Cage,Lea Thompson,Cassi Thomson," 28,832 ",Action,Fantasy,Sci-Fi,Color,"2,502",PG-13
+1736,Rollerball,Chris Klein,Jean Reno,LL Cool J," 36,453 ",Action,Sci-Fi,Sport,-,-,PG-13
+1737,BloodRayne,Kristanna Loken,Ben Kingsley,Michelle Rodriguez," 59,746",Action,Fantasy,Horror,Color,-,R
+1738,Gunday,Ranveer Singh,Arjun Kapoor,Priyanka Chopra Jonas," 46,680",Action,Drama,Musical,Color,-,Not Rated
+1739,Liger,Mike Tyson,Ananya Panday,Vijay Deverakonda," 77,029 ",Action,Drama,Romance,-,-,-
+1740,Dragonball Evolution,Justin Chatwin,James Marsters,Chow Yun-Fat," 81,590 ",Action,Adventure,Fantasy,Color,"1,762",PG
+1741,Battlefield Earth,John Travolta,Forest Whitaker,Barry Pepper," 26,988",Action,Adventure,Sci-Fi,Color,"4,641",PG-13
+1742,Heropanti 2,Tiger Shroff,Nawazuddin Siddiqui,Tara Sutaria," 57,983",Action,Comedy,Crime,-,-,-
+1743,Laxmii,Akshay Kumar,Kiara Advani,Sharad Kelkar," 46,332 ",Action,Comedy,Horror,-,-,TV-MA
+1744,Alone in the Dark,Christian Slater,Tara Reid,Stephen Dorff," 35,029",Action,Horror,Sci-Fi,-,-,R
+1745,The Prototype,Mark Vasconcellos,Frank Spinelli,Victoria De Mare," 37,989 ",Action,Sci-Fi,Thriller,Color,-,-
+1746,House of the Dead,Jonathan Cherry,Tyron Leitso,Clint Howard," 178,815",Action,Adventure,Horror,Color,-,R
+1747,Radhe,Salman Khan,Disha Patani,Randeep Hooda," 47,593 ",Action,Crime,Thriller,Color,-,TV-MA
+1748,Race 3,Anil Kapoor,Salman Khan,Bobby Deol," 42,911",Action,Crime,Thriller,-,-,Not Rated
+1749,Angels Apocalypse,Enzo Zelocchi,Jana Rochelle,Ryan C.F. Buckley," 39,491",Action,Fantasy,Sci-Fi,-,-,-
