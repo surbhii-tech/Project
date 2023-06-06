@@ -1,0 +1,1751 @@
+,Sno,Name of Movie,Director1,Director2,Year,Duration,Metascore
+0,1.,Sadak 2,-,-,2020,2h 13m,-
+1,2.,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,2023,2h 20m,86
+2,3.,The Dark Knight,Christopher Nolan,-,2008,2h 32m,84
+3,4.,The Lord of the Rings: The Return of the King,Peter Jackson,-,2003,3h 21m,94
+4,5.,Inception,Christopher Nolan,-,2010,2h 28m,74
+5,6.,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,2001,2h 58m,92
+6,7.,The Lord of the Rings: The Two Towers,Peter Jackson,-,2002,2h 59m,87
+7,8.,The Matrix,Lana Wachowski,Lilly Wachowski,1999,2h 16m,73
+8,9.,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,1980,2h 4m,82
+9,10.,Soorarai Pottru,Sudha Kongara,-,2020,2h 33m,-
+10,11.,Star Wars: Episode IV - A New Hope,George Lucas,-,1977,2h 1m,90
+11,12.,Terminator 2: Judgment Day,James Cameron,-,1991,2h 17m,75
+12,13.,Seven Samurai,Akira Kurosawa,-,1954,3h 27m,98
+13,14.,Harakiri,-,-,1962,2h 13m,85
+14,15.,Sita Ramam,Hanu Raghavapudi,-,2022,-,-
+15,16.,Léon: The Professional,Luc Besson,-,1994,1h 50m,64
+16,17.,Gladiator,Ridley Scott,-,2000,2h 35m,67
+17,18.,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,2018,1h 57m,87
+18,19.,Indiana Jones and the Raiders of the Lost Ark,Steven Spielberg,-,1981,1h 55m,85
+19,20.,Avengers: Endgame,Anthony Russo,Joe Russo,2019,3h 1m,78
+20,21.,Avengers: Infinity War,Anthony Russo,Joe Russo,2018,2h 29m,68
+21,22.,Oldboy,Park Chan-wook,-,2003,2h,77
+22,23.,The Dark Knight Rises,Christopher Nolan,-,2012,2h 44m,78
+23,24.,Aliens,James Cameron,-,1986,2h 17m,84
+24,25.,Kaithi,Lokesh Kanagaraj,-,2019,2h 25m,-
+25,26.,Asuran,Vetrimaaran,-,2019,2h 21m,-
+26,27.,Top Gun: Maverick,Joseph Kosinski,-,2022,2h 10m,78
+27,28.,Heat,Michael Mann,-,1995,2h 50m,76
+28,29.,North by Northwest,Alfred Hitchcock,-,1959,2h 16m,98
+29,30.,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,1983,2h 11m,58
+30,31.,Princess Mononoke,Hayao Miyazaki,-,1997,2h 14m,76
+31,32.,Kantara,Rishab Shetty,-,2022,2h 28m,-
+32,33.,Dangal,Nitesh Tiwari,-,2016,2h 41m,-
+33,34.,Raatchasan,Ram Kumar,-,2018,2h 50m,-
+34,35.,K.G.F: Chapter 2,Prashanth Neel,-,2022,2h 48m,-
+35,36.,Vikram,Lokesh Kanagaraj,-,2022,-,-
+36,37.,Shershaah,Vishnuvardhan,-,2021,2h 15m,-
+37,38.,Guardians of the Galaxy Vol. 3,James Gunn,-,2023,2h 30m,64
+38,39.,Spider-Man: No Way Home,Jon Watts,-,2021,2h 28m,71
+39,40.,Jurassic Park,Steven Spielberg,-,1993,2h 7m,68
+40,41.,Indiana Jones and the Last Crusade,Steven Spielberg,-,1989,2h 7m,65
+41,42.,1917,Sam Mendes,-,2019,1h 59m,78
+42,43.,Batman Begins,Christopher Nolan,-,2005,2h 20m,70
+43,44.,Kill Bill: Vol. 1,Quentin Tarantino,-,2003,1h 51m,69
+44,45.,Die Hard,John McTiernan,-,1988,2h 12m,72
+45,46.,V for Vendetta,James McTeigue,-,2005,2h 12m,62
+46,47.,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,2020,1h 57m,72
+47,48.,Ran,Akira Kurosawa,-,1985,2h 42m,97
+48,49.,Gangs of Wasseypur,Anurag Kashyap,-,2012,5h 21m,89
+49,50.,Vikram Vedha,Gayatri,Pushkar,2017,2h 27m,-
+50,51.,Yojimbo,Akira Kurosawa,-,1961,1h 50m,93
+51,52.,Uri: The Surgical Strike,Aditya Dhar,-,2019,2h 18m,-
+52,53.,Baahubali 2: The Conclusion,S.S. Rajamouli,-,2017,2h 47m,-
+53,54.,K.G.F: Chapter 1,Prashanth Neel,-,2018,2h 36m,-
+54,55.,Rangasthalam 1985,Sukumar,-,2018,2h 50m,-
+55,56.,Sherlock Jr.,Buster Keaton,-,1924,45m,-
+56,57.,The Mountain II,Alper Caglar,-,2016,-,-
+57,58.,Paan Singh Tomar,Tigmanshu Dhulia,-,2012,2h 15m,-
+58,59.,Mad Max: Fury Road,George Miller,-,2015,2h,90
+59,60.,Pirates of the Caribbean: The Curse of the Black Pearl,Gore Verbinski,-,2003,2h 23m,63
+60,61.,Blade Runner,Ridley Scott,-,1982,1h 57m,84
+61,62.,Ford v Ferrari,James Mangold,-,2019,2h 32m,81
+62,63.,The Terminator,James Cameron,-,1984,1h 47m,84
+63,64.,Logan,James Mangold,-,2017,2h 17m,77
+64,65.,How to Train Your Dragon,Dean DeBlois,Chris Sanders,2010,1h 38m,75
+65,66.,Rush,Ron Howard,-,2013,2h 3m,74
+66,67.,"Lock, Stock and Two Smoking Barrels",Guy Ritchie,-,1998,1h 47m,66
+67,68.,Warrior,Gavin O'Connor,-,2011,2h 20m,71
+68,69.,The Iron Giant,Brad Bird,-,1999,1h 26m,85
+69,70.,Neon Genesis Evangelion: The End of Evangelion,Hideaki Anno,Kazuya Tsurumaki,1997,1h 27m,-
+70,71.,The General,Clyde Bruckman,Buster Keaton,1926,1h 7m,-
+71,72.,Bajrangi Bhaijaan,Kabir Khan,Mehmet Tutkun,2015,2h 43m,-
+72,73.,Sholay,Ramesh Sippy,-,1975,2h 42m,-
+73,74.,The Hidden Fortress,-,-,1958,2h 6m,89
+74,75.,White Heat,Raoul Walsh,-,1949,1h 54m,-
+75,76.,A Wednesday,Neeraj Pandey,-,2008,1h 44m,-
+76,77.,Sarfarosh,John Mathew Matthan,-,1999,2h 54m,-
+77,78.,Major,Sashi Kiran Tikka,-,2022,-,-
+78,79.,Hera Pheri,Priyadarshan,-,2000,2h 36m,-
+79,80.,Thuppakki,A.R. Murugadoss,-,2012,2h 45m,-
+80,81.,Kaththi,A.R. Murugadoss,-,2014,2h 46m,-
+81,82.,John Wick: Chapter 4,Chad Stahelski,-,2023,2h 49m,78
+82,83.,Guardians of the Galaxy,James Gunn,-,2014,2h 1m,76
+83,84.,Dune,Denis Villeneuve,-,2021,2h 35m,74
+84,85.,Blade Runner 2049,Denis Villeneuve,-,2017,2h 44m,81
+85,86.,Deadpool,Tim Miller,-,2016,1h 48m,65
+86,87.,The Avengers,Joss Whedon,-,2012,2h 23m,69
+87,88.,The Incredibles,Brad Bird,-,2004,1h 55m,90
+88,89.,Casino Royale,Martin Campbell,-,2006,2h 24m,80
+89,90.,The Revenant,Alejandro G. Iñárritu,-,2015,2h 36m,76
+90,91.,Akira,Katsuhiro Ôtomo,-,1988,2h 4m,67
+91,92.,Kill Bill: Vol. 2,Quentin Tarantino,-,2004,2h 17m,83
+92,93.,The Bourne Ultimatum,Paul Greengrass,-,2007,1h 55m,85
+93,94.,Ip Man,Wilson Yip,-,2008,1h 46m,59
+94,95.,Infernal Affairs,Andrew Lau,Alan Mak,2002,1h 41m,75
+95,96.,Wolfwalkers,Tomm Moore,Ross Stewart,2020,1h 43m,87
+96,97.,Baahubali: The Beginning,S.S. Rajamouli,-,2015,2h 39m,-
+97,98.,Elite Squad,José Padilha,-,2007,1h 55m,33
+98,99.,Sanjuro,-,-,1962,1h 36m,-
+99,100.,Haider,Vishal Bhardwaj,-,2014,2h 40m,-
+100,101.,Elite Squad 2: The Enemy Within,José Padilha,-,2010,1h 55m,71
+101,102.,Tae Guk Gi: The Brotherhood of War,Je-kyu Kang,-,2004,2h 20m,64
+102,103.,Karthikeya 2,Chandoo Mondeti,-,2022,-,-
+103,104.,Andaz Apna Apna,Rajkumar Santoshi,-,1994,2h 40m,-
+104,105.,Arjun Reddy,Sandeep Reddy Vanga,-,2017,3h 2m,-
+105,106.,Nefes: Vatan Sagolsun,-,-,2009,-,-
+106,107.,1: Nenokkadine,Sukumar,-,2014,2h 50m,-
+107,108.,Avatar,James Cameron,-,2009,2h 42m,83
+108,109.,Iron Man,Jon Favreau,-,2008,2h 6m,79
+109,110.,Zack Snyder's Justice League,Zack Snyder,-,2021,4h 2m,54
+110,111.,Thor: Ragnarok,Taika Waititi,-,2017,2h 10m,74
+111,112.,Star Trek,J.J. Abrams,-,2009,2h 7m,82
+112,113.,Edge of Tomorrow,Doug Liman,-,2014,1h 53m,71
+113,114.,The Bourne Identity,Doug Liman,-,2002,1h 59m,68
+114,115.,X-Men: Days of Future Past,Bryan Singer,-,2014,2h 12m,75
+115,116.,Children of Men,Alfonso Cuarón,-,2006,1h 49m,84
+116,117.,The Blues Brothers,John Landis,-,1980,2h 13m,60
+117,118.,District 9,Neill Blomkamp,-,2009,1h 52m,81
+118,119.,"Crouching Tiger, Hidden Dragon",Ang Lee,-,2000,2h,94
+119,120.,A Fistful of Dollars,Sergio Leone,-,1964,1h 39m,65
+120,121.,Ghost in the Shell,Mamoru Oshii,-,1995,1h 23m,76
+121,122.,The Raid 2,Gareth Evans,-,2014,2h 30m,71
+122,123.,Hero,Yimou Zhang,-,2002,2h,85
+123,124.,The Wild Bunch,Sam Peckinpah,-,1969,2h 15m,98
+124,125.,Letters from Iwo Jima,Clint Eastwood,-,2006,2h 21m,89
+125,126.,A Taxi Driver,Hun Jang,-,2017,2h 17m,69
+126,127.,The Adventures of Robin Hood,Michael Curtiz,William Keighley,1938,1h 42m,97
+127,128.,Baby,Neeraj Pandey,-,2015,2h 39m,-
+128,129.,Airlift,Raja Menon,-,2016,2h 10m,-
+129,130.,Vishwaroopam,Kamal Haasan,-,2013,2h 28m,-
+130,131.,Everything Everywhere All at Once,Daniel Kwan,Daniel Scheinert,2022,2h 19m,81
+131,132.,The Batman,Matt Reeves,-,2022,2h 56m,72
+132,133.,The Gentlemen,Guy Ritchie,-,2019,1h 53m,51
+133,134.,All Quiet on the Western Front,Edward Berger,-,2022,2h 28m,76
+134,135.,RRR,S.S. Rajamouli,-,2022,3h 7m,83
+135,136.,Rogue One: A Star Wars Story,Gareth Edwards,-,2016,2h 13m,65
+136,137.,Drive,Nicolas Winding Refn,-,2011,1h 40m,78
+137,138.,Dunkirk,Christopher Nolan,-,2017,1h 46m,94
+138,139.,Apocalypto,Mel Gibson,-,2006,2h 19m,68
+139,140.,Star Wars: Episode VII - The Force Awakens,J.J. Abrams,-,2015,2h 18m,80
+140,141.,Ghostbusters,Ivan Reitman,-,1984,1h 45m,71
+141,142.,Captain America: Civil War,Anthony Russo,Joe Russo,2016,2h 27m,75
+142,143.,Predator,John McTiernan,-,1987,1h 47m,47
+143,144.,Skyfall,Sam Mendes,-,2012,2h 23m,81
+144,145.,Hot Fuzz,Edgar Wright,-,2007,2h 1m,81
+145,146.,Taken,Pierre Morel,-,2008,1h 30m,51
+146,147.,Captain America: The Winter Soldier,Anthony Russo,Joe Russo,2014,2h 16m,70
+147,148.,The Fugitive,Andrew Davis,-,1993,2h 10m,87
+148,149.,Captain Phillips,Paul Greengrass,-,2013,2h 14m,82
+149,150.,The Last Samurai,Edward Zwick,-,2003,2h 34m,55
+150,151.,Big Hero 6,Don Hall,Chris Williams,2014,1h 42m,74
+151,152.,I Saw the Devil,Jee-woon Kim,-,2010,2h 24m,67
+152,153.,Serenity,Joss Whedon,-,2005,1h 59m,74
+153,154.,The Fighter,David O. Russell,-,2010,1h 56m,79
+154,155.,Thirteen Lives,Ron Howard,-,2022,2h 27m,66
+155,156.,How to Train Your Dragon 2,Dean DeBlois,-,2014,1h 42m,77
+156,157.,The Chaser,Na Hong-jin,-,2008,2h 5m,64
+157,158.,Ninja Scroll,Yoshiaki Kawajiri,-,1993,1h 34m,-
+158,159.,Batman: Mask of the Phantasm,Eric Radomski,Kevin Altieri,1993,1h 16m,65
+159,160.,"Aguirre, the Wrath of God",Werner Herzog,-,1972,1h 35m,-
+160,161.,Cowboy Bebop: The Movie,Shin'ichirô Watanabe,Tensai Okamura,2001,1h 55m,61
+161,162.,The Killer,John Woo,-,1989,1h 51m,82
+162,163.,Knockin' on Heaven's Door,Thomas Jahn,-,1997,1h 27m,-
+163,164.,Minnal Murali,Basil Joseph,-,2021,2h 38m,-
+164,165.,Avatar: The Way of Water,James Cameron,-,2022,3h 12m,67
+165,166.,Kingsman: The Secret Service,Matthew Vaughn,-,2014,2h 9m,60
+166,167.,Black Hawk Down,Ridley Scott,-,2001,2h 24m,74
+167,168.,Mission: Impossible - Fallout,Christopher McQuarrie,-,2018,2h 27m,86
+168,169.,The Dirty Dozen,Robert Aldrich,-,1967,2h 30m,73
+169,170.,The Count of Monte Cristo,-,-,2002,2h 11m,61
+170,171.,3:10 to Yuma,James Mangold,-,2007,2h 2m,76
+171,172.,The Lego Movie,Phil Lord,Christopher Miller,2014,1h 40m,83
+172,173.,Star Trek Into Darkness,J.J. Abrams,-,2013,2h 12m,72
+173,174.,The Last of the Mohicans,Michael Mann,-,1992,1h 52m,76
+174,175.,Training Day,Antoine Fuqua,-,2001,2h 2m,69
+175,176.,Man on Fire,Tony Scott,-,2004,2h 26m,47
+176,177.,X-Men: First Class,Matthew Vaughn,-,2011,2h 11m,65
+177,178.,The Longest Day,Ken Annakin,Andrew Marton,1962,2h 58m,75
+178,179.,The Bourne Supremacy,Paul Greengrass,-,2004,1h 48m,73
+179,180.,The Magnificent Seven,John Sturges,-,1960,2h 8m,74
+180,181.,First Blood,Ted Kotcheff,-,1982,1h 33m,61
+181,182.,Kung Fu Hustle,Stephen Chow,-,2004,1h 39m,78
+182,183.,The Boondock Saints,-,-,1999,1h 48m,44
+183,184.,Dirty Harry,Don Siegel,Clint Eastwood,1971,1h 42m,87
+184,185.,Goldfinger,Guy Hamilton,-,1964,1h 50m,87
+185,186.,Star Trek II: The Wrath of Khan,Nicholas Meyer,-,1982,1h 53m,68
+186,187.,Bonnie and Clyde,Arthur Penn,-,1967,1h 51m,86
+187,188.,The French Connection,William Friedkin,-,1971,1h 44m,94
+188,189.,Run Lola Run,Tom Tykwer,-,1998,1h 20m,77
+189,190.,The Man from Nowhere,Jeong-beom Lee,-,2010,1h 59m,-
+190,191.,Kubo and the Two Strings,Travis Knight,-,2016,1h 41m,84
+191,192.,Badlands,Terrence Malick,-,1973,1h 34m,93
+192,193.,Ponniyin Selvan: Part I,Mani Ratnam,-,2022,2h 47m,-
+193,194.,Key Largo,John Huston,-,1948,1h 40m,-
+194,195.,Scarface,Howard Hawks,Richard Rosson,1932,1h 33m,90
+195,196.,Hard Boiled,John Woo,-,1992,2h 8m,-
+196,197.,Joint Security Area,-,-,2000,1h 50m,58
+197,198.,Dragon Ball Super: Broly,Tatsuya Nagamine,-,2018,1h 40m,59
+198,199.,Eega,S.S. Rajamouli,-,2012,2h 25m,-
+199,200.,Udta Punjab,Abhishek Chaubey,-,2016,2h 28m,-
+200,201.,Raazi,Meghna Gulzar,-,2018,2h 18m,-
+201,202.,Guardians of the Galaxy Vol. 2,James Gunn,-,2017,2h 16m,67
+202,203.,Deadpool 2,David Leitch,-,2018,1h 59m,66
+203,204.,The Fifth Element,Luc Besson,-,1997,2h 6m,52
+204,205.,Sicario,Denis Villeneuve,-,2015,2h 1m,82
+205,206.,300,Zack Snyder,-,2006,1h 57m,52
+206,207.,Harry Potter and the Half-Blood Prince,David Yates,-,2009,2h 33m,78
+207,208.,Star Wars: Episode III - Revenge of the Sith,George Lucas,-,2005,2h 20m,68
+208,209.,Baby Driver,Edgar Wright,-,2017,1h 53m,86
+209,210.,Watchmen,Zack Snyder,-,2009,2h 42m,56
+210,211.,The Warriors,-,-,1979,1h 33m,65
+211,212.,Incredibles 2,Brad Bird,-,2018,1h 58m,80
+212,213.,Where Eagles Dare,Brian G. Hutton,-,1968,2h 38m,63
+213,214.,RoboCop,Paul Verhoeven,-,1987,1h 42m,70
+214,215.,Train to Busan,Sang-ho Yeon,-,2016,1h 58m,73
+215,216.,Zombieland,Ruben Fleischer,-,2009,1h 28m,73
+216,217.,Kung Fu Panda,Mark Osborne,John Stevenson,2008,1h 32m,74
+217,218.,Creed,Ryan Coogler,-,2015,2h 13m,82
+218,219.,The Road Warrior,George Miller,-,1981,1h 36m,77
+219,220.,Kick-Ass,Matthew Vaughn,-,2010,1h 57m,66
+220,221.,Falling Down,Joel Schumacher,-,1993,1h 53m,56
+221,222.,Minority Report,Steven Spielberg,-,2002,2h 25m,80
+222,223.,Sherlock Holmes,Guy Ritchie,-,2009,2h 8m,57
+223,224.,Lethal Weapon,Richard Donner,-,1987,1h 49m,68
+224,225.,Rise of the Planet of the Apes,Rupert Wyatt,-,2011,1h 45m,68
+225,226.,Battle Royale,Kinji Fukasaku,-,2000,1h 54m,81
+226,227.,Dawn of the Planet of the Apes,Matt Reeves,-,2014,2h 10m,79
+227,228.,The Raid: Redemption,Gareth Evans,-,2011,1h 41m,73
+228,229.,End of Watch,David Ayer,-,2012,1h 49m,68
+229,230.,Enter the Dragon,Robert Clouse,-,1973,1h 42m,83
+230,231.,Die Hard with a Vengeance,John McTiernan,-,1995,2h 8m,58
+231,232.,Hotel Mumbai,Anthony Maras,-,2018,2h 3m,62
+232,233.,Only the Brave,Joseph Kosinski,-,2017,2h 14m,72
+233,234.,Escape from Alcatraz,-,-,1979,1h 52m,76
+234,235.,Star Trek: First Contact,Jonathan Frakes,-,1996,1h 51m,71
+235,236.,United 93,Paul Greengrass,-,2006,1h 51m,90
+236,237.,The Taking of Pelham One Two Three,Joseph Sargent,-,1974,1h 44m,68
+237,238.,Vampire Hunter D: Bloodlust,-,-,2000,1h 43m,62
+238,239.,Fearless,Ronny Yu,-,2006,1h 44m,70
+239,240.,Pushpa: The Rise - Part 1,Sukumar,-,2021,-,-
+240,241.,Ludo,Anurag Basu,-,2020,2h 30m,-
+241,242.,Cell 211,Daniel Monzón,-,2009,-,-
+242,243.,Evangelion: 1.0 You Are (Not) Alone,Masayuki,Kazuya Tsurumaki,2007,1h 38m,66
+243,244.,Lupin III: The Castle of Cagliostro,Hayao Miyazaki,-,1979,-,72
+244,245.,The Boy and the Beast,Mamoru Hosoda,-,2015,1h 59m,65
+245,246.,Mortal World,-,-,2018,-,-
+246,247.,The Covenant,-,-,2023,2h 3m,63
+247,248.,Indiana Jones and the Temple of Doom,Steven Spielberg,-,1984,1h 58m,57
+248,249.,Batman,Tim Burton,-,1989,2h 6m,69
+249,250.,Harry Potter and the Order of the Phoenix,David Yates,-,2007,2h 18m,71
+250,251.,Scott Pilgrim vs. the World,Edgar Wright,-,2010,1h 52m,69
+251,252.,Fury,David Ayer,-,2014,2h 14m,64
+252,253.,Lone Survivor,Peter Berg,-,2013,2h 1m,60
+253,254.,The Hunger Games: Catching Fire,Francis Lawrence,-,2013,2h 26m,76
+254,255.,Total Recall,Paul Verhoeven,-,1990,1h 53m,60
+255,256.,Master and Commander: The Far Side of the World,Peter Weir,-,2003,2h 18m,81
+256,257.,Doctor Strange,Scott Derrickson,-,2016,1h 55m,72
+257,258.,The Crow,Alex Proyas,-,1994,1h 42m,71
+258,259.,Upgrade,Leigh Whannell,-,2018,1h 40m,67
+259,260.,It's a Mad Mad Mad Mad World,Stanley Kramer,-,1963,3h 30m,59
+260,261.,Collateral,Michael Mann,-,2004,2h,71
+261,262.,The Hunt for Red October,John McTiernan,-,1990,2h 15m,58
+262,263.,Source Code,Duncan Jones,-,2011,1h 33m,74
+263,264.,Munich,-,-,2005,2h 44m,74
+264,265.,Enemy at the Gates,Jean-Jacques Annaud,-,2001,2h 11m,53
+265,266.,Riders of Justice,Anders Thomas Jensen,-,2020,1h 56m,81
+266,267.,Grindhouse,Robert Rodriguez,Eli Roth,2007,3h 11m,77
+267,268.,Tora! Tora! Tora!,Richard Fleischer,Kinji Fukasaku,1970,2h 24m,46
+268,269.,Midnight Run,Martin Brest,-,1988,2h 6m,78
+269,270.,The Guns of Navarone,J. Lee Thompson,-,1961,2h 38m,72
+270,271.,Headhunters,Morten Tyldum,-,2011,1h 40m,72
+271,272.,Police Story,Jackie Chan,Chi-Hwa Chen,1985,1h 40m,78
+272,273.,13 Assassins,Takashi Miike,-,2010,2h 21m,84
+273,274.,Ip Man 2,Wilson Yip,-,2010,1h 48m,67
+274,275.,House of Flying Daggers,Yimou Zhang,-,2004,1h 59m,89
+275,276.,New World,Park Hoon-jung,-,2013,2h 15m,58
+276,277.,A Bittersweet Life,-,-,2005,1h 59m,-
+277,278.,The Legend of Drunken Master,Chia-Liang Liu,Jackie Chan,1994,1h 42m,74
+278,279.,The Blind Swordsman: Zatoichi,-,-,2003,1h 56m,75
+279,280.,Delhi Belly,Abhinay Deo,Akshat Verma,2011,1h 43m,66
+280,281.,Tanhaji: The Unsung Warrior,Om Raut,-,2020,2h 15m,-
+281,282.,Mesrine: Killer Instinct,Jean-François Richet,-,2008,1h 53m,71
+282,283.,Jodhaa Akbar,Ashutosh Gowariker,-,2008,3h 33m,69
+283,284.,Mersal,Atlee,-,2017,2h 52m,-
+284,285.,To Strike,Bilal Lashari,-,2013,-,-
+285,286.,John Wick,Chad Stahelski,David Leitch,2014,1h 41m,68
+286,287.,John Wick: Chapter 3 - Parabellum,Chad Stahelski,-,2019,2h 10m,73
+287,288.,John Wick: Chapter 2,Chad Stahelski,-,2017,2h 2m,75
+288,289.,Shang-Chi and the Legend of the Ten Rings,Destin Daniel Cretton,-,2021,2h 12m,71
+289,290.,Nobody,Ilya Naishuller,-,2021,1h 32m,64
+290,291.,Spider-Man: Homecoming,Jon Watts,-,2017,2h 13m,73
+291,292.,Spider-Man,Sam Raimi,-,2002,2h 1m,73
+292,293.,Ready Player One,Steven Spielberg,-,2018,2h 20m,64
+293,294.,Predestination,Michael Spierig,Peter Spierig,2014,1h 37m,69
+294,295.,Mission: Impossible - Rogue Nation,Christopher McQuarrie,-,2015,2h 11m,75
+295,296.,Spider-Man: Far from Home,Jon Watts,-,2019,2h 9m,69
+296,297.,Mission: Impossible - Ghost Protocol,Brad Bird,-,2011,2h 12m,73
+297,298.,The Last Duel,Ridley Scott,-,2021,2h 32m,67
+298,299.,Spider-Man 2,Sam Raimi,-,2004,2h 7m,83
+299,300.,Wonder Woman,Patty Jenkins,-,2017,2h 21m,76
+300,301.,Superman,Richard Donner,-,1978,2h 23m,82
+301,302.,The Rock,Michael Bay,-,1996,2h 16m,58
+302,303.,Looper,Rian Johnson,-,2012,1h 59m,84
+303,304.,X2: X-Men United,Bryan Singer,-,2003,2h 14m,68
+304,305.,Law Abiding Citizen,F. Gary Gray,-,2009,1h 49m,34
+305,306.,War for the Planet of the Apes,Matt Reeves,-,2017,2h 20m,82
+306,307.,How to Train Your Dragon: The Hidden World,Dean DeBlois,-,2019,1h 44m,71
+307,308.,A History of Violence,David Cronenberg,-,2005,1h 36m,82
+308,309.,Open Range,-,-,2003,2h 19m,67
+309,310.,Sherlock Holmes: A Game of Shadows,Guy Ritchie,-,2011,2h 9m,48
+310,311.,Bullitt,Peter Yates,-,1968,1h 54m,81
+311,312.,From Russia with Love,Terence Young,-,1963,1h 55m,83
+312,313.,Thief,Michael Mann,-,1981,2h 3m,78
+313,314.,Black Dynamite,Scott Sanders,-,2009,1h 24m,65
+314,315.,Rurouni Kenshin Part I: Origins,Keishi Otomo,-,2012,2h 14m,-
+315,316.,Mission Majnu,Shantanu Bagchi,-,2023,2h 9m,-
+316,317.,Drunken Master,-,-,1978,1h 51m,68
+317,318.,Summer Wars,Mamoru Hosoda,-,2009,1h 54m,63
+318,319.,Mesrine: Public Enemy No. 1,Jean-François Richet,-,2008,2h 13m,72
+319,320.,Dungeons & Dragons: Honor Among Thieves,John Francis Daley,Jonathan Goldstein,2023,2h 14m,72
+320,321.,Bullet Train,David Leitch,-,2022,2h 7m,49
+321,322.,No Time to Die,Cary Joji Fukunaga,-,2021,2h 43m,68
+322,323.,Fast Five,Justin Lin,-,2011,2h 10m,66
+323,324.,Tenet,Christopher Nolan,-,2020,2h 30m,69
+324,325.,The Karate Kid,John G. Avildsen,-,1984,2h 6m,60
+325,326.,True Lies,James Cameron,-,1994,2h 21m,63
+326,327.,Starship Troopers,Paul Verhoeven,-,1997,2h 9m,52
+327,328.,Men in Black,Barry Sonnenfeld,-,1997,1h 38m,71
+328,329.,Ant-Man,Peyton Reed,-,2015,1h 57m,64
+329,330.,The Accountant,Gavin O'Connor,-,2016,2h 8m,51
+330,331.,The Nice Guys,Shane Black,-,2016,1h 56m,70
+331,332.,Black Panther,Ryan Coogler,-,2018,2h 14m,88
+332,333.,Avengers: Age of Ultron,Joss Whedon,-,2015,2h 21m,66
+333,334.,X-Men,Bryan Singer,-,2000,1h 44m,64
+334,335.,Dawn of the Dead,Zack Snyder,-,2004,1h 41m,59
+335,336.,Speed,Jan de Bont,-,1994,1h 56m,78
+336,337.,American Sniper,Clint Eastwood,-,2014,2h 13m,72
+337,338.,Face/Off,John Woo,-,1997,2h 18m,82
+338,339.,Alita: Battle Angel,Robert Rodriguez,-,2019,2h 2m,53
+339,340.,13 Hours,Michael Bay,-,2016,2h 24m,48
+340,341.,Pirates of the Caribbean: Dead Man's Chest,Gore Verbinski,-,2006,2h 31m,53
+341,342.,Beverly Hills Cop,Martin Brest,-,1984,1h 45m,66
+342,343.,El Camino: A Breaking Bad Movie,Vince Gilligan,-,2019,2h 2m,72
+343,344.,Raya and the Last Dragon,Don Hall,Carlos López Estrada,2021,1h 47m,74
+344,345.,Patriots Day,Peter Berg,-,2016,2h 13m,69
+345,346.,Eye in the Sky,Gavin Hood,-,2015,1h 42m,73
+346,347.,The Lego Batman Movie,Chris McKay,-,2017,1h 44m,75
+347,348.,Enemy of the State,Tony Scott,-,1998,2h 12m,67
+348,349.,Okja,Bong Joon Ho,-,2017,2h,75
+349,350.,Equilibrium,Kurt Wimmer,-,2002,1h 47m,33
+350,351.,Southpaw,Antoine Fuqua,-,2015,2h 4m,57
+351,352.,Megamind,Tom McGrath,-,2010,1h 35m,63
+352,353.,Layer Cake,Matthew Vaughn,-,2004,1h 45m,73
+353,354.,The Adventures of Tintin,Steven Spielberg,-,2011,1h 47m,68
+354,355.,The Next Three Days,Paul Haggis,-,2010,2h 13m,52
+355,356.,Grosse Pointe Blank,George Armitage,-,1997,1h 47m,76
+356,357.,Star Trek IV: The Voyage Home,Leonard Nimoy,-,1986,1h 59m,71
+357,358.,The Negotiator,F. Gary Gray,-,1998,2h 20m,62
+358,359.,To Live and Die in L.A.,William Friedkin,-,1985,1h 56m,81
+359,360.,Crimson Tide,Tony Scott,-,1995,1h 56m,66
+360,361.,Invictus,Clint Eastwood,-,2009,2h 14m,74
+361,362.,Nikita,Luc Besson,-,1990,1h 57m,56
+362,363.,Shaolin Soccer,Stephen Chow,-,2001,1h 27m,68
+363,364.,Running Scared,Wayne Kramer,-,2006,2h 2m,41
+364,365.,The Getaway,Sam Peckinpah,-,1972,2h 3m,55
+365,366.,Jason and the Argonauts,-,-,1963,1h 44m,69
+366,367.,Assault on Precinct 13,John Carpenter,-,1976,1h 31m,89
+367,368.,Red Cliff,John Woo,-,2008,2h 28m,73
+368,369.,Get Carter,Mike Hodges,-,1971,1h 52m,80
+369,370.,Bacurau,Juliano Dornelles,Kleber Mendonça Filho,2019,2h 11m,82
+370,371.,Ghajini,A.R. Murugadoss,-,2008,3h 6m,-
+371,372.,The Baader Meinhof Complex,Uli Edel,-,2008,2h 30m,76
+372,373.,Max Manus: Man of War,Joachim Rønning,Espen Sandberg,2008,1h 58m,60
+373,374.,Master,Lokesh Kanagaraj,-,2021,2h 59m,-
+374,375.,The Suicide Squad,James Gunn,-,2021,2h 12m,72
+375,376.,The Hunger Games,Gary Ross,-,2012,2h 22m,68
+376,377.,The Equalizer,Antoine Fuqua,-,2014,2h 12m,57
+377,378.,From Dusk Till Dawn,Robert Rodriguez,-,1996,1h 48m,48
+378,379.,Silverado,Lawrence Kasdan,-,1985,2h 13m,64
+379,380.,The Patriot,Roland Emmerich,-,2000,2h 45m,63
+380,381.,Point Break,Kathryn Bigelow,-,1991,2h 2m,59
+381,382.,21 Jump Street,Phil Lord,Christopher Miller,2012,1h 49m,69
+382,383.,Kingdom of Heaven,Ridley Scott,-,2005,2h 24m,63
+383,384.,Big Trouble in Little China,John Carpenter,-,1986,1h 39m,53
+384,385.,King Kong,Peter Jackson,-,2005,3h 7m,81
+385,386.,The Man from U.N.C.L.E.,Guy Ritchie,-,2015,1h 56m,56
+386,387.,Ronin,John Frankenheimer,-,1998,2h 2m,67
+387,388.,Rango,Gore Verbinski,-,2011,1h 47m,75
+388,389.,Natural Born Killers,Oliver Stone,-,1994,1h 59m,74
+389,390.,They Live,John Carpenter,-,1988,1h 34m,55
+390,391.,The Matrix Reloaded,Lana Wachowski,Lilly Wachowski,2003,2h 18m,62
+391,392.,I Am Legend,Francis Lawrence,-,2007,1h 41m,65
+392,393.,The Life Aquatic with Steve Zissou,Wes Anderson,-,2004,1h 59m,62
+393,394.,GoldenEye,Martin Campbell,-,1995,2h 10m,65
+394,395.,Unbroken,Angelina Jolie,-,2014,2h 17m,59
+395,396.,Willow,Ron Howard,-,1988,2h 6m,47
+396,397.,The Croods,Kirk DeMicco,Chris Sanders,2013,1h 38m,55
+397,398.,RocknRolla,Guy Ritchie,-,2008,1h 54m,53
+398,399.,Dr. No,Terence Young,-,1962,1h 50m,78
+399,400.,Old Henry,Potsy Ponciroli,-,2021,1h 39m,69
+400,401.,Friday Night Lights,Peter Berg,-,2004,1h 58m,70
+401,402.,Team America: World Police,Trey Parker,-,2004,1h 38m,64
+402,403.,Kung Fu Panda 2,Jennifer Yuh Nelson,-,2011,1h 30m,67
+403,404.,Anthropoid,Sean Ellis,-,2016,2h,59
+404,405.,Star Trek VI: The Undiscovered Country,Nicholas Meyer,-,1991,1h 50m,65
+405,406.,Batman v Superman: Dawn of Justice (Ultimate Edition),Zack Snyder,-,2016,3h 2m,-
+406,407.,In the Line of Fire,Wolfgang Petersen,-,1993,2h 8m,74
+407,408.,Rise of the Guardians,Peter Ramsey,-,2012,1h 37m,58
+408,409.,Lethal Weapon 2,Richard Donner,-,1989,1h 54m,70
+409,410.,The Italian Job,Peter Collinson,-,1969,1h 39m,70
+410,411.,Vanishing Point,-,-,1971,1h 39m,61
+411,412.,War Horse,Steven Spielberg,-,2011,2h 26m,72
+412,413.,Runaway Train,Andrey Konchalovskiy,-,1985,1h 51m,67
+413,414.,Magnum Force,Ted Post,-,1973,2h 4m,58
+414,415.,The Transformers: The Movie,Nelson Shin,-,1986,1h 24m,43
+415,416.,Arlington Road,Mark Pellington,-,1999,1h 57m,65
+416,417.,The Way of the Dragon,-,-,1972,1h 30m,58
+417,418.,The Hitcher,Robert Harmon,-,1986,1h 37m,32
+418,419.,Kon-Tiki,Joachim Rønning,Espen Sandberg,2012,1h 58m,62
+419,420.,The Siege of Jadotville,-,-,2016,1h 48m,-
+420,421.,Django,-,-,1966,1h 31m,75
+421,422.,The Witcher: Nightmare of the Wolf,Kwang Il Han,-,2021,1h 23m,67
+422,423.,Bajirao Mastani,Sanjay Leela Bhansali,-,2015,2h 38m,-
+423,424.,'71,Yann Demange,-,2014,1h 39m,83
+424,425.,Harry Brown,Daniel Barber,-,2009,1h 43m,55
+425,426.,Fist of Fury,Wei Lo,-,1972,1h 47m,68
+426,427.,Marshland,Alberto Rodríguez,-,2014,1h 45m,-
+427,428.,The Good the Bad the Weird,Jee-woon Kim,-,2008,2h 10m,69
+428,429.,Mongol: The Rise of Genghis Khan,Sergei Bodrov,-,2007,2h 6m,74
+429,430.,Final Fantasy VII: Advent Children,-,-,2005,1h 41m,-
+430,431.,Holiday: A Soldier is Never Off Duty,A.R. Murugadoss,-,2014,2h 40m,-
+431,432.,Furious 7,James Wan,-,2015,2h 17m,67
+432,433.,The Mummy,Stephen Sommers,-,1999,2h 4m,48
+433,434.,Wrath of Man,Guy Ritchie,-,2021,1h 59m,57
+434,435.,Mission: Impossible,Brian De Palma,-,1996,1h 50m,59
+435,436.,Free Guy,Shawn Levy,-,2021,1h 55m,62
+436,437.,Dredd,Pete Travis,-,2012,1h 35m,60
+437,438.,Everest,Baltasar Kormákur,-,2015,2h 1m,64
+438,439.,Tropic Thunder,Ben Stiller,-,2008,1h 47m,71
+439,440.,Prey,Dan Trachtenberg,-,2022,1h 40m,71
+440,441.,Man of Steel,Zack Snyder,-,2013,2h 23m,55
+441,442.,Iron Man 3,Shane Black,-,2013,2h 10m,62
+442,443.,Shooter,Antoine Fuqua,-,2007,2h 4m,53
+443,444.,Pirates of the Caribbean: At World's End,Gore Verbinski,-,2007,2h 49m,50
+444,445.,Blade,Stephen Norrington,-,1998,2h,47
+445,446.,Batman Returns,Tim Burton,-,1992,2h 6m,68
+446,447.,Snowpiercer,Bong Joon Ho,-,2013,2h 6m,84
+447,448.,DC League of Super-Pets,Jared Stern,Sam J. Levine,2022,1h 45m,56
+448,449.,American Made,Doug Liman,-,2017,1h 55m,65
+449,450.,"I, Robot",Alex Proyas,-,2004,1h 55m,59
+450,451.,WarGames,John Badham,-,1983,1h 54m,77
+451,452.,We Were Soldiers,Randall Wallace,-,2002,2h 18m,65
+452,453.,Highlander,-,-,1986,1h 56m,24
+453,454.,Creed II,Steven Caple Jr.,-,2018,2h 10m,66
+454,455.,Desperado,Robert Rodriguez,-,1995,1h 44m,55
+455,456.,Deepwater Horizon,Peter Berg,-,2016,1h 47m,68
+456,457.,Live Free or Die Hard,Len Wiseman,-,2007,2h 8m,69
+457,458.,Flags of Our Fathers,Clint Eastwood,-,2006,2h 15m,79
+458,459.,The Poseidon Adventure,Ronald Neame,-,1972,1h 57m,70
+459,460.,Escape from New York,John Carpenter,-,1981,1h 39m,76
+460,461.,Planet Terror,Robert Rodriguez,-,2007,1h 45m,-
+461,462.,Kung Fu Panda 3,Alessandro Carloni,Jennifer Yuh Nelson,2016,1h 35m,66
+462,463.,Allied,Robert Zemeckis,-,2016,2h 4m,60
+463,464.,No Way Out,-,-,1987,1h 54m,77
+464,465.,Rocky Balboa,Sylvester Stallone,-,2006,1h 42m,63
+465,466.,Deja Vu,Tony Scott,-,2006,2h 6m,59
+466,467.,Casualties of War,Brian De Palma,-,1989,1h 53m,75
+467,468.,Three Kings,David O. Russell,-,1999,1h 54m,82
+468,469.,Die Hard 2,Renny Harlin,-,1990,2h 4m,67
+469,470.,Defiance,Edward Zwick,-,2008,2h 17m,58
+470,471.,Brawl in Cell Block 99,S. Craig Zahler,-,2017,2h 12m,79
+471,472.,Payback,Brian Helgeland,-,1999,1h 40m,46
+472,473.,Enthiran,S. Shankar,-,2010,2h 54m,-
+473,474.,Ong-Bak: The Thai Warrior,Prachya Pinkaew,-,2003,1h 45m,69
+474,475.,Megan Leavey,Gabriela Cowperthwaite,-,2017,1h 56m,66
+475,476.,The Girl Who Played with Fire,Daniel Alfredson,-,2009,2h 9m,66
+476,477.,Mosul,-,-,2019,1h 41m,71
+477,478.,District B13,Pierre Morel,-,2004,1h 24m,70
+478,479.,God Bless America,Bobcat Goldthwait,-,2011,1h 45m,56
+479,480.,In Order of Disappearance,Hans Petter Moland,-,2014,1h 56m,74
+480,481.,JCVD,Mabrouk El Mechri,-,2008,1h 37m,64
+481,482.,Kaabil,Sanjay Gupta,-,2017,2h 19m,-
+482,483.,Dragon Ball Z: Battle of Gods,Masahiro Hosoda,-,2013,1h 25m,-
+483,484.,Don,Farhan Akhtar,-,2006,2h 51m,-
+484,485.,Koi... Mil Gaya,Rakesh Roshan,-,2003,2h 51m,-
+485,486.,Micmacs,Jean-Pierre Jeunet,-,2009,1h 45m,62
+486,487.,Fanaa,Kunal Kohli,-,2006,2h 48m,-
+487,488.,Marighella,Wagner Moura,-,2019,-,-
+488,489.,Gabbar Is Back,Radha Krishna Jagarlamudi,-,2015,2h 8m,-
+489,490.,Sisu,Jalmari Helander,-,2022,1h 31m,70
+490,491.,Shazam!,David F. Sandberg,-,2019,2h 12m,71
+491,492.,Transformers,Michael Bay,-,2007,2h 24m,61
+492,493.,The Unbearable Weight of Massive Talent,Tom Gormican,-,2022,1h 47m,68
+493,494.,Fast & Furious 6,Justin Lin,-,2013,2h 10m,61
+494,495.,The Northman,Robert Eggers,-,2022,2h 17m,82
+495,496.,Jack Reacher,Christopher McQuarrie,-,2012,2h 10m,50
+496,497.,Thor,Kenneth Branagh,-,2011,1h 55m,57
+497,498.,Underworld,Len Wiseman,-,2003,2h 1m,42
+498,499.,Independence Day,Roland Emmerich,-,1996,2h 25m,59
+499,500.,Ant-Man and the Wasp,Peyton Reed,-,2018,1h 58m,70
+500,501.,Constantine,Francis Lawrence,-,2005,2h 1m,50
+501,502.,Super 8,J.J. Abrams,-,2011,1h 52m,72
+502,503.,Cloverfield,Matt Reeves,-,2008,1h 25m,64
+503,504.,World War Z,Marc Forster,-,2013,1h 56m,63
+504,505.,Death Proof,Quentin Tarantino,-,2007,2h 7m,-
+505,506.,Star Trek Beyond,Justin Lin,-,2016,2h 2m,68
+506,507.,Greyhound,Aaron Schneider,-,2020,1h 31m,64
+507,508.,Rush Hour,Brett Ratner,-,1998,1h 38m,60
+508,509.,Oblivion,Joseph Kosinski,-,2013,2h 4m,54
+509,510.,Stargate,Roland Emmerich,-,1994,1h 56m,42
+510,511.,The Italian Job,F. Gary Gray,-,2003,1h 51m,68
+511,512.,Smokey and the Bandit,Hal Needham,-,1977,1h 36m,50
+512,513.,Spy,Paul Feig,-,2015,2h,75
+513,514.,Sicario: Day of the Soldado,Stefano Sollima,-,2018,2h 2m,61
+514,515.,Pitch Black,David Twohy,-,2000,1h 49m,49
+515,516.,RED,Robert Schwentke,-,2010,1h 51m,60
+516,517.,Logan Lucky,Steven Soderbergh,-,2017,1h 58m,78
+517,518.,Den of Thieves,Christian Gudegast,-,2018,2h 20m,49
+518,519.,Unleashed,-,-,2005,1h 43m,58
+519,520.,22 Jump Street,Phil Lord,Christopher Miller,2014,1h 52m,71
+520,521.,Brotherhood of the Wolf,Christophe Gans,-,2001,2h 22m,57
+521,522.,Public Enemies,Michael Mann,-,2009,2h 20m,70
+522,523.,Bronson,Nicolas Winding Refn,-,2008,1h 32m,71
+523,524.,Real Steel,Shawn Levy,-,2011,2h 7m,56
+524,525.,The Foreigner,Martin Campbell,-,2017,1h 53m,55
+525,526.,Chip 'n Dale: Rescue Rangers,Akiva Schaffer,-,2022,1h 37m,66
+526,527.,Rambo,Sylvester Stallone,-,2008,1h 32m,46
+527,528.,The Kingdom,Peter Berg,-,2007,1h 50m,56
+528,529.,Chronicle,Josh Trank,-,2012,1h 24m,69
+529,530.,Fallen,Gregory Hoblit,-,1998,2h 4m,-
+530,531.,Body of Lies,Ridley Scott,-,2008,2h 8m,57
+531,532.,The Last Boy Scout,Tony Scott,-,1991,1h 45m,52
+532,533.,Hellboy II: The Golden Army,Guillermo del Toro,-,2008,2h,78
+533,534.,Thunderbolt and Lightfoot,Michael Cimino,-,1974,1h 55m,62
+534,535.,9,Shane Acker,-,2009,1h 19m,60
+535,536.,A Most Violent Year,J.C. Chandor,-,2014,2h 5m,79
+536,537.,Ip Man 4: The Finale,Wilson Yip,-,2019,1h 47m,62
+537,538.,The Towering Inferno,John Guillermin,-,1974,2h 45m,69
+538,539.,The Spy Who Loved Me,Lewis Gilbert,-,1977,2h 5m,55
+539,540.,Filth,Jon S. Baird,-,2013,1h 37m,56
+540,541.,Maverick,Richard Donner,-,1994,2h 7m,62
+541,542.,Spy Game,Tony Scott,-,2001,2h 6m,63
+542,543.,Taxi,Gérard Pirès,-,1998,1h 29m,-
+543,544.,Ichi the Killer,Takashi Miike,-,2001,-,55
+544,545.,The War of the Worlds,Byron Haskin,-,1953,1h 25m,78
+545,546.,An Action Hero,Anirudh Iyer,-,2022,-,-
+546,547.,Juice,Ernest R. Dickerson,-,1992,1h 35m,60
+547,548.,Son of Rambow,Garth Jennings,-,2007,1h 36m,66
+548,549.,Ip Man 3,Wilson Yip,-,2015,1h 45m,57
+549,550.,Dragon: The Bruce Lee Story,Rob Cohen,-,1993,2h,69
+550,551.,Curse of the Golden Flower,Yimou Zhang,-,2006,1h 54m,70
+551,552.,Sultan,Ali Abbas Zafar,-,2016,2h 50m,-
+552,553.,The Protector,-,-,2005,1h 51m,52
+553,554.,Kabir Singh,Sandeep Reddy Vanga,-,2019,2h 53m,-
+554,555.,Don 2,Farhan Akhtar,-,2011,2h 28m,49
+555,556.,Main Hoon Na,Farah Khan,-,2004,3h 2m,-
+556,557.,The Warlords,Peter Ho-Sun Chan,Wai-Man Yip,2007,2h 6m,70
+557,558.,The Legend Is Born: Ip Man,Herman Yau,-,2010,1h 40m,-
+558,559.,Vikrant Rona,-,-,2022,2h 28m,-
+559,560.,Top Gun,Tony Scott,-,1986,1h 49m,50
+560,561.,The Last Kingdom: Seven Kings Must Die,-,-,2023,1h 51m,48
+561,562.,Doctor Strange in the Multiverse of Madness,Sam Raimi,-,2022,2h 6m,60
+562,563.,Game Night,John Francis Daley,Jonathan Goldstein,2018,1h 40m,66
+563,564.,Captain America: The First Avenger,Joe Johnston,-,2011,2h 4m,66
+564,565.,Conan the Barbarian,John Milius,-,1982,2h 9m,43
+565,566.,Jumanji: Welcome to the Jungle,Jake Kasdan,-,2017,1h 59m,58
+566,567.,Jurassic World,Colin Trevorrow,-,2015,2h 4m,59
+567,568.,The Amazing Spider-Man,Marc Webb,-,2012,2h 16m,66
+568,569.,Star Wars: Episode VIII - The Last Jedi,Rian Johnson,-,2017,2h 32m,84
+569,570.,Solo: A Star Wars Story,Ron Howard,-,2018,2h 15m,62
+570,571.,Mission: Impossible III,J.J. Abrams,-,2006,2h 6m,66
+571,572.,The Mask,Chuck Russell,-,1994,1h 41m,56
+572,573.,The Guardian,Andrew Davis,-,2006,2h 19m,53
+573,574.,A Knight's Tale,Brian Helgeland,-,2001,2h 12m,56
+574,575.,Iron Man 2,Jon Favreau,-,2010,2h 4m,57
+575,576.,X-Men: Apocalypse,Bryan Singer,-,2016,2h 24m,52
+576,577.,Con Air,Simon West,-,1997,1h 55m,52
+577,578.,Pacific Rim,Guillermo del Toro,-,2013,2h 11m,65
+578,579.,Atlantis: The Lost Empire,Gary Trousdale,Kirk Wise,2001,1h 35m,52
+579,580.,Romancing the Stone,Robert Zemeckis,-,1984,1h 46m,63
+580,581.,Robin Hood: Prince of Thieves,Kevin Reynolds,-,1991,2h 23m,51
+581,582.,National Treasure,Jon Turteltaub,-,2004,2h 11m,40
+582,583.,The Hitman's Bodyguard,Patrick Hughes,-,2017,1h 58m,47
+583,584.,Dragged Across Concrete,S. Craig Zahler,-,2018,2h 39m,60
+584,585.,Love and Monsters,Michael Matthews,-,2020,1h 49m,63
+585,586.,Clear and Present Danger,Phillip Noyce,-,1994,2h 21m,74
+586,587.,The World's End,Edgar Wright,-,2013,1h 49m,81
+587,588.,28 Weeks Later,Juan Carlos Fresnadillo,-,2007,1h 40m,78
+588,589.,In the Heart of the Sea,Ron Howard,-,2015,2h 2m,47
+589,590.,Pineapple Express,David Gordon Green,-,2008,1h 51m,64
+590,591.,Outlaw King,David Mackenzie,-,2018,2h 1m,59
+591,592.,Clash of the Titans,Desmond Davis,-,1981,1h 58m,59
+592,593.,Thunderball,Terence Young,-,1965,2h 10m,64
+593,594.,Crank,Mark Neveldine,Brian Taylor,2006,1h 28m,57
+594,595.,Non-Stop,Jaume Collet-Serra,-,2014,1h 46m,56
+595,596.,The Edge,Lee Tamahori,-,1997,1h 57m,66
+596,597.,48 Hrs.,Walter Hill,-,1982,1h 36m,71
+597,598.,The Last Castle,Rod Lurie,-,2001,2h 11m,43
+598,599.,Death Wish,Michael Winner,-,1974,1h 33m,51
+599,600.,The Night Comes for Us,Timo Tjahjanto,-,2018,2h 1m,69
+600,601.,Repo Man,Alex Cox,-,1984,1h 32m,82
+601,602.,Westworld,Michael Crichton,-,1973,1h 28m,77
+602,603.,Memphis Belle,Michael Caton-Jones,-,1990,1h 47m,59
+603,604.,The Monster Squad,Fred Dekker,-,1987,1h 19m,61
+604,605.,Muppet Treasure Island,Brian Henson,David Lane,1996,1h 39m,64
+605,606.,Free State of Jones,Gary Ross,-,2016,2h 19m,53
+606,607.,All Is Lost,J.C. Chandor,-,2013,1h 46m,87
+607,608.,Legend of the Guardians: The Owls of Ga'Hoole,Zack Snyder,-,2010,1h 37m,53
+608,609.,Get the Gringo,-,-,2012,1h 36m,60
+609,610.,The Big Boss,-,-,1971,1h 39m,-
+610,611.,New Police Story,Benny Chan,-,2004,2h 3m,-
+611,612.,Traitor,Jeffrey Nachmanoff,-,2008,1h 54m,61
+612,613.,Slow West,John Maclean,-,2015,1h 24m,72
+613,614.,Agneepath,Karan Malhotra,-,2012,2h 54m,-
+614,615.,Alan Partridge,Declan Lowney,-,2013,1h 30m,66
+615,616.,Fan,Maneesh Sharma,-,2016,2h 22m,-
+616,617.,The Fast and the Furious,Rob Cohen,-,2001,1h 46m,58
+617,618.,The Woman King,Gina Prince-Bythewood,-,2022,2h 15m,77
+618,619.,The Magnificent Seven,Antoine Fuqua,-,2016,2h 12m,54
+619,620.,Ready or Not,Matt Bettinelli-Olpin,Tyler Gillett,2019,1h 35m,64
+620,621.,Aquaman,James Wan,-,2018,2h 23m,55
+621,622.,Mad Max,George Miller,-,1979,1h 28m,73
+622,623.,Captain Marvel,Anna Boden,Ryan Fleck,2019,2h 3m,64
+623,624.,Men in Black 3,Barry Sonnenfeld,-,2012,1h 46m,58
+624,625.,The Maze Runner,Wes Ball,-,2014,1h 53m,57
+625,626.,TRON: Legacy,Joseph Kosinski,-,2010,2h 5m,49
+626,627.,Spectre,Sam Mendes,-,2015,2h 28m,60
+627,628.,What Happened to Monday,Tommy Wirkola,-,2017,2h 3m,47
+628,629.,Hellboy,Guillermo del Toro,-,2004,2h 2m,72
+629,630.,Thor: The Dark World,Alan Taylor,-,2013,1h 52m,54
+630,631.,Hanna,Joe Wright,-,2011,1h 51m,65
+631,632.,Bloodsport,Newt Arnold,-,1988,1h 32m,29
+632,633.,Bad Boys,Michael Bay,-,1995,1h 59m,41
+633,634.,The Book of Eli,Albert Hughes,Allen Hughes,2010,1h 58m,53
+634,635.,Boss Level,-,-,2020,1h 40m,56
+635,636.,You Only Live Twice,Lewis Gilbert,-,1967,1h 57m,61
+636,637.,Young Guns,Christopher Cain,-,1988,1h 47m,50
+637,638.,The Transporter,-,-,2002,1h 32m,51
+638,639.,News of the World,Paul Greengrass,-,2020,1h 58m,73
+639,640.,Ghostbusters,Paul Feig,-,2016,1h 57m,60
+640,641.,The Outpost,Rod Lurie,-,2019,2h 3m,71
+641,642.,The Island,Michael Bay,-,2005,2h 16m,50
+642,643.,Logan's Run,Michael Anderson,-,1976,1h 59m,53
+643,644.,The Long Kiss Goodnight,Renny Harlin,-,1996,2h 1m,44
+644,645.,Chappie,Neill Blomkamp,-,2015,2h,41
+645,646.,The Mask of Zorro,Martin Campbell,-,1998,2h 16m,63
+646,647.,Superman II,Richard Lester,Richard Donner,1980,2h 7m,83
+647,648.,Patriot Games,Phillip Noyce,-,1992,1h 57m,64
+648,649.,Unstoppable,Tony Scott,-,2010,1h 38m,69
+649,650.,Shin Godzilla,Hideaki Anno,Shinji Higuchi,2016,2h,67
+650,651.,Spies in Disguise,Nick Bruno,Troy Quane,2019,1h 42m,54
+651,652.,Street Kings,David Ayer,-,2008,1h 49m,55
+652,653.,Four Brothers,John Singleton,-,2005,1h 49m,49
+653,654.,The Score,-,-,2001,2h 4m,71
+654,655.,Innerspace,Joe Dante,-,1987,2h,66
+655,656.,Unknown,Jaume Collet-Serra,-,2011,1h 53m,56
+656,657.,Dog Soldiers,Neil Marshall,-,2002,1h 45m,-
+657,658.,Tristan + Isolde,-,-,2006,2h 5m,49
+658,659.,Three Steps Above Heaven,Fernando González Molina,-,2010,1h 58m,-
+659,660.,El Mariachi,Robert Rodriguez,-,1992,1h 21m,73
+660,661.,Enemy Mine,Wolfgang Petersen,-,1985,1h 48m,59
+661,662.,Green Zone,Paul Greengrass,-,2010,1h 55m,63
+662,663.,We Own the Night,James Gray,-,2007,1h 57m,59
+663,664.,Harsh Times,David Ayer,-,2005,1h 56m,56
+664,665.,Who Am I?,Benny Chan,Jackie Chan,1998,1h 48m,-
+665,666.,Dead Snow 2: Red vs. Dead,Tommy Wirkola,-,2014,1h 40m,59
+666,667.,The Legend,-,-,2022,-,-
+667,668.,Violent Night,Tommy Wirkola,-,2022,1h 52m,55
+668,669.,Black Panther: Wakanda Forever,Ryan Coogler,-,2022,2h 41m,67
+669,670.,Extraction,Sam Hargrave,-,2020,1h 56m,56
+670,671.,Black Widow,Cate Shortland,-,2021,2h 14m,68
+671,672.,Kingsman: The Golden Circle,Matthew Vaughn,-,2017,2h 21m,44
+672,673.,Commando,Mark L. Lester,-,1985,1h 30m,51
+673,674.,Safe House,Daniel Espinosa,-,2012,1h 55m,52
+674,675.,Jumanji: The Next Level,Jake Kasdan,-,2019,2h 3m,58
+675,676.,Bumblebee,Travis Knight,-,2018,1h 54m,66
+676,677.,Road House,Rowdy Herrington,-,1989,1h 54m,36
+677,678.,In Time,Andrew Niccol,-,2011,1h 49m,53
+678,679.,The Equalizer 2,Antoine Fuqua,-,2018,2h 1m,50
+679,680.,Warcraft,Duncan Jones,-,2016,2h 3m,32
+680,681.,Armageddon,Michael Bay,-,1998,2h 31m,42
+681,682.,The Adam Project,Shawn Levy,-,2022,1h 46m,55
+682,683.,Teenage Mutant Ninja Turtles,Steve Barron,-,1990,1h 33m,51
+683,684.,Wanted,Timur Bekmambetov,-,2008,1h 50m,64
+684,685.,The Running Man,Paul Michael Glaser,-,1987,1h 41m,45
+685,686.,Atomic Blonde,David Leitch,-,2017,1h 55m,63
+686,687.,Midway,Roland Emmerich,-,2019,2h 18m,47
+687,688.,King Arthur: Legend of the Sword,Guy Ritchie,-,2017,2h 6m,41
+688,689.,Enola Holmes 2,Harry Bradbeer,-,2022,2h 9m,64
+689,690.,The A-Team,Joe Carnahan,-,2010,1h 57m,47
+690,691.,The Wolverine,James Mangold,-,2013,2h 6m,61
+691,692.,2 Guns,Baltasar Kormákur,-,2013,1h 49m,55
+692,693.,The Last Starfighter,Nick Castle,-,1984,1h 41m,67
+693,694.,Tron,Steven Lisberger,-,1982,1h 36m,58
+694,695.,Pandorum,-,-,2009,1h 48m,28
+695,696.,Zombieland: Double Tap,Ruben Fleischer,-,2019,1h 39m,55
+696,697.,Wyatt Earp,Lawrence Kasdan,-,1994,3h 11m,47
+697,698.,Demolition Man,Marco Brambilla,-,1993,1h 55m,34
+698,699.,Blade II,Guillermo del Toro,-,2002,1h 57m,52
+699,700.,No Escape,John Erick Dowdle,-,2015,1h 43m,38
+700,701.,On Her Majesty's Secret Service,Peter R. Hunt,-,1969,2h 22m,61
+701,702.,Escape Plan,Mikael Håfström,-,2013,1h 55m,49
+702,703.,The Matrix Revolutions,Lana Wachowski,Lilly Wachowski,2003,2h 9m,47
+703,704.,Super,James Gunn,-,2010,1h 36m,50
+704,705.,Kisi Ka Bhai Kisi Ki Jaan,-,-,2023,2h 25m,-
+705,706.,Live and Let Die,Guy Hamilton,-,1973,2h 1m,55
+706,707.,Angels & Demons,Ron Howard,-,2009,2h 18m,48
+707,708.,Hot Shots!,Jim Abrahams,-,1991,1h 24m,61
+708,709.,Jungle,Greg McLean,-,2017,1h 55m,48
+709,710.,Backdraft,Ron Howard,-,1991,2h 17m,38
+710,711.,The Finest Hours,Craig Gillespie,-,2016,1h 57m,58
+711,712.,Out of the Furnace,Scott Cooper,-,2013,1h 56m,63
+712,713.,The Living Daylights,John Glen,-,1987,2h 10m,59
+713,714.,The Grey,Joe Carnahan,-,2011,1h 57m,64
+714,715.,Gangster Squad,Ruben Fleischer,-,2013,1h 53m,40
+715,716.,Colors,Dennis Hopper,-,1988,2h,66
+716,717.,Absolute Power,Clint Eastwood,-,1997,2h 1m,52
+717,718.,Harriet,Kasi Lemmons,-,2019,2h 5m,66
+718,719.,The Man with the Golden Gun,Guy Hamilton,-,1974,2h 5m,43
+719,720.,Underworld: Evolution,Len Wiseman,-,2006,1h 46m,36
+720,721.,For Your Eyes Only,John Glen,-,1981,2h 7m,54
+721,722.,Rumble in the Bronx,Stanley Tong,-,1995,1h 27m,61
+722,723.,Hamburger Hill,-,-,1987,1h 50m,64
+723,724.,Appaloosa,Ed Harris,-,2008,1h 55m,64
+724,725.,Pete's Dragon,David Lowery,-,2016,1h 42m,71
+725,726.,Hardcore Henry,Ilya Naishuller,-,2015,1h 36m,51
+726,727.,The Salvation,Kristian Levring,-,2014,1h 32m,64
+727,728.,Conspiracy Theory,Richard Donner,-,1997,2h 15m,49
+728,729.,Lethal Weapon 3,Richard Donner,-,1992,1h 58m,40
+729,730.,Tales from the Crypt: Demon Knight,Ernest R. Dickerson,-,1995,1h 32m,48
+730,731.,Death Sentence,James Wan,-,2007,1h 45m,36
+731,732.,Brooklyn's Finest,Antoine Fuqua,-,2009,2h 12m,43
+732,733.,Ransom,Ron Howard,-,1996,2h 1m,60
+733,734.,The Enforcer,James Fargo,-,1976,1h 36m,58
+734,735.,Machine Gun Preacher,Marc Forster,-,2011,2h 9m,43
+735,736.,Hidalgo,Joe Johnston,-,2004,2h 16m,54
+736,737.,Nothing to Lose,Steve Oedekerk,-,1997,1h 38m,-
+737,738.,Blood and Bone,-,-,2009,1h 33m,-
+738,739.,The Brothers Bloom,Rian Johnson,-,2008,1h 54m,55
+739,740.,The Brave One,Neil Jordan,-,2007,2h 2m,56
+740,741.,Stakeout,John Badham,-,1987,1h 57m,69
+741,742.,Wild Target,-,-,2010,1h 38m,41
+742,743.,Turbo Kid,François Simard,Anouk Whissell,2015,1h 33m,60
+743,744.,Om Shanti Om,Farah Khan,-,2007,2h 42m,-
+744,745.,Antim: The Final Truth,Mahesh Manjrekar,-,2021,-,-
+745,746.,The Fate of the Furious,F. Gary Gray,-,2017,2h 16m,56
+746,747.,Venom,Ruben Fleischer,-,2018,1h 52m,35
+747,748.,Red Sparrow,Francis Lawrence,-,2018,2h 20m,53
+748,749.,Star Wars: Episode II - Attack of the Clones,George Lucas,-,2002,2h 22m,54
+749,750.,Resident Evil,Paul W.S. Anderson,-,2002,1h 40m,33
+750,751.,Divergent,Neil Burger,-,2014,2h 19m,48
+751,752.,Kong: Skull Island,Jordan Vogt-Roberts,-,2017,1h 58m,62
+752,753.,Pirates of the Caribbean: On Stranger Tides,Rob Marshall,-,2011,2h 16m,45
+753,754.,The Other Guys,Adam McKay,-,2010,1h 47m,64
+754,755.,John Carter,Andrew Stanton,-,2012,2h 12m,51
+755,756.,The Amazing Spider-Man 2,Marc Webb,-,2014,2h 22m,53
+756,757.,X-Men: The Last Stand,Brett Ratner,-,2006,1h 44m,58
+757,758.,Anna,Luc Besson,-,2019,1h 58m,40
+758,759.,Enola Holmes,Harry Bradbeer,-,2020,2h 3m,68
+759,760.,The Old Guard,Gina Prince-Bythewood,-,2020,2h 5m,70
+760,761.,The Incredible Hulk,Louis Leterrier,-,2008,1h 52m,61
+761,762.,Jungle Cruise,Jaume Collet-Serra,-,2021,2h 7m,50
+762,763.,Robin Hood,Ridley Scott,-,2010,2h 20m,53
+763,764.,The Hunger Games: Mockingjay - Part 1,Francis Lawrence,-,2014,2h 3m,64
+764,765.,Ender's Game,Gavin Hood,-,2013,1h 54m,51
+765,766.,Jason Bourne,Paul Greengrass,-,2016,2h 3m,58
+766,767.,Austin Powers: The Spy Who Shagged Me,Jay Roach,-,1999,1h 35m,59
+767,768.,The Harder They Fall,Jeymes Samuel,-,2021,2h 19m,68
+768,769.,Smokin' Aces,Joe Carnahan,-,2006,1h 48m,45
+769,770.,Elysium,Neill Blomkamp,-,2013,1h 49m,61
+770,771.,The Chronicles of Riddick,David Twohy,-,2004,1h 59m,38
+771,772.,Quantum of Solace,Marc Forster,-,2008,1h 46m,58
+772,773.,Prince of Persia: The Sands of Time,Mike Newell,-,2010,1h 56m,50
+773,774.,The Expendables 2,Simon West,-,2012,1h 43m,51
+774,775.,Adrift,Baltasar Kormákur,-,2018,1h 36m,56
+775,776.,The Rundown,Peter Berg,-,2003,1h 44m,59
+776,777.,The 13th Warrior,John McTiernan,Michael Crichton,1999,1h 42m,42
+777,778.,The Heat,Paul Feig,-,2013,1h 57m,60
+778,779.,The Bourne Legacy,Tony Gilroy,-,2012,2h 15m,61
+779,780.,Hunter Killer,Donovan Marsh,-,2018,2h 1m,43
+780,781.,Crocodile Dundee,Peter Faiman,-,1986,1h 37m,62
+781,782.,Licence to Kill,John Glen,-,1989,2h 13m,58
+782,783.,Tears of the Sun,Antoine Fuqua,-,2003,2h 1m,48
+783,784.,Rush Hour 2,Brett Ratner,-,2001,1h 30m,48
+784,785.,The Lego Movie 2: The Second Part,Mike Mitchell,-,2019,1h 47m,65
+785,786.,30 Days of Night,David Slade,-,2007,1h 53m,53
+786,787.,Epic,Chris Wedge,-,2013,1h 42m,52
+787,788.,Overlord,Julius Avery,-,2018,1h 50m,60
+788,789.,The Informer,Andrea Di Stefano,-,2019,1h 53m,61
+789,790.,Flushed Away,David Bowers,Sam Fell,2006,1h 25m,74
+790,791.,Machete,Ethan Maniquis,Robert Rodriguez,2010,1h 45m,60
+791,792.,Attack the Block,Joe Cornish,-,2011,1h 28m,75
+792,793.,Joy Ride,John Dahl,-,2001,1h 37m,75
+793,794.,Rollerball,Norman Jewison,-,1975,2h 5m,56
+794,795.,Bad Boys II,Michael Bay,-,2003,2h 27m,38
+795,796.,U-571,-,-,2000,1h 56m,62
+796,797.,Run All Night,-,-,2015,1h 54m,59
+797,798.,Ghostbusters II,Ivan Reitman,-,1989,1h 48m,56
+798,799.,The Girl with All the Gifts,Colm McCarthy,-,2016,1h 51m,67
+799,800.,Penguins of Madagascar,Eric Darnell,Simon J. Smith,2014,1h 32m,53
+800,801.,Hot Shots! Part Deux,Jim Abrahams,-,1993,1h 26m,64
+801,802.,Outbreak,Wolfgang Petersen,-,1995,2h 7m,64
+802,803.,The Aeronauts,Tom Harper,-,2019,1h 40m,60
+803,804.,Courage Under Fire,Edward Zwick,-,1996,1h 56m,77
+804,805.,Eagle Eye,D.J. Caruso,-,2008,1h 58m,43
+805,806.,RED 2,Dean Parisot,-,2013,1h 56m,47
+806,807.,Star Trek III: The Search for Spock,Leonard Nimoy,-,1984,1h 45m,56
+807,808.,Star Trek: Generations,David Carson,-,1994,1h 58m,55
+808,809.,Shanghai Noon,Tom Dey,-,2000,1h 50m,77
+809,810.,Black Rain,-,-,1989,2h 5m,56
+810,811.,Sudden Impact,Clint Eastwood,-,1983,1h 57m,52
+811,812.,New Jack City,Mario Van Peebles,-,1991,1h 37m,61
+812,813.,Titan A.E.,Don Bluth,Gary Goldman,2000,1h 34m,48
+813,814.,The Final Countdown,Don Taylor,-,1980,1h 43m,51
+814,815.,Alpha,Albert Hughes,-,2018,1h 36m,63
+815,816.,21 Bridges,Brian Kirk,-,2019,1h 39m,51
+816,817.,Kiss of the Dragon,Chris Nahon,-,2001,1h 38m,58
+817,818.,The Wave,Roar Uthaug,-,2015,1h 45m,68
+818,819.,The Recruit,Roger Donaldson,-,2003,1h 55m,56
+819,820.,Man on a Ledge,Asger Leth,-,2012,1h 42m,40
+820,821.,Lethal Weapon 4,Richard Donner,-,1998,2h 7m,37
+821,822.,Outland,Peter Hyams,-,1981,1h 49m,48
+822,823.,Shoot 'Em Up,Michael Davis,-,2007,1h 26m,49
+823,824.,Edge of Darkness,Martin Campbell,-,2010,1h 57m,55
+824,825.,Vantage Point,Pete Travis,-,2008,1h 30m,40
+825,826.,16 Blocks,Richard Donner,-,2006,1h 42m,63
+826,827.,The Way of the Gun,-,-,2000,1h 59m,49
+827,828.,The Art of Self-Defense,Riley Stearns,-,2019,1h 44m,65
+828,829.,Seraphim Falls,David Von Ancken,-,2006,1h 55m,62
+829,830.,22 Bullets,-,-,2010,1h 57m,-
+830,831.,Raees,Rahul Dholakia,-,2017,2h 23m,-
+831,832.,Wasabi,-,-,2001,1h 34m,53
+832,833.,Wanted,Prabhu Deva,-,2009,2h 27m,-
+833,834.,Fast & Furious,Justin Lin,-,2009,1h 47m,46
+834,835.,Plane,-,-,2023,1h 47m,62
+835,836.,Fast & Furious Presents: Hobbs & Shaw,David Leitch,-,2019,2h 17m,60
+836,837.,The Gray Man,Anthony Russo,Joe Russo,2022,2h 2m,49
+837,838.,Star Wars: Episode IX - The Rise of Skywalker,J.J. Abrams,-,2019,2h 21m,53
+838,839.,Star Wars: Episode I - The Phantom Menace,George Lucas,-,1999,2h 16m,51
+839,840.,Pirates of the Caribbean: Dead Men Tell No Tales,Joachim Rønning,Espen Sandberg,2017,2h 9m,39
+840,841.,The Tomorrow War,Chris McKay,-,2021,2h 18m,45
+841,842.,Homefront,Gary Fleder,-,2013,1h 40m,40
+842,843.,The Hunt,Craig Zobel,-,2020,1h 30m,50
+843,844.,Tag,Jeff Tomsic,-,2018,1h 40m,56
+844,845.,Sonic the Hedgehog 2,Jeff Fowler,-,2022,2h 2m,47
+845,846.,Gone in 60 Seconds,Dominic Sena,-,2000,1h 58m,35
+846,847.,Pokémon: Detective Pikachu,Rob Letterman,-,2019,1h 44m,53
+847,848.,Sonic the Hedgehog,Jeff Fowler,-,2020,1h 39m,47
+848,849.,War of the Worlds,Steven Spielberg,-,2005,1h 56m,73
+849,850.,The Quick and the Dead,Sam Raimi,-,1995,1h 48m,49
+850,851.,The Lost World: Jurassic Park,Steven Spielberg,-,1997,2h 9m,59
+851,852.,The Hunger Games: Mockingjay - Part 2,Francis Lawrence,-,2015,2h 17m,65
+852,853.,X-Men Origins: Wolverine,Gavin Hood,-,2009,1h 47m,40
+853,854.,Mr. & Mrs. Smith,Doug Liman,-,2005,2h,55
+854,855.,Mandy,Panos Cosmatos,-,2018,2h 1m,82
+855,856.,12 Strong,Nicolai Fuglsig,-,2018,2h 10m,54
+856,857.,Under Siege,Andrew Davis,-,1992,1h 43m,58
+857,858.,Cliffhanger,Renny Harlin,-,1993,1h 53m,60
+858,859.,The Chronicles of Narnia: Prince Caspian,Andrew Adamson,-,2008,2h 30m,62
+859,860.,Flash Gordon,Mike Hodges,-,1980,1h 51m,58
+860,861.,Terminator Salvation,McG,-,2009,1h 55m,49
+861,862.,Sin City: A Dame to Kill For,Frank Miller,Robert Rodriguez,2014,1h 42m,46
+862,863.,Olympus Has Fallen,Antoine Fuqua,-,2013,1h 59m,41
+863,864.,Rambo: First Blood Part II,George P. Cosmatos,-,1985,1h 36m,47
+864,865.,The Rocketeer,Joe Johnston,-,1991,1h 48m,61
+865,866.,Tomorrow Never Dies,Roger Spottiswoode,-,1997,1h 59m,52
+866,867.,Kick-Ass 2,Jeff Wadlow,-,2013,1h 43m,41
+867,868.,The Perfect Storm,Wolfgang Petersen,-,2000,2h 10m,59
+868,869.,The Mechanic,Simon West,-,2011,1h 33m,49
+869,870.,Bad Boys for Life,Adil El Arbi,Bilall Fallah,2020,2h 4m,59
+870,871.,The Interview,Evan Goldberg,Seth Rogen,2014,1h 52m,52
+871,872.,Swordfish,Dominic Sena,-,2001,1h 39m,32
+872,873.,The Man in the Iron Mask,Randall Wallace,-,1998,2h 12m,48
+873,874.,The Spiderwick Chronicles,Mark Waters,-,2008,1h 36m,62
+874,875.,Nerve,Henry Joost,Ariel Schulman,2016,1h 36m,58
+875,876.,Diamonds Are Forever,Guy Hamilton,-,1971,2h,59
+876,877.,Air Force One,Wolfgang Petersen,-,1997,2h 4m,61
+877,878.,Never Back Down,Jeff Wadlow,-,2008,1h 53m,39
+878,879.,Get Smart,Peter Segal,-,2008,1h 50m,54
+879,880.,Octopussy,John Glen,-,1983,2h 11m,63
+880,881.,Beverly Hills Cop II,Tony Scott,-,1987,1h 40m,48
+881,882.,The Forbidden Kingdom,Rob Minkoff,-,2008,1h 44m,57
+882,883.,U.S. Marshals,Stuart Baird,-,1998,2h 11m,47
+883,884.,Peppermint,Pierre Morel,-,2018,1h 41m,29
+884,885.,Safe,Boaz Yakin,-,2012,1h 34m,55
+885,886.,National Treasure: Book of Secrets,Jon Turteltaub,-,2007,2h 4m,48
+886,887.,Young Guns II,Geoff Murphy,-,1990,1h 44m,47
+887,888.,A Walk Among the Tombstones,Scott Frank,-,2014,1h 54m,57
+888,889.,Space Cowboys,Clint Eastwood,-,2000,2h 10m,73
+889,890.,Underworld: Rise of the Lycans,Patrick Tatopoulos,-,2009,1h 32m,44
+890,891.,Executive Decision,Stuart Baird,-,1996,2h 13m,62
+891,892.,Cellular,David R. Ellis,-,2004,1h 34m,60
+892,893.,Self/less,-,-,2015,1h 57m,34
+893,894.,Batman: The Movie,Leslie H. Martinson,-,1966,1h 45m,71
+894,895.,The International,Tom Tykwer,-,2009,1h 58m,52
+895,896.,The Grandmaster,Kar-Wai Wong,-,2013,2h 10m,73
+896,897.,Hostage,Florent-Emilio Siri,-,2005,1h 53m,44
+897,898.,Space Sweepers,Sung-hee Jo,-,2021,2h 16m,64
+898,899.,Premium Rush,David Koepp,-,2012,1h 31m,66
+899,900.,Flyboys,Tony Bill,-,2006,2h 20m,47
+900,901.,The Four Feathers,-,-,2002,2h 12m,49
+901,902.,Heist,-,-,2001,1h 49m,66
+902,903.,War,Siddharth Anand,-,2019,2h 34m,-
+903,904.,Ladder 49,Jay Russell,-,2004,1h 55m,47
+904,905.,Taxi 2,Gérard Krawczyk,-,2000,1h 28m,-
+905,906.,Spartan,-,-,2004,1h 46m,60
+906,907.,Dhoom 2,Sanjay Gadhvi,-,2006,2h 32m,-
+907,908.,District 13: Ultimatum,Patrick Alessandrin,-,2009,1h 41m,64
+908,909.,Conquest 1453,Faruk Aksoy,-,2012,2h 42m,-
+909,910.,Valerian and the City of a Thousand Planets,Luc Besson,-,2017,2h 16m,51
+910,911.,Greenland,Ric Roman Waugh,-,2020,1h 59m,64
+911,912.,Escape Room,Adam Robitel,-,2019,1h 39m,48
+912,913.,Lucy,Luc Besson,-,2014,1h 29m,61
+913,914.,Twister,Jan de Bont,-,1996,1h 53m,68
+914,915.,The Day After Tomorrow,Roland Emmerich,-,2004,2h 4m,47
+915,916.,Batman v Superman: Dawn of Justice,Zack Snyder,-,2016,2h 31m,44
+916,917.,Last Action Hero,John McTiernan,-,1993,2h 10m,44
+917,918.,The Mummy Returns,Stephen Sommers,-,2001,2h 10m,48
+918,919.,The Expendables,Sylvester Stallone,-,2010,1h 43m,45
+919,920.,Triple Frontier,J.C. Chandor,-,2019,2h 5m,61
+920,921.,Godzilla,Gareth Edwards,-,2014,2h 3m,62
+921,922.,Riddick,David Twohy,-,2013,1h 59m,49
+922,923.,The Punisher,Jonathan Hensleigh,-,2004,2h 4m,33
+923,924.,Alien³,David Fincher,-,1992,1h 54m,59
+924,925.,Tomorrowland,Brad Bird,-,2015,2h 10m,60
+925,926.,Angel Has Fallen,Ric Roman Waugh,-,2019,2h 1m,45
+926,927.,Army of Thieves,-,-,2021,2h 7m,49
+927,928.,Need for Speed,Scott Waugh,-,2014,2h 12m,39
+928,929.,Salt,Phillip Noyce,-,2010,1h 40m,65
+929,930.,The Three Musketeers,-,-,1993,1h 45m,43
+930,931.,Pain & Gain,Michael Bay,-,2013,2h 9m,45
+931,932.,The Vault,Jaume Balagueró,-,2021,1h 58m,50
+932,933.,Death Race,Paul W.S. Anderson,-,2008,1h 45m,43
+933,934.,Now You See Me 2,Jon M. Chu,-,2016,2h 9m,46
+934,935.,Hancock,Peter Berg,-,2008,1h 32m,49
+935,936.,Revenge,Coralie Fargeat,-,2017,1h 48m,81
+936,937.,Monsters vs. Aliens,Rob Letterman,Conrad Vernon,2009,1h 34m,56
+937,938.,Tango & Cash,Andrey Konchalovskiy,Albert Magnoli,1989,1h 44m,41
+938,939.,Rat Race,Jerry Zucker,-,2001,1h 52m,52
+939,940.,The Sum of All Fears,Phil Alden Robinson,-,2002,2h 4m,45
+940,941.,Savages,Oliver Stone,-,2012,2h 11m,59
+941,942.,Predators,Nimród Antal,-,2010,1h 47m,51
+942,943.,Colombiana,Olivier Megaton,-,2011,1h 48m,45
+943,944.,The Lone Ranger,Gore Verbinski,-,2013,2h 30m,37
+944,945.,The World Is Not Enough,Michael Apted,-,1999,2h 8m,57
+945,946.,Act of Valor,Mike McCoy,Scott Waugh,2012,1h 50m,40
+946,947.,Darkman,Sam Raimi,-,1990,1h 36m,65
+947,948.,Faster,George Tillman Jr.,-,2010,1h 38m,44
+948,949.,The Purge: Anarchy,James DeMonaco,-,2014,1h 43m,50
+949,950.,Behind Enemy Lines,John Moore,-,2001,1h 46m,49
+950,951.,DragonHeart,Rob Cohen,-,1996,1h 43m,49
+951,952.,Kickboxer,-,-,1989,1h 37m,33
+952,953.,The Angry Birds Movie 2,Thurop Van Orman,John Rice,2019,1h 37m,60
+953,954.,The Taking of Pelham 123,Tony Scott,-,2009,1h 46m,55
+954,955.,Star Trek: Nemesis,Stuart Baird,-,2002,1h 56m,51
+955,956.,Killer Elite,Gary McKendry,-,2011,1h 56m,44
+956,957.,The Jackal,Michael Caton-Jones,-,1997,2h 4m,36
+957,958.,Let's Be Cops,Luke Greenfield,-,2014,1h 44m,30
+958,959.,Star Trek: Insurrection,Jonathan Frakes,-,1998,1h 43m,64
+959,960.,Snitch,Ric Roman Waugh,-,2013,1h 52m,51
+960,961.,The Siege,Edward Zwick,-,1998,1h 56m,53
+961,962.,Lock Up,John Flynn,-,1989,1h 49m,52
+962,963.,Blood Father,-,-,2016,1h 28m,66
+963,964.,Daybreakers,Michael Spierig,Peter Spierig,2009,1h 38m,57
+964,965.,Kill List,Ben Wheatley,-,2011,1h 35m,67
+965,966.,Live by Night,Ben Affleck,-,2016,2h 9m,49
+966,967.,Shaft,-,-,2019,1h 51m,40
+967,968.,Basic,John McTiernan,-,2003,1h 38m,34
+968,969.,The Rover,David Michôd,-,2014,1h 43m,64
+969,970.,Chaos,-,-,2005,1h 46m,-
+970,971.,Contraband,Baltasar Kormákur,-,2012,1h 49m,51
+971,972.,Batman: The Killing Joke,Sam Liu,-,2016,1h 16m,-
+972,973.,The Omega Man,Boris Sagal,-,1971,1h 38m,56
+973,974.,Here Comes the Boom,Frank Coraci,-,2012,1h 45m,40
+974,975.,From Paris with Love,-,-,2010,1h 32m,42
+975,976.,Final Fantasy: The Spirits Within,Hironobu Sakaguchi,Motonori Sakakibara,2001,1h 46m,49
+976,977.,Black Death,Christopher Smith,-,2010,1h 42m,71
+977,978.,Just Cause,Arne Glimcher,-,1995,1h 42m,48
+978,979.,How I Live Now,Kevin Macdonald,-,2013,1h 41m,57
+979,980.,The Prophecy,Gregory Widen,-,1995,1h 38m,44
+980,981.,Last Man Standing,-,-,1996,1h 41m,44
+981,982.,Dead Man Down,-,-,2013,1h 58m,39
+982,983.,Black and Blue,Deon Taylor,-,2019,1h 48m,54
+983,984.,Blood Work,Clint Eastwood,-,2002,1h 50m,64
+984,985.,Son of a Gun,Julius Avery,-,2014,1h 48m,49
+985,986.,Night Watch,Timur Bekmambetov,-,2004,1h 54m,58
+986,987.,Ned Kelly,-,-,2003,1h 50m,56
+987,988.,Resident Evil: Degeneration,Makoto Kamiya,-,2008,1h 38m,-
+988,989.,Day Watch,Timur Bekmambetov,-,2006,2h 12m,59
+989,990.,Redirected,Emilis Velyvis,-,2014,1h 39m,-
+990,991.,Fast X,-,-,2023,2h 21m,55
+991,992.,Operation Fortune: Ruse de Guerre,-,-,2023,1h 54m,51
+992,993.,Black Adam,Jaume Collet-Serra,-,2022,2h 5m,41
+993,994.,Uncharted,Ruben Fleischer,-,2022,1h 56m,45
+994,995.,Eternals,Chloé Zhao,-,2021,2h 36m,52
+995,996.,The King's Man,Matthew Vaughn,-,2021,2h 11m,44
+996,997.,Dune,David Lynch,-,1984,2h 17m,41
+997,998.,Terminator Genisys,Alan Taylor,-,2015,2h 6m,38
+998,999.,Spider-Man 3,Sam Raimi,-,2007,2h 19m,59
+999,"1,000.",Godzilla vs. Kong,Adam Wingard,-,2021,1h 53m,59
+1000,"1,001.",Sky High,Mike Mitchell,-,2005,1h 40m,62
+1001,"1,002.",Red Notice,Rawson Marshall Thurber,-,2021,1h 58m,37
+1002,"1,003.",Knight and Day,James Mangold,-,2010,1h 49m,46
+1003,"1,004.",Ocean's Eight,Gary Ross,-,2018,1h 50m,61
+1004,"1,005.",Red Dawn,John Milius,-,1984,1h 54m,53
+1005,"1,006.",King Arthur,Antoine Fuqua,-,2004,2h 6m,46
+1006,"1,007.",The Last Stand,Jee-woon Kim,-,2013,1h 47m,54
+1007,"1,008.",The Shallows,Jaume Collet-Serra,-,2016,1h 26m,59
+1008,"1,009.",Run Hide Fight,-,-,2020,1h 49m,13
+1009,"1,010.",Tomb Raider,Roar Uthaug,-,2018,1h 59m,48
+1010,"1,011.",Polar,Jonas Åkerlund,-,2019,1h 58m,19
+1011,"1,012.",Ghost in the Shell,Rupert Sanders,-,2017,1h 47m,52
+1012,"1,013.",Terminator 3: Rise of the Machines,Jonathan Mostow,-,2003,1h 49m,66
+1013,"1,014.",Waterworld,Kevin Reynolds,-,1995,2h 57m,56
+1014,"1,015.",The Bodyguard,Mick Jackson,-,1992,2h 9m,39
+1015,"1,016.",Central Intelligence,Rawson Marshall Thurber,-,2016,1h 47m,52
+1016,"1,017.",White House Down,Roland Emmerich,-,2013,2h 11m,52
+1017,"1,018.",Every Which Way But Loose,James Fargo,-,1978,1h 54m,41
+1018,"1,019.",Spectral,-,-,2016,1h 47m,-
+1019,"1,020.",Maze Runner: The Scorch Trials,Wes Ball,-,2015,2h 11m,43
+1020,"1,021.",Miss Congeniality,Donald Petrie,-,2000,1h 49m,43
+1021,"1,022.",A View to a Kill,John Glen,-,1985,2h 11m,40
+1022,"1,023.",Bright,David Ayer,-,2017,1h 57m,29
+1023,"1,024.",Unlocked,-,-,2017,1h 38m,46
+1024,"1,025.",The Angry Birds Movie,Clay Kaytis,Fergal Reilly,2016,1h 37m,43
+1025,"1,026.",Predator 2,Stephen Hopkins,-,1990,1h 48m,46
+1026,"1,027.",Criminal,-,-,2016,1h 53m,36
+1027,"1,028.",My Spy,-,-,2020,1h 39m,46
+1028,"1,029.",The Collector,-,-,2009,1h 30m,29
+1029,"1,030.",Transporter 2,-,-,2005,1h 27m,56
+1030,"1,031.",Scouts Guide to the Zombie Apocalypse,Christopher Landon,-,2015,1h 33m,32
+1031,"1,032.",Guns Akimbo,-,-,2019,1h 38m,42
+1032,"1,033.",Once Upon a Time in Mexico,Robert Rodriguez,-,2003,1h 42m,56
+1033,"1,034.",Beowulf,Robert Zemeckis,-,2007,1h 55m,59
+1034,"1,035.",Sand Castle,-,-,2017,1h 53m,45
+1035,"1,036.",Death Wish,Eli Roth,-,2018,1h 47m,31
+1036,"1,037.",The Take,-,-,2016,1h 32m,48
+1037,"1,038.",The Commuter,Jaume Collet-Serra,-,2018,1h 44m,56
+1038,"1,039.",The Dead Pool,-,-,1988,1h 31m,46
+1039,"1,040.",#Alive,Il Cho,-,2020,1h 38m,-
+1040,"1,041.",The Black Cauldron,-,-,1985,1h 20m,59
+1041,"1,042.",Surrogates,-,-,2009,1h 29m,45
+1042,"1,043.",Revolver,Guy Ritchie,-,2005,1h 51m,25
+1043,"1,044.",Ninja Assassin,-,-,2009,1h 39m,34
+1044,"1,045.",Osmosis Jones,Bobby Farrelly,Peter Farrelly,2001,1h 35m,57
+1045,"1,046.",The American,Anton Corbijn,-,2010,1h 45m,61
+1046,"1,047.",Triple 9,John Hillcoat,-,2016,1h 55m,52
+1047,"1,048.",Paycheck,John Woo,-,2003,1h 59m,43
+1048,"1,049.",This Means War,McG,-,2012,1h 43m,31
+1049,"1,050.",Entrapment,Jon Amiel,-,1999,1h 53m,54
+1050,"1,051.",Underworld: Awakening,Måns Mårlind,Björn Stein,2012,1h 28m,39
+1051,"1,052.",Blue Streak,-,-,1999,1h 33m,46
+1052,"1,053.",Johnny English Reborn,Oliver Parker,-,2011,1h 41m,46
+1053,"1,054.",Centurion,Neil Marshall,-,2010,1h 37m,62
+1054,"1,055.",Mr. Right,Paco Cabezas,-,2015,1h 35m,52
+1055,"1,056.",Free Fire,Ben Wheatley,-,2016,1h 31m,63
+1056,"1,057.",Repo Men,Miguel Sapochnik,-,2010,1h 51m,32
+1057,"1,058.",Risen,Kevin Reynolds,-,2016,1h 47m,51
+1058,"1,059.",Assassins,Richard Donner,-,1995,2h 13m,-
+1059,"1,060.",Escape from the Planet of the Apes,Don Taylor,-,1971,1h 38m,69
+1060,"1,061.",Nick of Time,-,-,1995,1h 30m,-
+1061,"1,062.",Assault on Precinct 13,Jean-François Richet,-,2005,1h 49m,54
+1062,"1,063.",7500,Patrick Vollrath,-,2019,1h 33m,58
+1063,"1,064.",Proof of Life,Taylor Hackford,-,2000,2h 15m,45
+1064,"1,065.",Formula 51,Ronny Yu,-,2001,1h 33m,23
+1065,"1,066.",ARQ,Tony Elliott,-,2016,1h 28m,-
+1066,"1,067.",Charlie Countryman,Fredrik Bond,-,2013,1h 43m,31
+1067,"1,068.",Toofaan,Rakeysh Omprakash Mehra,-,2021,-,-
+1068,"1,069.",Thor: Love and Thunder,Taika Waititi,-,2022,1h 58m,57
+1069,"1,070.",Indiana Jones and the Kingdom of the Crystal Skull,Steven Spielberg,-,2008,2h 2m,65
+1070,"1,071.",Kindergarten Cop,Ivan Reitman,-,1990,1h 51m,61
+1071,"1,072.",Mad Max Beyond Thunderdome,George Miller,George Ogilvie,1985,1h 47m,71
+1072,"1,073.",Terminator: Dark Fate,Tim Miller,-,2019,2h 8m,54
+1073,"1,074.",Pearl Harbor,Michael Bay,-,2001,3h 3m,44
+1074,"1,075.",Transformers: Dark of the Moon,Michael Bay,-,2011,2h 34m,42
+1075,"1,076.",The Legend of Tarzan,David Yates,-,2016,1h 50m,44
+1076,"1,077.",Men in Black II,Barry Sonnenfeld,-,2002,1h 28m,49
+1077,"1,078.",The Karate Kid,Harald Zwart,-,2010,2h 20m,61
+1078,"1,079.",300: Rise of an Empire,Noam Murro,-,2014,1h 42m,48
+1079,"1,080.",Deep Impact,-,-,1998,2h,40
+1080,"1,081.",Austin Powers in Goldmember,Jay Roach,-,2002,1h 34m,62
+1081,"1,082.",Cold Pursuit,Hans Petter Moland,-,2019,1h 59m,57
+1082,"1,083.",Dracula Untold,Gary Shore,-,2014,1h 32m,40
+1083,"1,084.",Total Recall,Len Wiseman,-,2012,1h 58m,43
+1084,"1,085.",Knowing,Alex Proyas,-,2009,2h 1m,41
+1085,"1,086.",Alien: Resurrection,Jean-Pierre Jeunet,-,1997,1h 49m,63
+1086,"1,087.",Dick Tracy,Warren Beatty,-,1990,1h 45m,68
+1087,"1,088.",Transcendence,Wally Pfister,-,2014,1h 59m,42
+1088,"1,089.",Kung Pow: Enter the Fist,Steve Oedekerk,-,2002,1h 21m,14
+1089,"1,090.",Hitman,Xavier Gens,-,2007,1h 40m,35
+1090,"1,091.",Reign of Fire,Rob Bowman,-,2002,1h 41m,39
+1091,"1,092.",Kate,Cedric Nicolas-Troyan,-,2021,1h 46m,47
+1092,"1,093.",3 Days to Kill,-,-,2014,1h 57m,40
+1093,"1,094.",The Cannonball Run,Hal Needham,-,1981,1h 35m,28
+1094,"1,095.",Inferno,Ron Howard,-,2016,2h 1m,42
+1095,"1,096.",47 Ronin,Carl Rinsch,-,2013,2h 8m,28
+1096,"1,097.",Small Soldiers,Joe Dante,-,1998,1h 50m,-
+1097,"1,098.",Spenser Confidential,Peter Berg,-,2020,1h 51m,49
+1098,"1,099.",Maze Runner: The Death Cure,Wes Ball,-,2018,2h 23m,50
+1099,"1,100.",In the Shadow of the Moon,Jim Mickle,-,2019,1h 55m,48
+1100,"1,101.",American Assassin,Michael Cuesta,-,2017,1h 51m,45
+1101,"1,102.",Walking Tall,Kevin Bray,-,2004,1h 26m,44
+1102,"1,103.",Rush Hour 3,Brett Ratner,-,2007,1h 31m,44
+1103,"1,104.",Time Trap,Mark Dennis,Ben Foster,2017,1h 27m,46
+1104,"1,105.",The Divergent Series: Insurgent,Robert Schwentke,-,2015,1h 59m,42
+1105,"1,106.",Eraser,Chuck Russell,-,1996,1h 55m,56
+1106,"1,107.",The Losers,Sylvain White,-,2010,1h 37m,44
+1107,"1,108.",Parker,Taylor Hackford,-,2013,1h 58m,42
+1108,"1,109.",Deliver Us from Evil,Scott Derrickson,-,2014,1h 58m,40
+1109,"1,110.",Keanu,Peter Atencio,-,2016,1h 40m,63
+1110,"1,111.",The Devil's Own,Alan J. Pakula,-,1997,1h 51m,53
+1111,"1,112.",Jack the Giant Slayer,Bryan Singer,-,2013,1h 54m,51
+1112,"1,113.",Zathura: A Space Adventure,Jon Favreau,-,2005,1h 41m,67
+1113,"1,114.",Jack Ryan: Shadow Recruit,Kenneth Branagh,-,2014,1h 45m,57
+1114,"1,115.",Tower Heist,Brett Ratner,-,2011,1h 44m,59
+1115,"1,116.",Taken 2,Olivier Megaton,-,2012,1h 32m,45
+1116,"1,117.",Blown Away,Stephen Hopkins,-,1994,2h 1m,-
+1117,"1,118.",Copshop,Joe Carnahan,-,2021,1h 47m,61
+1118,"1,119.",The Brothers Grimsby,Louis Leterrier,-,2016,1h 23m,44
+1119,"1,120.",Takers,John Luessenhop,-,2010,1h 47m,45
+1120,"1,121.",The Wall,Doug Liman,-,2017,1h 28m,57
+1121,"1,122.",Hard Target,John Woo,-,1993,1h 37m,63
+1122,"1,123.",TMNT,Kevin Munroe,-,2007,1h 27m,41
+1123,"1,124.",Moonraker,Lewis Gilbert,-,1979,2h 6m,66
+1124,"1,125.",The Toxic Avenger,Michael Herz,Lloyd Kaufman,1984,1h 22m,42
+1125,"1,126.",Feast,John Gulager,-,2005,1h 35m,43
+1126,"1,127.",Death Race 2000,-,-,1975,1h 20m,58
+1127,"1,128.",Shanghai Knights,-,-,2003,1h 54m,58
+1128,"1,129.",Johnny English,Peter Howitt,-,2003,1h 27m,51
+1129,"1,130.",Rogue,Greg McLean,-,2007,1h 39m,-
+1130,"1,131.",Resident Evil: Extinction,Russell Mulcahy,-,2007,1h 34m,41
+1131,"1,132.",Rising Sun,Philip Kaufman,-,1993,2h 9m,56
+1132,"1,133.",Redemption,-,-,2013,1h 40m,43
+1133,"1,134.",Next,Lee Tamahori,-,2007,1h 36m,42
+1134,"1,135.",Lionheart,-,-,1990,1h 48m,41
+1135,"1,136.",Captain Underpants: The First Epic Movie,David Soren,-,2017,1h 29m,69
+1136,"1,137.",The Outsider,-,-,2018,2h,30
+1137,"1,138.",Johnny English Strikes Again,David Kerr,-,2018,1h 29m,39
+1138,"1,139.",War,Philip G. Atwell,-,2007,1h 43m,36
+1139,"1,140.",The Silencing,Robin Pront,-,2020,1h 33m,-
+1140,"1,141.",Outlander,Howard McCain,-,2008,1h 55m,40
+1141,"1,142.",Stuber,Michael Dowse,-,2019,1h 33m,42
+1142,"1,143.",Destroyer,Karyn Kusama,-,2018,2h 1m,62
+1143,"1,144.",The Saint,Phillip Noyce,-,1997,1h 56m,50
+1144,"1,145.",Astro Boy,David Bowers,-,2009,1h 34m,53
+1145,"1,146.",Pokémon: The First Movie - Mewtwo Strikes Back,Kunihiko Yuyama,-,1998,1h 36m,35
+1146,"1,147.",The Boondock Saints II: All Saints Day,-,-,2009,1h 58m,24
+1147,"1,148.",The November Man,-,-,2014,1h 48m,38
+1148,"1,149.",The Eagle,Kevin Macdonald,-,2011,1h 54m,55
+1149,"1,150.",Loaded Weapon 1,-,-,1993,1h 24m,30
+1150,"1,151.",Last Knights,-,-,2015,1h 55m,27
+1151,"1,152.",Money Talks,Brett Ratner,-,1997,1h 37m,-
+1152,"1,153.",A Lonely Place to Die,Julian Gilbey,-,2011,1h 39m,-
+1153,"1,154.",Mr. Nice Guy,Sammo Kam-Bo Hung,-,1997,1h 28m,-
+1154,"1,155.",After the Sunset,Brett Ratner,-,2004,1h 37m,38
+1155,"1,156.",The Warrior's Way,Sngmoo Lee,-,2010,1h 40m,45
+1156,"1,157.",Ong Bak 2,Tony Jaa,Panna Rittikrai,2008,1h 38m,47
+1157,"1,158.",The Legend of Tomiris,Akan Satayev,-,2019,2h 36m,-
+1158,"1,159.",Dabangg,Abhinav Kashyap,-,2010,2h 6m,-
+1159,"1,160.",Ant-Man and the Wasp: Quantumania,Peyton Reed,-,2023,2h 4m,48
+1160,"1,161.",The Lost City,Aaron Nee,Adam Nee,2022,1h 52m,60
+1161,"1,162.",Justice League,Zack Snyder,-,2017,2h,45
+1162,"1,163.",San Andreas,Brad Peyton,-,2015,1h 54m,43
+1163,"1,164.",Ambulance,Michael Bay,-,2022,2h 16m,55
+1164,"1,165.",Mission: Impossible II,John Woo,-,2000,2h 3m,59
+1165,"1,166.",The Expendables 3,Patrick Hughes,-,2014,2h 6m,35
+1166,"1,167.",6 Underground,Michael Bay,-,2019,2h 8m,41
+1167,"1,168.",Jack Reacher: Never Go Back,Edward Zwick,-,2016,1h 58m,47
+1168,"1,169.",Lou,Anna Foerster,-,2022,1h 47m,51
+1169,"1,170.",Code 8,Jeff Chan,-,2019,1h 38m,48
+1170,"1,171.",Jurassic World: Fallen Kingdom,J.A. Bayona,-,2018,2h 8m,51
+1171,"1,172.",Day Shift,-,-,2022,1h 53m,51
+1172,"1,173.",Mortal Engines,Christian Rivers,-,2018,2h 8m,44
+1173,"1,174.",Lightyear,Angus MacLane,-,2022,1h 45m,60
+1174,"1,175.",Rambo: Last Blood,Adrian Grunberg,-,2019,1h 29m,26
+1175,"1,176.",Blood Red Sky,Peter Thorwarth,-,2021,2h 1m,43
+1176,"1,177.",The Sorcerer's Apprentice,Jon Turteltaub,-,2010,1h 49m,46
+1177,"1,178.",RoboCop,José Padilha,-,2014,1h 57m,52
+1178,"1,179.",Superman Returns,Bryan Singer,-,2006,2h 34m,72
+1179,"1,180.",Hitman's Wife's Bodyguard,Patrick Hughes,-,2021,1h 40m,32
+1180,"1,181.",-,-,-,-,-,-
+1181,"1,182.",-,-,-,-,-,-
+1182,"1,183.",-,-,-,-,-,-
+1183,"1,184.",-,-,-,-,-,-
+1184,"1,185.",-,-,-,-,-,-
+1185,"1,186.",-,-,-,-,-,-
+1186,"1,187.",-,-,-,-,-,-
+1187,"1,188.",-,-,-,-,-,-
+1188,"1,189.",-,-,-,-,-,-
+1189,"1,190.",-,-,-,-,-,-
+1190,"1,191.",-,-,-,-,-,-
+1191,"1,192.",-,-,-,-,-,-
+1192,"1,193.",-,-,-,-,-,-
+1193,"1,194.",-,-,-,-,-,-
+1194,"1,195.",-,-,-,-,-,-
+1195,"1,196.",-,-,-,-,-,-
+1196,"1,197.",-,-,-,-,-,-
+1197,"1,198.",-,-,-,-,-,-
+1198,"1,199.",-,-,-,-,-,-
+1199,"1,200.",-,-,-,-,-,-
+1200,"1,201.",-,-,-,-,-,-
+1201,"1,202.",-,-,-,-,-,-
+1202,"1,203.",-,-,-,-,-,-
+1203,"1,204.",-,-,-,-,-,-
+1204,"1,205.",-,-,-,-,-,-
+1205,"1,206.",-,-,-,-,-,-
+1206,"1,207.",-,-,-,-,-,-
+1207,"1,208.",-,-,-,-,-,-
+1208,"1,209.",-,-,-,-,-,-
+1209,"1,210.",-,-,-,-,-,-
+1210,"1,211.",-,-,-,-,-,-
+1211,"1,212.",-,-,-,-,-,-
+1212,"1,213.",-,-,-,-,-,-
+1213,"1,214.",-,-,-,-,-,-
+1214,"1,215.",-,-,-,-,-,-
+1215,"1,216.",-,-,-,-,-,-
+1216,"1,217.",-,-,-,-,-,-
+1217,"1,218.",-,-,-,-,-,-
+1218,"1,219.",-,-,-,-,-,-
+1219,"1,220.",-,-,-,-,-,-
+1220,"1,221.",-,-,-,-,-,-
+1221,"1,222.",-,-,-,-,-,-
+1222,"1,223.",Solomon Kane,M.J. Bassett,-,2009,1h 44m,48
+1223,"1,224.",Red State,Kevin Smith,-,2011,1h 28m,50
+1224,"1,225.",Broken City,Allen Hughes,-,2013,1h 49m,49
+1225,"1,226.",The Promise,Terry George,-,2016,2h 13m,49
+1226,"1,227.",30 Minutes or Less,-,-,2011,1h 23m,49
+1227,"1,228.",Flight of the Phoenix,John Moore,-,2004,1h 53m,47
+1228,"1,229.",Point of No Return,-,-,1993,1h 49m,53
+1229,"1,230.",Hobo with a Shotgun,Jason Eisener,-,2011,1h 26m,55
+1230,"1,231.",Ironclad,-,-,2011,2h 1m,42
+1231,"1,232.",Conquest of the Planet of the Apes,J. Lee Thompson,-,1972,1h 28m,49
+1232,"1,233.",Undisputed,Walter Hill,-,2002,1h 34m,58
+1233,"1,234.","Tomorrow, When the War Began",Stuart Beattie,-,2010,1h 44m,54
+1234,"1,235.",Gringo,Nash Edgerton,-,2018,1h 51m,46
+1235,"1,236.",The Replacement Killers,Antoine Fuqua,-,1998,1h 27m,42
+1236,"1,237.",Murder at 1600,-,-,1997,1h 47m,47
+1237,"1,238.",Welcome to the Punch,Eran Creevy,-,2013,1h 39m,49
+1238,"1,239.",The Lovebirds,Michael Showalter,-,2020,1h 26m,59
+1239,"1,240.",Seeking Justice,Roger Donaldson,-,2011,1h 45m,38
+1240,"1,241.",15 Minutes,John Herzfeld,-,2001,2h,34
+1241,"1,242.",Antitrust,Peter Howitt,-,2001,1h 48m,31
+1242,"1,243.",Chennai Express,Rohit Shetty,-,2013,2h 21m,45
+1243,"1,244.",Thunivu,H. Vinoth,-,2023,2h 26m,-
+1244,"1,245.",Sooryavanshi,Rohit Shetty,-,2021,-,-
+1245,"1,246.",Shazam! Fury of the Gods,-,-,2023,2h 10m,47
+1246,"1,247.",The Fast and the Furious: Tokyo Drift,Justin Lin,-,2006,1h 44m,45
+1247,"1,248.",Don't Breathe 2,Rodo Sayagues,-,2021,1h 38m,46
+1248,"1,249.",Mortal Kombat,Simon McQuoid,-,2021,1h 50m,44
+1249,"1,250.",Murder Mystery,Kyle Newacheck,-,2019,1h 37m,38
+1250,"1,251.",Van Helsing,Stephen Sommers,-,2004,2h 11m,35
+1251,"1,252.",Birds of Prey,Cathy Yan,-,2020,1h 49m,60
+1252,"1,253.",Godzilla: King of the Monsters,Michael Dougherty,-,2019,2h 12m,48
+1253,"1,254.",Immortals,Tarsem Singh,-,2011,1h 50m,46
+1254,"1,255.",Sucker Punch,Zack Snyder,-,2011,1h 50m,33
+1255,"1,256.",S.W.A.T.,Clark Johnson,-,2003,1h 57m,45
+1256,"1,257.",Hercules,Brett Ratner,-,2014,1h 38m,47
+1257,"1,258.",Exodus: Gods and Kings,Ridley Scott,-,2014,2h 30m,52
+1258,"1,259.",Those Who Wish Me Dead,Taylor Sheridan,-,2021,1h 40m,59
+1259,"1,260.",Gunpowder Milkshake,Navot Papushado,-,2021,1h 54m,47
+1260,"1,261.",The Tourist,Florian Henckel von Donnersmarck,-,2010,1h 43m,37
+1261,"1,262.",Speed Racer,Lana Wachowski,Lilly Wachowski,2008,2h 15m,37
+1262,"1,263.",Dante's Peak,Roger Donaldson,-,1997,1h 48m,43
+1263,"1,264.",The Time Machine,Simon Wells,-,2002,1h 36m,42
+1264,"1,265.",Unhinged,Derrick Borte,-,2020,1h 30m,40
+1265,"1,266.",Miami Vice,Michael Mann,-,2006,2h 12m,66
+1266,"1,267.",G.I. Jane,Ridley Scott,-,1997,2h 5m,62
+1267,"1,268.",Project Power,Henry Joost,Ariel Schulman,2020,1h 53m,51
+1268,"1,269.",Taken 3,Olivier Megaton,-,2014,1h 48m,26
+1269,"1,270.",CHIPS,Dax Shepard,-,2017,1h 40m,28
+1270,"1,271.",Sahara,Breck Eisner,-,2005,2h 4m,41
+1271,"1,272.",Beneath the Planet of the Apes,Ted Post,-,1970,1h 35m,46
+1272,"1,273.",Teenage Mutant Ninja Turtles II: The Secret of the Ooze,Michael Pressman,-,1991,1h 28m,45
+1273,"1,274.",Cowboys & Aliens,Jon Favreau,-,2011,1h 59m,50
+1274,"1,275.",Above the Law,Andrew Davis,-,1988,1h 39m,45
+1275,"1,276.",Honest Thief,Mark Williams,-,2020,1h 39m,46
+1276,"1,277.",The Net,Irwin Winkler,-,1995,1h 54m,51
+1277,"1,278.",Captive State,Rupert Wyatt,-,2019,1h 49m,54
+1278,"1,279.",2.0,S. Shankar,-,2018,2h 28m,-
+1279,"1,280.",The Purge: Election Year,James DeMonaco,-,2016,1h 48m,55
+1280,"1,281.",Transporter 3,Olivier Megaton,-,2008,1h 44m,51
+1281,"1,282.",The Lego Ninjago Movie,Charlie Bean,Paul Fisher,2017,1h 41m,55
+1282,"1,283.",Shaft,John Singleton,-,2000,1h 39m,50
+1283,"1,284.",The Shadow,Russell Mulcahy,-,1994,1h 48m,50
+1284,"1,285.",The Spy Who Dumped Me,Susanna Fogel,-,2018,1h 57m,52
+1285,"1,286.",First Knight,-,-,1995,2h 14m,57
+1286,"1,287.",A Man Apart,F. Gary Gray,-,2003,1h 49m,36
+1287,"1,288.",Valhalla Rising,Nicolas Winding Refn,-,2009,1h 33m,61
+1288,"1,289.",Soldier,Paul W.S. Anderson,-,1998,1h 39m,-
+1289,"1,290.",The Hunted,William Friedkin,-,2003,1h 34m,40
+1290,"1,291.",Jimmy Neutron: Boy Genius,John A. Davis,-,2001,1h 22m,65
+1291,"1,292.",Erased,Philipp Stölzl,-,2012,1h 40m,34
+1292,"1,293.",The Peacemaker,Mimi Leder,-,1997,2h 4m,43
+1293,"1,294.",Varisu,-,-,2023,2h 49m,-
+1294,"1,295.",Firestarter,Mark L. Lester,-,1984,1h 54m,50
+1295,"1,296.",Lockout,James Mather,Steve Saint Leger,2012,1h 35m,48
+1296,"1,297.",Carriers,David Pastor,Àlex Pastor,2009,1h 24m,-
+1297,"1,298.",Automata,Gabe Ibáñez,-,2014,1h 49m,37
+1298,"1,299.",Bird on a Wire,-,-,1990,1h 50m,36
+1299,"1,300.",The Code,-,-,2009,1h 44m,-
+1300,"1,301.",Wrongfully Accused,Pat Proft,-,1998,1h 27m,-
+1301,"1,302.",The Big Hit,-,-,1998,1h 31m,31
+1302,"1,303.",The Condemned,Scott Wiper,-,2007,1h 53m,23
+1303,"1,304.",Man of Tai Chi,-,-,2013,1h 45m,52
+1304,"1,305.",The Machine,Caradog W. James,-,2013,1h 31m,52
+1305,"1,306.",K-9,-,-,1989,1h 41m,44
+1306,"1,307.",The Tournament,-,-,2009,1h 35m,-
+1307,"1,308.",Kick,Sajid Nadiadwala,-,2014,2h 26m,-
+1308,"1,309.",2 Fast 2 Furious,John Singleton,-,2003,1h 47m,38
+1309,"1,310.",Suicide Squad,David Ayer,-,2016,2h 3m,40
+1310,"1,311.",The Great Wall,Yimou Zhang,-,2016,1h 43m,42
+1311,"1,312.",Venom: Let There Be Carnage,Andy Serkis,-,2021,1h 37m,49
+1312,"1,313.",Transformers: Revenge of the Fallen,Michael Bay,-,2009,2h 29m,35
+1313,"1,314.",Conan the Destroyer,Richard Fleischer,-,1984,1h 43m,53
+1314,"1,315.",Deep Blue Sea,Renny Harlin,-,1999,1h 45m,54
+1315,"1,316.",Underwater,William Eubank,-,2020,1h 35m,48
+1316,"1,317.",The Brothers Grimm,Terry Gilliam,-,2005,1h 58m,51
+1317,"1,318.",Teenage Mutant Ninja Turtles: Out of the Shadows,Dave Green,-,2016,1h 52m,40
+1318,"1,319.",Jurassic Park III,Joe Johnston,-,2001,1h 32m,42
+1319,"1,320.",Punisher: War Zone,Lexi Alexander,-,2008,1h 43m,30
+1320,"1,321.",Power Rangers,Dean Israelite,-,2017,2h 4m,44
+1321,"1,322.",Pathaan,Siddharth Anand,-,2023,2h 26m,47
+1322,"1,323.",The Last Witch Hunter,Breck Eisner,-,2015,1h 46m,34
+1323,"1,324.",Into the Blue,-,-,2005,1h 50m,45
+1324,"1,325.",London Has Fallen,Babak Najafi,-,2016,1h 39m,28
+1325,"1,326.",The Wandering Earth,Frant Gwo,-,2019,2h 5m,57
+1326,"1,327.",Six Days Seven Nights,-,-,1998,1h 42m,51
+1327,"1,328.",Iron Sky,Timo Vuorensola,-,2012,1h 33m,-
+1328,"1,329.",Abraham Lincoln: Vampire Hunter,Timur Bekmambetov,-,2012,1h 45m,42
+1329,"1,330.",The 6th Day,Roger Spottiswoode,-,2000,2h 3m,49
+1330,"1,331.",The Black Hole,Gary Nelson,-,1979,1h 38m,52
+1331,"1,332.",The Rookie,-,-,1990,2h,41
+1332,"1,333.",Vertical Limit,Martin Campbell,-,2000,2h 4m,48
+1333,"1,334.",Doomsday,Neil Marshall,-,2008,1h 45m,51
+1334,"1,335.",Passenger 57,-,-,1992,1h 24m,50
+1335,"1,336.",Keeping Up with the Joneses,Greg Mottola,-,2016,1h 45m,34
+1336,"1,337.",Star Wars: The Clone Wars,Dave Filoni,-,2008,1h 38m,35
+1337,"1,338.",Sanctum,Alister Grierson,-,2011,1h 48m,42
+1338,"1,339.",The Legend of Zorro,Martin Campbell,-,2005,2h 9m,47
+1339,"1,340.",Domino,Tony Scott,-,2005,2h 7m,36
+1340,"1,341.",Firefox,-,-,1982,2h 16m,44
+1341,"1,342.",Braven,-,-,2018,1h 34m,61
+1342,"1,343.",The One,James Wong,-,2001,1h 27m,25
+1343,"1,344.",Daylight,-,-,1996,1h 54m,47
+1344,"1,345.",The Golden Child,Michael Ritchie,-,1986,1h 34m,37
+1345,"1,346.",Red Tails,Anthony Hemingway,-,2012,2h 5m,46
+1346,"1,347.",The Fan,Tony Scott,-,1996,1h 56m,32
+1347,"1,348.",Timecop,Peter Hyams,-,1994,1h 39m,48
+1348,"1,349.",Fatman,Eshom Nelms,Ian Nelms,2020,1h 40m,40
+1349,"1,350.",Undercover Brother,-,-,2002,1h 26m,69
+1350,"1,351.",Gone,-,-,2012,1h 34m,36
+1351,"1,352.",Kidnap,Luis Prieto,-,2017,1h 35m,44
+1352,"1,353.",Another 48 Hrs.,-,-,1990,1h 35m,23
+1353,"1,354.",3000 Miles to Graceland,Demian Lichtenstein,-,2001,2h 5m,21
+1354,"1,355.",Ride Along 2,Tim Story,-,2016,1h 42m,32
+1355,"1,356.",Fortress,Stuart Gordon,-,1992,1h 35m,48
+1356,"1,357.",Hard Rain,-,-,1998,1h 37m,36
+1357,"1,358.",Men at Work,-,-,1990,1h 38m,34
+1358,"1,359.",The Double,Michael Brandt,-,2011,1h 38m,37
+1359,"1,360.",Tiger Lives,Mehmet Tutkun,Ali Abbas Zafar,2017,2h 41m,-
+1360,"1,361.",Ghosted,-,-,2023,1h 56m,34
+1361,"1,362.",The School for Good and Evil,Paul Feig,-,2022,2h 27m,30
+1362,"1,363.",Oldboy,Spike Lee,-,2013,1h 44m,49
+1363,"1,364.",Teenage Mutant Ninja Turtles,Jonathan Liebesman,-,2014,1h 41m,31
+1364,"1,365.",Army of the Dead,Zack Snyder,-,2021,2h 28m,57
+1365,"1,366.",Battleship,Peter Berg,-,2012,2h 11m,41
+1366,"1,367.",Noah,Darren Aronofsky,-,2014,2h 18m,68
+1367,"1,368.",2012,Roland Emmerich,-,2009,2h 38m,49
+1368,"1,369.",Clash of the Titans,Louis Leterrier,-,2010,1h 46m,39
+1369,"1,370.",Mortal Kombat,Paul W.S. Anderson,-,1995,1h 41m,60
+1370,"1,371.",Species,Roger Donaldson,-,1995,1h 48m,49
+1371,"1,372.",The Man from Toronto,-,-,2022,1h 50m,34
+1372,"1,373.",The League of Extraordinary Gentlemen,Stephen Norrington,-,2003,1h 50m,30
+1373,"1,374.",xXx,Rob Cohen,-,2002,2h 4m,48
+1374,"1,375.",End of Days,Peter Hyams,-,1999,2h 2m,33
+1375,"1,376.",Cobra,George P. Cosmatos,-,1986,1h 27m,25
+1376,"1,377.",Troll,-,-,2022,1h 41m,62
+1377,"1,378.",Blade: Trinity,David S. Goyer,-,2004,1h 53m,38
+1378,"1,379.",Hollow Man,Paul Verhoeven,-,2000,1h 52m,24
+1379,"1,380.",Journey to the Center of the Earth,Eric Brevig,-,2008,1h 33m,57
+1380,"1,381.",Over the Top,Menahem Golan,-,1987,1h 33m,40
+1381,"1,382.",RoboCop 2,Irvin Kershner,-,1990,1h 57m,42
+1382,"1,383.",Without Remorse,Stefano Sollima,-,2021,1h 49m,41
+1383,"1,384.",Haywire,Steven Soderbergh,-,2011,1h 33m,67
+1384,"1,385.",Lake Placid,-,-,1999,1h 22m,34
+1385,"1,386.",The Mortal Instruments: City of Bones,Harald Zwart,-,2013,2h 10m,33
+1386,"1,387.",Pride and Prejudice and Zombies,Burr Steers,-,2016,1h 48m,45
+1387,"1,388.",Extinction,Ben Young,-,2018,1h 35m,40
+1388,"1,389.",Wild Hogs,Walt Becker,-,2007,1h 40m,27
+1389,"1,390.",Rambo III,Peter MacDonald,-,1988,1h 42m,36
+1390,"1,391.",Morgan,Luke Scott,-,2016,1h 32m,48
+1391,"1,392.",The Host,Andrew Niccol,-,2013,2h 5m,35
+1392,"1,393.",Straw Dogs,Rod Lurie,-,2011,1h 50m,45
+1393,"1,394.",1941,Steven Spielberg,-,1979,1h 58m,34
+1394,"1,395.",Resident Evil: Afterlife,Paul W.S. Anderson,-,2010,1h 36m,37
+1395,"1,396.",Skyscraper,Rawson Marshall Thurber,-,2018,1h 42m,51
+1396,"1,397.",Into the Storm,Steven Quale,-,2014,1h 29m,44
+1397,"1,398.",Around the World in 80 Days,Frank Coraci,-,2004,2h,49
+1398,"1,399.",The Green Hornet,Michel Gondry,-,2011,1h 59m,39
+1399,"1,400.",Hard to Kill,-,-,1990,1h 36m,41
+1400,"1,401.",The Gunman,Pierre Morel,-,2015,1h 55m,39
+1401,"1,402.",Striking Distance,-,-,1993,1h 42m,36
+1402,"1,403.",Cirque du Freak: The Vampire's Assistant,Paul Weitz,-,2009,1h 49m,43
+1403,"1,404.",Reindeer Games,-,-,2000,1h 44m,37
+1404,"1,405.",Air America,Roger Spottiswoode,-,1990,1h 53m,33
+1405,"1,406.",Sudden Death,-,-,1995,1h 51m,-
+1406,"1,407.",Bulletproof,-,-,1996,1h 24m,30
+1407,"1,408.",Cradle 2 the Grave,Andrzej Bartkowiak,-,2003,1h 41m,36
+1408,"1,409.",Firewall,Richard Loncraine,-,2006,1h 45m,45
+1409,"1,410.",Taxi 3,-,-,2003,1h 24m,-
+1410,"1,411.",Samrat Prithviraj,Chandra Prakash Dwivedi,-,2022,-,-
+1411,"1,412.",Murder Mystery 2,Jeremy Garelick,-,2023,1h 30m,44
+1412,"1,413.",Mulan,Niki Caro,-,2020,1h 55m,66
+1413,"1,414.",The Matrix Resurrections,Lana Wachowski,-,2021,2h 28m,63
+1414,"1,415.",Memory,-,-,2022,1h 54m,41
+1415,"1,416.",Chaos Walking,Doug Liman,-,2021,1h 49m,38
+1416,"1,417.",The Three Musketeers,Paul W.S. Anderson,-,2011,1h 50m,35
+1417,"1,418.",Escape Room: Tournament of Champions,-,-,2021,1h 28m,48
+1418,"1,419.",Mechanic: Resurrection,Dennis Gansel,-,2016,1h 38m,38
+1419,"1,420.",Planet of the Apes,Tim Burton,-,2001,1h 59m,50
+1420,"1,421.",X-Men: Dark Phoenix,Simon Kinberg,-,2019,1h 53m,43
+1421,"1,422.",G.I. Joe: The Rise of Cobra,Stephen Sommers,-,2009,1h 58m,32
+1422,"1,423.",Fantastic Four,Tim Story,-,2005,1h 46m,40
+1423,"1,424.",Bloodshot,Dave Wilson,-,2020,1h 49m,44
+1424,"1,425.",G.I. Joe: Retaliation,Jon M. Chu,-,2013,1h 50m,41
+1425,"1,426.",Samaritan,Julius Avery,-,2022,1h 42m,45
+1426,"1,427.",Freddy vs. Jason,Ronny Yu,-,2003,1h 37m,37
+1427,"1,428.",Underworld: Blood Wars,-,-,2016,1h 31m,23
+1428,"1,429.",Lara Croft: Tomb Raider,Simon West,-,2001,1h 40m,33
+1429,"1,430.",Buffy the Vampire Slayer,Fran Rubel Kuzui,-,1992,1h 26m,48
+1430,"1,431.",Journey 2: The Mysterious Island,Brad Peyton,-,2012,1h 34m,41
+1431,"1,432.",Crocodile Dundee II,John Cornell,-,1988,1h 48m,41
+1432,"1,433.",Allegiant,Robert Schwentke,-,2016,2h,33
+1433,"1,434.",Pan,Joe Wright,-,2015,1h 51m,36
+1434,"1,435.",Hitman: Agent 47,Aleksander Bach,-,2015,1h 36m,28
+1435,"1,436.",Only God Forgives,Nicolas Winding Refn,-,2013,1h 30m,37
+1436,"1,437.",Fool's Gold,Andy Tennant,-,2008,1h 52m,29
+1437,"1,438.",The Do-Over,-,-,2016,1h 48m,22
+1438,"1,439.",Poseidon,Wolfgang Petersen,-,2006,1h 38m,50
+1439,"1,440.",Wrath of the Titans,Jonathan Liebesman,-,2012,1h 39m,37
+1440,"1,441.",Cooties,Jonathan Milott,Cary Murnion,2014,1h 28m,49
+1441,"1,442.",Escape from L.A.,John Carpenter,-,1996,1h 41m,54
+1442,"1,443.",The Darkest Minds,Jennifer Yuh Nelson,-,2018,1h 44m,39
+1443,"1,444.",Gamer,Mark Neveldine,Brian Taylor,2009,1h 35m,27
+1444,"1,445.",Ben-Hur,Timur Bekmambetov,-,2016,2h 3m,38
+1445,"1,446.",Priest,Scott Stewart,-,2011,1h 27m,41
+1446,"1,447.",Gemini Man,Ang Lee,-,2019,1h 57m,38
+1447,"1,448.",Cutthroat Island,Renny Harlin,-,1995,2h 4m,37
+1448,"1,449.",Battle Los Angeles,Jonathan Liebesman,-,2011,1h 56m,37
+1449,"1,450.",Race to Witch Mountain,Andy Fickman,-,2009,1h 38m,52
+1450,"1,451.",Sabotage,David Ayer,-,2014,1h 49m,41
+1451,"1,452.",Mighty Joe Young,Ron Underwood,-,1998,1h 54m,51
+1452,"1,453.",Beckett,Ferdinando Cito Filomarino,-,2021,1h 50m,52
+1453,"1,454.",Bullet to the Head,Walter Hill,-,2012,1h 32m,48
+1454,"1,455.",Hudson Hawk,Michael Lehmann,-,1991,1h 40m,17
+1455,"1,456.",Drillbit Taylor,Steven Brill,-,2008,1h 50m,41
+1456,"1,457.",Red Planet,-,-,2000,1h 46m,34
+1457,"1,458.",Close,Vicky Jewson,-,2019,1h 34m,51
+1458,"1,459.",Nowhere to Run,Robert Harmon,-,1993,1h 34m,41
+1459,"1,460.",Money Train,Joseph Ruben,-,1995,1h 50m,-
+1460,"1,461.",Bandidas,-,-,2006,1h 33m,-
+1461,"1,462.",The Art of War,Christian Duguay,-,2000,1h 57m,30
+1462,"1,463.",Armored,-,-,2009,1h 28m,50
+1463,"1,464.",The Mother,-,-,2023,1h 55m,45
+1464,"1,465.",Jurassic World: Dominion,Colin Trevorrow,-,2022,2h 27m,38
+1465,"1,466.",The Meg,Jon Turteltaub,-,2018,1h 53m,46
+1466,"1,467.",Transformers: Age of Extinction,Michael Bay,-,2014,2h 45m,32
+1467,"1,468.",Pixels,Chris Columbus,-,2015,1h 45m,27
+1468,"1,469.",Strange World,Don Hall,Qui Nguyen,2022,1h 42m,65
+1469,"1,470.",Beast,Baltasar Kormákur,-,2022,1h 33m,54
+1470,"1,471.",Last Seen Alive,-,-,2022,1h 35m,-
+1471,"1,472.",Charlie's Angels,McG,-,2000,1h 38m,52
+1472,"1,473.",Men in Black: International,F. Gary Gray,-,2019,1h 54m,38
+1473,"1,474.",Hulk,Ang Lee,-,2003,2h 18m,54
+1474,"1,475.",Alexander,Oliver Stone,-,2004,2h 55m,40
+1475,"1,476.",Spy Kids,Robert Rodriguez,-,2001,1h 28m,71
+1476,"1,477.",Fantastic Four: Rise of the Silver Surfer,Tim Story,-,2007,1h 32m,45
+1477,"1,478.",Judge Dredd,-,-,1995,1h 36m,-
+1478,"1,479.",You Don't Mess with the Zohan,Dennis Dugan,-,2008,1h 53m,54
+1479,"1,480.",The Dark Tower,Nikolaj Arcel,-,2017,1h 35m,34
+1480,"1,481.",The Pacifier,Adam Shankman,-,2005,1h 35m,30
+1481,"1,482.",Assassin's Creed,Justin Kurzel,-,2016,1h 55m,36
+1482,"1,483.",Alien vs. Predator,Paul W.S. Anderson,-,2004,1h 41m,29
+1483,"1,484.",Pacific Rim: Uprising,Steven S. DeKnight,-,2018,1h 51m,44
+1484,"1,485.",The Specialist,Luis Llosa,-,1994,1h 50m,-
+1485,"1,486.",R.I.P.D.,-,-,2013,1h 36m,25
+1486,"1,487.",Johnny Mnemonic,Robert Longo,-,1995,1h 36m,36
+1487,"1,488.",Wild Card,-,-,2015,1h 32m,40
+1488,"1,489.",Machete Kills,Robert Rodriguez,-,2013,1h 47m,41
+1489,"1,490.",Jay and Silent Bob Reboot,Kevin Smith,-,2019,1h 45m,46
+1490,"1,491.",Timeline,-,-,2003,1h 56m,28
+1491,"1,492.",Jolt,Tanya Wexler,-,2021,1h 31m,48
+1492,"1,493.",The Ice Road,Jonathan Hensleigh,-,2021,1h 49m,42
+1493,"1,494.",Brahmastra Part One: Shiva,Ayan Mukerji,-,2022,2h 47m,57
+1494,"1,495.",Raw Deal,-,-,1986,1h 46m,44
+1495,"1,496.",Double Impact,Sheldon Lettich,-,1991,1h 50m,40
+1496,"1,497.",Hold the Dark,Jeremy Saulnier,-,2018,2h 5m,63
+1497,"1,498.",The Marksman,-,-,2021,1h 48m,44
+1498,"1,499.",Chain Reaction,Andrew Davis,-,1996,1h 47m,43
+1499,"1,500.",National Security,-,-,2003,1h 28m,31
+1500,"1,501.",MacGruber,Jorma Taccone,-,2010,1h 30m,43
+1501,"1,502.",Brick Mansions,Camille Delamarre,-,2014,1h 30m,40
+1502,"1,503.",The Skulls,Rob Cohen,-,2000,1h 46m,24
+1503,"1,504.",The Pink Panther 2,Harald Zwart,-,2009,1h 32m,36
+1504,"1,505.",The Contract,-,-,2006,1h 36m,-
+1505,"1,506.",Survivor,-,-,2015,1h 36m,28
+1506,"1,507.",The Quest,-,-,1996,1h 35m,-
+1507,"1,508.",Exit Wounds,Andrzej Bartkowiak,-,2001,1h 41m,39
+1508,"1,509.",Fire with Fire,David Barrett,-,2012,1h 37m,-
+1509,"1,510.",Bad Company,-,-,2002,1h 56m,37
+1510,"1,511.",12 Rounds,-,-,2009,1h 48m,38
+1511,"1,512.",Sleepless,Baran bo Odar,-,2017,1h 35m,34
+1512,"1,513.",Metro,Thomas Carter,-,1997,1h 57m,41
+1513,"1,514.",Bang Bang,Siddharth Anand,-,2014,2h 33m,-
+1514,"1,515.",Once There Was a Tiger,Mathur Goswami,Kabir Khan,2012,2h 12m,-
+1515,"1,516.",Baywatch,Seth Gordon,-,2017,1h 56m,37
+1516,"1,517.",Willy's Wonderland,Kevin Lewis,-,2021,1h 28m,44
+1517,"1,518.",The Core,-,-,2003,2h 15m,48
+1518,"1,519.",The 355,Simon Kinberg,-,2022,2h 2m,40
+1519,"1,520.",George of the Jungle,Sam Weisman,-,1997,1h 32m,53
+1520,"1,521.",Green Lantern,Martin Campbell,-,2011,1h 54m,39
+1521,"1,522.",The Cloverfield Paradox,Julius Onah,-,2018,1h 42m,37
+1522,"1,523.",The Scorpion King,Chuck Russell,-,2002,1h 32m,45
+1523,"1,524.",Sweet Girl,-,-,2021,1h 50m,46
+1524,"1,525.",Snakes on a Plane,David R. Ellis,-,2006,1h 45m,58
+1525,"1,526.",Pompeii,Paul W.S. Anderson,-,2014,1h 45m,39
+1526,"1,527.",Resident Evil: The Final Chapter,Paul W.S. Anderson,-,2016,1h 47m,49
+1527,"1,528.",Virtuosity,Brett Leonard,-,1995,1h 46m,39
+1528,"1,529.",Seventh Son,Sergei Bodrov,-,2014,1h 42m,30
+1529,"1,530.",Your Highness,David Gordon Green,-,2011,1h 42m,31
+1530,"1,531.",Volcano,Mick Jackson,-,1997,1h 44m,55
+1531,"1,532.",Mortdecai,David Koepp,-,2015,1h 47m,27
+1532,"1,533.",Eight Legged Freaks,Ellory Elkayem,-,2002,1h 39m,53
+1533,"1,534.",Lara Croft: Tomb Raider - The Cradle of Life,Jan de Bont,-,2003,1h 57m,43
+1534,"1,535.",Peninsula,Sang-ho Yeon,-,2020,1h 56m,51
+1535,"1,536.",Star Trek V: The Final Frontier,William Shatner,-,1989,1h 47m,43
+1536,"1,537.",Under Siege 2: Dark Territory,-,-,1995,1h 40m,52
+1537,"1,538.",Beverly Hills Cop III,-,-,1994,1h 44m,16
+1538,"1,539.",The Bounty Hunter,Andy Tennant,-,2010,1h 50m,22
+1539,"1,540.",Collateral Damage,-,-,2002,1h 48m,33
+1540,"1,541.",Stolen,-,-,2012,1h 36m,43
+1541,"1,542.",Beverly Hills Ninja,Dennis Dugan,-,1997,1h 28m,27
+1542,"1,543.",Babylon A.D.,Mathieu Kassovitz,-,2008,1h 30m,26
+1543,"1,544.",Cop Out,Kevin Smith,-,2010,1h 47m,31
+1544,"1,545.",Fighting,Dito Montiel,-,2009,1h 45m,61
+1545,"1,546.",Whiteout,-,-,2009,1h 41m,-
+1546,"1,547.",The Man,Les Mayfield,-,2005,1h 23m,33
+1547,"1,548.",Showtime,Tom Dey,-,2002,1h 35m,32
+1548,"1,549.",Taxi 4,-,-,2007,1h 31m,-
+1549,"1,550.",Gunjan Saxena: The Kargil Girl,ALi Khan AK,Sharan Sharma,2020,1h 52m,-
+1550,"1,551.",65,-,-,2023,1h 33m,40
+1551,"1,552.",Shotgun Wedding,Jason Moore,-,2022,1h 41m,46
+1552,"1,553.",Wonder Woman 1984,Patty Jenkins,-,2020,2h 31m,60
+1553,"1,554.",Gods of Egypt,Alex Proyas,-,2016,2h 7m,25
+1554,"1,555.",The Mummy,Alex Kurtzman,-,2017,1h 50m,34
+1555,"1,556.",Batman Forever,Joel Schumacher,-,1995,2h 1m,51
+1556,"1,557.",Infinite,Antoine Fuqua,-,2021,1h 46m,28
+1557,"1,558.",Spiderhead,-,-,2022,1h 46m,54
+1558,"1,559.",The Forever Purge,Everardo Gout,-,2021,1h 43m,53
+1559,"1,560.",Ava,-,-,2020,1h 36m,39
+1560,"1,561.",Snake Eyes,Robert Schwentke,-,2021,2h 1m,43
+1561,"1,562.",Godzilla,Roland Emmerich,-,1998,2h 19m,32
+1562,"1,563.",Maximum Overdrive,Stephen King,-,1986,1h 38m,24
+1563,"1,564.",Drive Angry,Patrick Lussier,-,2011,1h 44m,44
+1564,"1,565.",Æon Flux,Karyn Kusama,-,2005,1h 33m,36
+1565,"1,566.",Vampire Academy,Mark Waters,-,2014,1h 44m,31
+1566,"1,567.",Big Game,Jalmari Helander,-,2014,1h 50m,53
+1567,"1,568.","Game Over, Man!",Kyle Newacheck,-,2018,1h 41m,32
+1568,"1,569.",Killers,Robert Luketic,-,2010,1h 40m,21
+1569,"1,570.",Blackhat,Michael Mann,-,2015,2h 13m,51
+1570,"1,571.",The Happytime Murders,Brian Henson,-,2018,1h 31m,27
+1571,"1,572.",Outside the Wire,-,-,2021,1h 54m,45
+1572,"1,573.",Season of the Witch,Dominic Sena,-,2011,1h 35m,28
+1573,"1,574.",The Tuxedo,-,-,2002,1h 38m,30
+1574,"1,575.",The Spy Next Door,Brian Levant,-,2010,1h 34m,27
+1575,"1,576.",D3: The Mighty Ducks,Robert Lieberman,-,1996,1h 44m,-
+1576,"1,577.",The Last Legion,Doug Lefler,-,2007,1h 41m,37
+1577,"1,578.",The Man with the Iron Fists,RZA,-,2012,1h 35m,51
+1578,"1,579.",Pathfinder,Marcus Nispel,-,2007,1h 39m,29
+1579,"1,580.",Battle for the Planet of the Apes,J. Lee Thompson,-,1973,1h 33m,40
+1580,"1,581.",Killing Season,-,-,2013,1h 31m,25
+1581,"1,582.",Bulletproof Monk,Paul Hunter,-,2003,1h 44m,40
+1582,"1,583.",I Spy,Betty Thomas,-,2002,1h 37m,35
+1583,"1,584.",Dhoom 3,Vijay Krishna Acharya,-,2013,2h 52m,61
+1584,"1,585.",Masters of the Universe,Gary Goddard,-,1987,1h 46m,35
+1585,"1,586.",Geostorm,Dean Devlin,-,2017,1h 49m,21
+1586,"1,587.",The Predator,Shane Black,-,2018,1h 47m,48
+1587,"1,588.",The New Mutants,Josh Boone,-,2020,1h 34m,43
+1588,"1,589.",Point Break,Ericson Core,-,2015,1h 54m,34
+1589,"1,590.",Ghost Rider,Mark Steven Johnson,-,2007,1h 50m,35
+1590,"1,591.",Jupiter Ascending,Lana Wachowski,Lilly Wachowski,2015,2h 7m,40
+1591,"1,592.",Daredevil,Mark Steven Johnson,-,2003,1h 43m,42
+1592,"1,593.",Tank Girl,-,-,1995,1h 44m,46
+1593,"1,594.",Robin Hood,Otto Bathurst,-,2018,1h 56m,32
+1594,"1,595.",Congo,Frank Marshall,-,1995,1h 49m,22
+1595,"1,596.",Resident Evil: Retribution,Paul W.S. Anderson,-,2012,1h 35m,39
+1596,"1,597.",Red Dawn,Dan Bradley,-,2012,1h 33m,31
+1597,"1,598.",The Karate Kid Part III,John G. Avildsen,-,1989,1h 52m,36
+1598,"1,599.",Land of the Lost,Brad Silberling,-,2009,1h 42m,32
+1599,"1,600.",Max Payne,John Moore,-,2008,1h 40m,31
+1600,"1,601.",Spy Kids 2: Island of Lost Dreams,Robert Rodriguez,-,2002,1h 40m,66
+1601,"1,602.",One for the Money,Julie Anne Robinson,-,2012,1h 31m,22
+1602,"1,603.",Spy Hard,-,-,1996,1h 21m,25
+1603,"1,604.",The Colony,Jeff Renfroe,-,2013,1h 35m,28
+1604,"1,605.",Hollywood Homicide,Ron Shelton,-,2003,1h 56m,47
+1605,"1,606.",Bangkok Dangerous,Danny Pang,Oxide Chun Pang,2008,1h 39m,24
+1606,"1,607.",Universal Soldier: Regeneration,-,-,2009,1h 37m,70
+1607,"1,608.",The Way to Paradise,Enzo Zelocchi,-,2011,-,-
+1608,"1,609.",F9: The Fast Saga,Justin Lin,-,2021,2h 23m,58
+1609,"1,610.",Transformers: The Last Knight,Michael Bay,-,2017,2h 34m,27
+1610,"1,611.",Morbius,Daniel Espinosa,-,2022,1h 44m,35
+1611,"1,612.",The Covenant,-,-,2006,1h 37m,19
+1612,"1,613.",Resident Evil: Welcome to Raccoon City,Johannes Roberts,-,2021,1h 47m,44
+1613,"1,614.",Hellboy,Neil Marshall,-,2019,2h,31
+1614,"1,615.",Legion,-,-,2010,1h 40m,32
+1615,"1,616.",The Mummy: Tomb of the Dragon Emperor,Rob Cohen,-,2008,1h 52m,31
+1616,"1,617.",xXx: Return of Xander Cage,D.J. Caruso,-,2017,1h 47m,42
+1617,"1,618.",Spawn,Mark A.Z. Dippé,-,1997,1h 36m,34
+1618,"1,619.",The 5th Wave,J Blakeson,-,2016,1h 52m,33
+1619,"1,620.",Mighty Morphin Power Rangers,Bryan Spicer,-,1995,1h 35m,40
+1620,"1,621.",Independence Day: Resurgence,Roland Emmerich,-,2016,2h,32
+1621,"1,622.",Monster Hunter,Paul W.S. Anderson,-,2020,1h 43m,47
+1622,"1,623.",The Bad Batch,Ana Lily Amirpour,-,2016,1h 58m,62
+1623,"1,624.",Paul Blart: Mall Cop,Steve Carr,-,2009,1h 31m,39
+1624,"1,625.",Doom,Andrzej Bartkowiak,-,2005,1h 45m,34
+1625,"1,626.",Lost in Space,Stephen Hopkins,-,1998,2h 10m,42
+1626,"1,627.",Big Momma's House,Raja Gosnell,-,2000,1h 39m,33
+1627,"1,628.",A Good Day to Die Hard,John Moore,-,2013,1h 38m,28
+1628,"1,629.",The First Purge,Gerard McMurray,-,2018,1h 37m,54
+1629,"1,630.",The Transporter Refueled,-,-,2015,1h 36m,32
+1630,"1,631.",The Medallion,Gordon Chan,-,2003,1h 28m,38
+1631,"1,632.",Mutant Chronicles,-,-,2008,1h 51m,-
+1632,"1,633.",Beast,Nelson Dilipkumar,-,2022,-,-
+1633,"1,634.",Bachchhan Paandey,Farhad Samji,-,2022,-,-
+1634,"1,635.",Moonfall,-,-,2022,2h 10m,41
+1635,"1,636.",Conan the Barbarian,Marcus Nispel,-,2011,1h 53m,36
+1636,"1,637.",Red Sonja,Richard Fleischer,-,1985,1h 29m,35
+1637,"1,638.",Eragon,Stefen Fangmeier,-,2006,1h 44m,38
+1638,"1,639.","I, Frankenstein",Stuart Beattie,-,2014,1h 32m,30
+1639,"1,640.","10,000 BC",-,-,2008,1h 49m,34
+1640,"1,641.",Stealth,Rob Cohen,-,2005,2h 1m,35
+1641,"1,642.",Agent Cody Banks,Harald Zwart,-,2003,1h 42m,41
+1642,"1,643.",Abduction,John Singleton,-,2011,1h 46m,25
+1643,"1,644.",Miss Congeniality 2: Armed & Fabulous,John Pasquin,-,2005,1h 55m,34
+1644,"1,645.",G-Force,Hoyt Yeatman,-,2009,1h 28m,41
+1645,"1,646.",Cats & Dogs,Lawrence Guterman,-,2001,1h 27m,47
+1646,"1,647.",Hot Pursuit,Anne Fletcher,-,2015,1h 27m,31
+1647,"1,648.",Stormbreaker,Geoffrey Sax,-,2006,1h 33m,42
+1648,"1,649.",Alex Cross,Rob Cohen,-,2012,1h 41m,30
+1649,"1,650.",Get Carter,Stephen Kay,-,2000,1h 42m,24
+1650,"1,651.",Charlie's Angels,Elizabeth Banks,-,2019,1h 58m,52
+1651,"1,652.",The Twilight Saga: Eclipse,David Slade,-,2010,2h 4m,58
+1652,"1,653.",Shadow in the Cloud,Roseanne Liang,-,2020,1h 23m,66
+1653,"1,654.",How It Ends,David M. Rosenthal,-,2018,1h 53m,36
+1654,"1,655.",Superman III,Richard Lester,-,1983,2h 5m,44
+1655,"1,656.",Cyborg,-,-,1989,1h 26m,24
+1656,"1,657.",The Phantom,Simon Wincer,-,1996,1h 40m,53
+1657,"1,658.",Virus,-,-,1999,1h 39m,19
+1658,"1,659.",See No Evil,Gregory Dark,-,2006,1h 24m,17
+1659,"1,660.",Dilwale,Rohit Shetty,-,2015,2h 38m,-
+1660,"1,661.",Wild Wild West,Barry Sonnenfeld,-,1999,1h 46m,38
+1661,"1,662.",The Darkest Hour,Chris Gorak,-,2011,1h 29m,18
+1662,"1,663.",Dracula 2000,Patrick Lussier,-,2000,1h 39m,26
+1663,"1,664.",Charlie's Angels: Full Throttle,McG,-,2003,1h 46m,48
+1664,"1,665.",The Cold Light of Day,Mabrouk El Mechri,-,2012,1h 33m,22
+1665,"1,666.",Ghosts of Mars,John Carpenter,-,2001,1h 38m,35
+1666,"1,667.",Blues Brothers 2000,-,-,1998,2h 3m,-
+1667,"1,668.",Happy New Year,Farah Khan,-,2014,3h,-
+1668,"1,669.",Anaconda,Luis Llosa,-,1997,1h 29m,37
+1669,"1,670.",The Ridiculous 6,-,-,2015,1h 59m,18
+1670,"1,671.",DOA: Dead or Alive,Corey Yuen,-,2006,1h 27m,38
+1671,"1,672.",After Earth,M. Night Shyamalan,-,2013,1h 40m,33
+1672,"1,673.",Teenage Mutant Ninja Turtles III,Stuart Gillard,-,1993,1h 36m,40
+1673,"1,674.",Crocodile Dundee in Los Angeles,Simon Wincer,-,2001,1h 35m,37
+1674,"1,675.",Tekken,-,-,2010,1h 32m,-
+1675,"1,676.",Double Team,Hark Tsui,-,1997,1h 33m,44
+1676,"1,677.",Godsend,-,-,2004,1h 42m,24
+1677,"1,678.",Howard the Duck,Willard Huyck,-,1986,1h 50m,28
+1678,"1,679.",Zoolander 2,Ben Stiller,-,2016,1h 41m,34
+1679,"1,680.",Elektra,Rob Bowman,-,2005,1h 37m,34
+1680,"1,681.",Anacondas: The Hunt for the Blood Orchid,Dwight H. Little,-,2004,1h 37m,40
+1681,"1,682.",The Spirit,Frank Miller,-,2008,1h 43m,30
+1682,"1,683.",The Marine,-,-,2006,1h 32m,45
+1683,"1,684.",Jonah Hex,Jimmy Hayward,-,2010,1h 21m,33
+1684,"1,685.",Shamshera,Karan Malhotra,-,2022,-,-
+1685,"1,686.",Ra.One,Anubhav Sinha,-,2011,2h 36m,60
+1686,"1,687.",Bodyguard,Siddique,-,2011,2h 10m,41
+1687,"1,688.",Bharat,Ali Abbas Zafar,-,2019,2h 30m,-
+1688,"1,689.",Superhero Movie,Craig Mazin,-,2008,1h 15m,33
+1689,"1,690.",Interceptor,Matthew Reilly,-,2022,1h 39m,51
+1690,"1,691.",Aliens vs. Predator: Requiem,Colin Strause,Greg Strause,2007,1h 34m,29
+1691,"1,692.",Shehzada,-,-,2023,-,-
+1692,"1,693.",Driven,Renny Harlin,-,2001,1h 56m,29
+1693,"1,694.",Snatched,Jonathan Levine,-,2017,1h 30m,45
+1694,"1,695.",Thunder Force,Ben Falcone,-,2021,1h 46m,34
+1695,"1,696.",Species II,Peter Medak,-,1998,1h 33m,19
+1696,"1,697.",Home Alone 3,Raja Gosnell,-,1997,1h 42m,-
+1697,"1,698.",Taxi,Tim Story,-,2004,1h 37m,27
+1698,"1,699.",Skyline,Colin Strause,Greg Strause,2010,1h 32m,26
+1699,"1,700.",xXx: State of the Union,Lee Tamahori,-,2005,1h 41m,37
+1700,"1,701.",The Next Karate Kid,Christopher Cain,-,1994,1h 47m,36
+1701,"1,702.",Kangaroo Jack,David McNally,-,2003,1h 29m,16
+1702,"1,703.",Jason X,James Isaac,-,2001,1h 32m,25
+1703,"1,704.",Cell,-,-,2016,1h 38m,38
+1704,"1,705.",Paul Blart: Mall Cop 2,Andy Fickman,-,2015,1h 34m,13
+1705,"1,706.","Big Mommas: Like Father, Like Son",John Whitesell,-,2011,1h 47m,22
+1706,"1,707.",Fantastic Four,Josh Trank,-,2015,1h 40m,27
+1707,"1,708.",Spy Kids 3: Game Over,Robert Rodriguez,-,2003,1h 24m,57
+1708,"1,709.",Ghost Rider: Spirit of Vengeance,Mark Neveldine,Brian Taylor,2011,1h 36m,34
+1709,"1,710.",Stop! Or My Mom Will Shoot,Roger Spottiswoode,-,1992,1h 27m,-
+1710,"1,711.",Ultraviolet,Kurt Wimmer,-,2006,1h 28m,18
+1711,"1,712.",Inspector Gadget,David Kellogg,-,1999,1h 18m,36
+1712,"1,713.",Highlander II: The Quickening,-,-,1991,1h 31m,31
+1713,"1,714.",The Legend of Hercules,Renny Harlin,-,2014,1h 39m,22
+1714,"1,715.",Universal Soldier: The Return,-,-,1999,1h 23m,24
+1715,"1,716.",Coolie No. 1,David Dhawan,-,2020,2h 14m,-
+1716,"1,717.",RoboCop 3,Fred Dekker,-,1993,1h 44m,40
+1717,"1,718.",Torque,Joseph Kahn,-,2004,1h 24m,41
+1718,"1,719.",Street Fighter,Steven E. de Souza,-,1994,1h 42m,34
+1719,"1,720.",The Last Airbender,M. Night Shyamalan,-,2010,1h 43m,20
+1720,"1,721.",Shark Night,David R. Ellis,-,2011,1h 30m,22
+1721,"1,722.",Speed 2: Cruise Control,Jan de Bont,-,1997,2h 1m,23
+1722,"1,723.",In the Name of the King: A Dungeon Siege Tale,Uwe Boll,-,2007,2h 7m,15
+1723,"1,724.",Escape Plan 2: Hades,-,-,2018,1h 36m,-
+1724,"1,725.",The Avengers,Jeremiah S. Chechik,-,1998,1h 29m,12
+1725,"1,726.",The Adventures of Pluto Nash,Ron Underwood,-,2002,1h 35m,12
+1726,"1,727.",Batman & Robin,Joel Schumacher,-,1997,2h 5m,28
+1727,"1,728.",The Adventures of Sharkboy and Lavagirl 3-D,Robert Rodriguez,-,2005,1h 33m,38
+1728,"1,729.",Superman IV: The Quest for Peace,Sidney J. Furie,-,1987,1h 30m,24
+1729,"1,730.",Dungeons & Dragons,Courtney Solomon,-,2000,1h 47m,14
+1730,"1,731.",Mortal Kombat: Annihilation,-,-,1997,1h 35m,11
+1731,"1,732.",Crimea,-,-,2017,-,-
+1732,"1,733.",Barb Wire,David Hogan,-,1996,1h 38m,40
+1733,"1,734.",Spy Kids 4: All the Time in the World,Robert Rodriguez,-,2011,1h 29m,37
+1734,"1,735.",Catwoman,Pitof,-,2004,1h 44m,27
+1735,"1,736.",Left Behind,Vic Armstrong,-,2014,1h 50m,12
+1736,"1,737.",Rollerball,John McTiernan,-,2002,1h 38m,14
+1737,"1,738.",BloodRayne,Uwe Boll,-,2005,1h 35m,18
+1738,"1,739.",Gunday,Ali Abbas Zafar,-,2014,2h 32m,-
+1739,"1,740.",Liger,Puri Jagannadh,-,2022,-,-
+1740,"1,741.",Dragonball Evolution,James Wong,-,2009,1h 25m,45
+1741,"1,742.",Battlefield Earth,Roger Christian,-,2000,1h 58m,9
+1742,"1,743.",Heropanti 2,Ahmed Khan,-,2022,-,-
+1743,"1,744.",Laxmii,Raghava Lawrence,Balakrishnan Thevar,2020,2h 21m,-
+1744,"1,745.",Alone in the Dark,Uwe Boll,-,2005,1h 36m,9
+1745,"1,746.",The Prototype,Marcelo Grion,-,2022,-,-
+1746,"1,747.",House of the Dead,Uwe Boll,-,2003,1h 30m,15
+1747,"1,748.",Radhe,Prabhu Deva,-,2021,1h 49m,-
+1748,"1,749.",Race 3,Remo D'Souza,-,2018,2h 40m,-
+1749,"1,750.",Angels Apocalypse,-,-,2015,-,-
